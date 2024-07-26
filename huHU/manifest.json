@@ -1,0 +1,9 @@
+{
+  "Name": "magyarítás",
+  "Version": "0.1",
+  "Id": "huHU",
+  "MinimumGameVersion": "0.0.0.0",
+  "Description": "kézzel készült játékmagyarítás :D",
+  "RequiredMods": [
+  ]
+}
