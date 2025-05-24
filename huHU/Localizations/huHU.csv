@@ -323,7 +323,7 @@ Building.LargeMetalPlatform.DisplayName,Nagy vas állvány,
 Building.LargeMetalPlatform.FlavorDescription,"A hódépítészet csúcsa – masszív, stabil, örök.","Heavy metal is a reference to the music genre. This building is massive and made of metal."
 Building.LargePile.DisplayName,Nagy halom,
 Building.LargePile.FlavorDescription,"A rönk bemegy, a rönk kijön. A rönk bemegy, a rönk kijön. Senki sem nézi, hányszor.","""Log"" pun — feel free to adapt."
-Building.LargePowerWheel.Description,"A beaver-operated source of power, redesigned to employ multiple workers.",
+Building.LargePowerWheel.Description,"Több munkást foglalkoztató, fejlett erőkerék.",
 Building.LargePowerWheel.DisplayName,Nagy erőkerék,
 Building.LargePowerWheel.FlavorDescription,"A Vasfogak szerint ez is körhinta… csak kicsit hatékonyabb.",Iron Teeth must be the same as Faction.IronTeeth.DisplayName.
 Building.LargeRowhouse.DisplayName,Nagy sorház,"A rowhouse is a narrow and tall house that is connected to other homes on both sides, often built in a row. Building.Rowhouse"
@@ -745,7 +745,7 @@ Faction.IronTeeth.DisplayName,Vasfogak,Name of a faction
 Faction.Folktails.GameOver.Flavor,"Ha nem élsz a természet ajándékaival, a természet visszaveszi azokat.",Flavor text of the game over panel
 Faction.Folktails.GameOver.Message,"Virágvölgyieid emberi elődeik szomorú sorsára jutottak. Ez a vég.",Text of the game over panel
 Faction.Folktails.WonderCompletionFlavor,"Miután hatalmas gazdagságot és tudást gyűjtöttek, hódjaid megosztották munkájuk gyümölcsét a szenvedő bolygóval. Még sok a tennivaló, de a Föld talán ismét virágozhat.","Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
-Faction.Folktails.WonderCompletionMessage,"Congratulations! You mastered Folktails' nature-oriented ways and used this map's resources to build the faction's wonder.","A message that is shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
+Faction.Folktails.WonderCompletionMessage,"Gratulálunk! Magadévá tetted a Virágvölgyiek természetközpontú életmódját, és a térkép erőforrásait felhasználva felépítetted a frakció csodáját.","A message that is shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
 Faction.IronTeeth.GameOver.Flavor,"„Néha elég egyetlen apró, hibás alkatrész, hogy az egész gép tönkremenjen.",Flavor text of the game over panel
 Faction.IronTeeth.GameOver.Message,"Vasfogaid települése elbukott, nincs esély a helyreállításra. Ez a vég.",Text of the game over panel
 Faction.IronTeeth.WonderCompletionFlavor,"Úttörőid a pusztaságon át szárnyaltak, hátrahagyva a virágzó Vasfogak-telepet. A Föld újjászületéséhez a hódok frissen szerzett jólétét meg kellett osztani.","Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
@@ -1077,7 +1077,7 @@ MapEditor.Brush.NaturalResourceRemoval,Természetes erőforrások eltávolítás
 MapEditor.Brush.NaturalResourceSpawning,Természetes erőforrások,Natural resources meaning trees and bushes
 MapEditor.Brush.RandomizeYieldGrowth,Véletlenszerű hozamnövekedés,"This text is next to a toggle that randomizes the percentage growth of fruit, chestnuts or other things that can be gathered and regrow"
 MapEditor.Brush.RelativeTerrainHeight.Title,Terep magassága (relatív),A tool that changes terrain height by a value relative to the original height.
-MapEditor.Brush.SculptingTerrain,Terrain (sculpting),"Label of the brush that allows the player to sculpt the terrain (e.g. dig tunnels or create overhangs)"
+MapEditor.Brush.SculptingTerrain,Terep (formálás),"Label of the brush that allows the player to sculpt the terrain (e.g. dig tunnels or create overhangs)"
 MapEditor.Brush.Shape.Label,Ecset forma:,
 MapEditor.Brush.Shape.Round,Kerek,
 MapEditor.Brush.Shape.Square,Négyzetes,
@@ -1105,7 +1105,7 @@ MapEditor.SaveMap.SavedAs,Mentve mint: {0},{0} stands for map name. A notificati
 MapEditor.SimulationControls.Reset,Visszaállítás,A button please keep short
 MapEditor.SimulationControls.Tooltip,Vízszimuláció,Short header
 MapEditor.SizePrompt,Adj meg egy méretet {0}x{0} és {1}x{1} között!,{0} and {1} stands for a number
-MapEditor.TerrainIntegrity.Warning,This edit will affect terrain and objects outside the selection.,"Warning shown when the player tries to edit terrain in a way that would affect terrain or objects outside the intended selection."
+MapEditor.TerrainIntegrity.Warning,Ez a kijelölten kívüli terepet is befolyásolja.,"Warning shown when the player tries to edit terrain in a way that would affect terrain or objects outside the intended selection."
 MapEditor.ThumbnailCapturing.CameraPosition,Kamerahelyzet,Label for the controls in map editor that change the position of the thumbnail camera
 MapEditor.ThumbnailCapturing.ClearOverlay,Add meg a méretet {0}x{0} és {1}x{1} között.,Text on the button in map editor that clears the overlay of the thumbnail
 MapEditor.ThumbnailCapturing.Description,Válaszd ki a térkép bélyegképének helyzetét. A térkép mentésekor képernyőkép készül.,Description of the map thumbnail panel in the map editor
@@ -1210,7 +1210,7 @@ Modding.LoadConfirmation,"Biztosan be akarod tölteni?",A message displayed in t
 Modding.LocalSource,Helyi modul,Tooltip saying that the mod is stored locally.
 Modding.MissingMod,"Hiányzó modul.",Shown on a tooltip for an icon that indicates a missing of a mod saved in save file.
 Modding.ModManagerHeader,Modulok,Header of the mod manager panel.
-Modding.ModsIncompatibilityMessage,"You are trying to load a game without mods that it was saved with.",A message displayed in the mod incompatibility dialog box.
+Modding.ModsIncompatibilityMessage,"Úgy próbáltad betölteni a játékot, hogy a mentésben használt modok nem elérhetőek.",A message displayed in the mod incompatibility dialog box.
 Modding.ModWarning.InvalidGameVersion,Ehhez a modulhoz magasabb játékverzió szükséges: {0}.,Message that is shown when a mod requires a higher game version. {0} is the required game version.
 Modding.ModWarning.MissingRequiredMod,Hiányzó kötelező modul: {0}.,Message that is shown when a mod is missing a required mod. {0} is the ID of the required mod.
 Modding.ModWarning.RequiredModInvalidOrder,"A kötelező ""{0}"" modul ennél a modulnál alacsonyabb a betöltési sorrendben.",Message that is shown when a required mod is below the mod in the load order. {0} is the ID of the required mod.
