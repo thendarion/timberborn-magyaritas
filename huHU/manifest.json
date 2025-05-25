@@ -1,9 +1,9 @@
 {
-  "Name": "magyarítás",
-  "Version": "0.2",
+  "Name": "TimberHUN -- magyarítás",
+  "Version": "0.3",
   "Id": "huHU",
   "MinimumGameVersion": "0.0.0.0",
-  "Description": "kézzel készült játékmagyarítás :D",
+  "Description": "Végre a hódok magyar nyelven építhetik településüket. De vajon túlélik-e az aszályokat és a rosszvízáradásokat? :D",
   "RequiredMods": [
   ]
 }

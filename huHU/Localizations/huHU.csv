@@ -1222,7 +1222,7 @@ Modding.RestartWarning,A változtatások csak újraindítás után lépnek élet
 Modding.SavedMods,"A mentés moduljai",A label for the list of mods found in the save file.
 Modding.ShowSavedMods,"Modok: {0}",A label for the button that opens a panel with the list of mods found in the save file. {0} is a placeholder for the number of mods.
 Modding.ShowUploadPanel,Feltöltés,Label of a button that opens the panel with list of mods that can be uploaded to some cloud platform.
-Modding.ThumbnailInfo,"Add a ""thumbnail"" képfájlt a modul könyvtárába a miniatűr beállításához. A fájl mérete nem haladhatja meg az 1 MB-ot, és a 16:9 képarány javasolt.",Info text that explains how to set a thumbnail for a mod
+Modding.ThumbnailInfo,"Helyezz egy ""thumbnail"" képfájlt a modul könyvtárába a miniatűr beállításához. A fájl mérete nem haladhatja meg az 1 MB-ot, és a 16:9 képarány javasolt.",Info text that explains how to set a thumbnail for a mod
 Modding.UploadPanelHeader,Modul feltöltése,Header of the panel that allows uploading mods to some cloud platform.
 Modding.VersionMismatch,"Verzióütközés.",Shown on a tooltip for an icon that indicates a version mismatch between the mod saved in save file and the active one.
 Mouse.ScrollDown,Görgetés ↓,Label of the mouse scroll down input
@@ -1505,11 +1505,11 @@ Status.NaturalResources.Drying,Szárazság.,Shown when a plant is dying because 
 Status.NaturalResources.NotEnoughWater,Elfogyott a víz.,Shown when a water plant is dying because its river or lake dried up.
 Status.NaturalResources.TooMuchWater,Árvíz.,Shown when a plant is dying because it is submerged in water.
 Status.Need.BadwaterContamination,Rossz vízzel szennyezett.,This shows up in the selected beaver's panel when it is contaminated. Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
-Status.Need.BadwaterContamination.Short,A hód szennyezett,This shows up as an alert when a beaver is contaminated. Please keep short. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
+Status.Need.BadwaterContamination.Short,Szennyezett hód,This shows up as an alert when a beaver is contaminated. Please keep short. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Status.Need.Biofuel,A botnak kifogyott az üzemanyaga.,This shows up when a bot runs out of fuel.
 Status.Need.Biofuel.Short,Kifogyott az üzemanyag,This shows up when a bot runs out of fuel. Please keep short. Bot should be the same as Bot.PrefabName.
-Status.Need.BrokenTeeth,Eltört fogak.,This shows up when a beaver has broken teeth.
-Status.Need.BrokenTeeth.Short,Eltört fogak,This shows up when a beaver has broken teeth. Please keep short.
+Status.Need.BrokenTeeth,Törött fogak.,This shows up when a beaver has broken teeth.
+Status.Need.BrokenTeeth.Short,Törött fogak,This shows up when a beaver has broken teeth. Please keep short.
 Status.Need.Energy,A robot lemerült.,This shows up when a bot runs out of energy.
 Status.Need.Energy.Short,Lemerült robot,This shows up when a bot runs out of energy. Please keep short. Bot should be the same as Bot.PrefabName.
 Status.Need.Hunger,Éhezik.,This shows up when a beaver's hunger reaches critical levels. Please keep short.
@@ -1571,7 +1571,7 @@ ToolGroups.Food,Élelmiszer,Buildings pertaining to growing and production of fo
 ToolGroups.ForestryPlanting,Fák és bokrok ültetése,This is in active voice
 ToolGroups.Housing,Házépítés,Buildings that beavers can live in
 ToolGroups.Landscaping,Kertépítés,Buildings that allow changes to land such as Dams or Dynamite
-ToolGroups.NaturalOverhangs,Természetes előtetők,Name for the category grouping natural/rock overhangs in the toolbar.
+ToolGroups.NaturalOverhangs,Természetes túlnyúlások,Name for the category grouping natural/rock overhangs in the toolbar.
 ToolGroups.MapEditor,Térképszerkesztő,Objects specific to map editor such as starting point or water source
 ToolGroups.Metal,Vas,Buildings that allow to collect and produce with metal
 ToolGroups.Monuments,Emlékművek,Awe-inspiring statues and fantastic contraptions
@@ -1597,10 +1597,10 @@ Toggle.State.Off,ki,Indication in tooltip about toggle state. For example 'Prior
 Toggle.State.Closed,Zárva,Indication in tooltip about toggle state. For example 'Status: Closed'
 Toggle.State.Open,Nyitva,Indication in tooltip about toggle state. For example 'Status: Open'
 Toggle.Selected,(kiválasztva),Indication in tooltip about selected item. Fore example: 'Planting (selected)'
-TreeCuttingSelectionTool.Description,"Használd ezt az eszközt arra, hogy fakivágásra jelölj ki területeket.",Doesn't have to use a personal verb
-TreeCuttingSelectionTool.Title,Jelöld meg a fakivágás területét,
-TreeCuttingUnselectionTool.Description,"Használd ezt az eszközt arra, hogy eltávolítsd a fakivágás területének jelölését.",Doesn't have to use a personal verb
-TreeCuttingUnselectionTool.Title,Távolítsd el a fakivágás területének jelölését,
+TreeCuttingSelectionTool.Description,"Kijelöli a területeket, ahol a hódok fákat vághatnak ki.",Doesn't have to use a personal verb
+TreeCuttingSelectionTool.Title,Fakivágási terület kijelölése,
+TreeCuttingUnselectionTool.Description,"Eltávolítja a kijelölést a fakivágási területről.",Doesn't have to use a personal verb
+TreeCuttingUnselectionTool.Title,Fakivágási kijelölés visszavonása,
 Tutorial.Building,Építsd meg: {0} ({1}/{2}),"{0} az épület neve, {1} az elkészült épületek száma, {2} a megépítendő épületek száma. Ez célkitűzésként, cselekvő igével jelenik meg, például: 'Építsd meg: Raktár (0/5)'."
 Tutorial.Continue,Folytatás,
 Tutorial.Disable,Útmutató kikapcsolása,
