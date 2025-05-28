@@ -315,9 +315,9 @@ Building.LaborerMonument.FlavorDescription,"Hiába adta át a helyét a kézi mu
 Building.Lantern.Description,Dekoratív lámpa.,
 Building.Lantern.DisplayName,Lámpa,
 Building.Lantern.FlavorDescription,"Természetüknél fogva éjszakai lények, a modern hódok mégis kissé nyugtalanok lesznek a sötétben.",
-Building.LargeBarrack.DisplayName,Nagy Laktanya,Barracks are cramped homes for beavers. Not related to soldiers. A bigger variant of Building.Barrack.
+Building.LargeBarrack.DisplayName,Nagy laktanya,Barracks are cramped homes for beavers. Not related to soldiers. A bigger variant of Building.Barrack.
 Building.LargeBarrack.FlavorDescription,"Mi az a ""magánélet""?","Barracks are very cramped so there isn't much private space."
-Building.LargeIndustrialPile.DisplayName,Nagy Ipari Halom,
+Building.LargeIndustrialPile.DisplayName,Nagy ipari halom,
 Building.LargeIndustrialPile.FlavorDescription,Mi jobb egy halomnál? Egy halom halom.,"The building is an improved, stackable variant of Building.LargePile"
 Building.LargeMetalPlatform.DisplayName,Nagy vas állvány,
 Building.LargeMetalPlatform.FlavorDescription,"A hódépítészet csúcsa – masszív, stabil, örök.","Heavy metal is a reference to the music genre. This building is massive and made of metal."
@@ -359,7 +359,7 @@ Building.LumberjackFlag.Description,"Egy favágót alkalmaz.",
 Building.LumberjackFlag.DisplayName,Favágó zászló,Flag' could also be a Post or something similar as long as it is consistent with other Flags and different from Haulers Post
 Building.LumberjackFlag.FlavorDescription,"""Rágjuk a fát jó érzékkel, de csak nappal, soha nem éjjel."" —népszerű hód nóta","Adapted from Monthy Python's ""Lumberjack Song"""
 Building.MechanicalFluidPump.Description,"Az egyik oldalon felszívja, a másik oldalon kiereszti a vizet/rosszvizet. Hatékonyabb, mint a kézi pumpa.",Badwater should be the same as Good.Badwater.DisplayName.
-Building.MechanicalFluidPump.DisplayName,Mechanikus Folyadékszivattyú,"A mechanically powered water pump."
+Building.MechanicalFluidPump.DisplayName,Mechanikus folyadékszivattyú,"A mechanically powered water pump."
 Building.MechanicalFluidPump.FlavorDescription,"Inkább a gép emelje át, mint a hód!","Running water meaning water that is moving."
 Building.MedicalBed.Description,Sérült hódok gyógyulását szolgáló fekvőhely.,
 Building.MedicalBed.DisplayName,Orvosi ágy,A place where injured beavers come to lie down and rest
@@ -433,7 +433,7 @@ Building.PowerShaft.FlavorDescription,Kazkó bá nagy találmányainak egyike.,F
 Building.PowerShaftHigh.DisplayName,Magas hajtótengely,For ease of translation could also be called an axle
 Building.PowerShaftIntersection.DisplayName,Hajtótengely-kereszteződés,For ease of translation could also be called an axle
 Building.PowerShaftStraight.DisplayName,Egyenes hajtótengely,For ease of translation could also be called an axle
-Building.PowerShaftTIntersection.DisplayName,T Hajtótengely-kereszteződés,For ease of translation could also be called an axle. A three-way junction of power shafts.
+Building.PowerShaftTIntersection.DisplayName,T hajtótengely-kereszteződés,For ease of translation could also be called an axle. A three-way junction of power shafts.
 Building.PowerShaftTurn.DisplayName,Hajtótengely-kanyar,For ease of translation could also be called an axle
 Building.PowerShaftUpward.DisplayName,Felfelé kanyarodó Hajtótengely,Power shaft that's pointed upward
 Building.PowerShaftVertical.DisplayName,Függőleges Hajtótengely,Power shaft that's completely vertical
@@ -494,13 +494,13 @@ Building.Sluice.Mode.Closed,Zárva,Label of the toggle that sets the sluice to b
 Building.Sluice.Mode.Open,Nyitva,Label of the toggle that sets the sluice to be always open
 Building.Sluice.Synchronize,Szinkronizálás a szomszédos zsilipekkel,
 Building.Sluice.MaximumDepthToggle,{0} alsó vízmélység alatt zárjon be,Label of a toggle that enables automation based on the maximum downstream depth of water
-Building.SmallIndustrialPile.DisplayName,Kis Ipari Halom,
+Building.SmallIndustrialPile.DisplayName,Kis ipari halom,
 Building.SmallIndustrialPile.FlavorDescription,"""Na persze, tettek rá egy tetőt és máris iparinak hívják. Tipikus."" — Tobzi",
 Building.SmallPile.Description,Nagy áruk (pl. rönkök) tárolására szolgál.,
-Building.SmallPile.DisplayName,Kis Halom,
+Building.SmallPile.DisplayName,Kis halom,
 Building.SmallPile.FlavorDescription,Egy magára valamit is adó hód nem tesz árut a földre.,
 Building.SmallTank.Description,Folyadékok tárolására szolgál.,
-Building.SmallTank.DisplayName,Kis Tartály,
+Building.SmallTank.DisplayName,Kis tartály,
 Building.SmallTank.FlavorDescription,"Ki a vizet számolja, aszályban is túlél.",
 Building.SmallWarehouse.Description,Árut tárol.
 Building.SmallWarehouse.DisplayName,Kis raktár,
@@ -509,10 +509,10 @@ Building.Smelter.Description,Hulladékvasból vasrudakat önt.,"Scrap metal shou
 Building.Smelter.DisplayName,Vaskohó,"A facility that uses very high temperature to produce metal blocks from iron ore."
 Building.Smelter.FlavorDescription,"Az új hód világ verejték és égett szőr szagú.",
 Building.SolidPowerShaft.Description,Kinetikus energiát továbbít. Függőlegesen is.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
-Building.SolidPowerShaft.DisplayName,Stabil Hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
+Building.SolidPowerShaft.DisplayName,Stabil hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.SolidPowerShaft.FlavorDescription,Mire ez a nagy felhajtás?,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.SolidTubeway.Description,"Modern, hatékony, bár kicsit szűkös közlekesést tesz lehetővé. Függőlegesen is.",The first sentence must be the same as Building.Tubeway.Description
-Building.SolidTubeway.DisplayName,Stabil Cső,"An expanded version of the Building.Tubeway.DisplayName with a solid platform on top of it, that allows other Tubes or structures to be placed on top of it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
+Building.SolidTubeway.DisplayName,Stabil surranócső,"An expanded version of the Building.Tubeway.DisplayName with a solid platform on top of it, that allows other Tubes or structures to be placed on top of it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
 Building.SolidTubeway.FlavorDescription,"Fel, fel, le, le, balra, jobbra, balra, jobbra, bukj, araszolj… hmm… nem innen indultunk?",Konami Code reference
 Building.StartingLocation.DisplayName,Indulási helyszín,
 Building.StreamGauge.Contamination,Szennyeződés: {0},"Level of the water contamination, {0} stands for contamination level in percent. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project."
@@ -556,7 +556,7 @@ Building.TriplePlatform.FlavorDescription,A lábakat csócsálni szigorúan tilo
 Building.Tubeway.Description,"Gyors, habár szűkös módja a közlekedésnek.",
 Building.Tubeway.DisplayName,Surranócső,"Tubeways are used as a network of large pipes for faster transportation around the map. Departure and arrival  happens in Building.TubewayStation.DisplayName, so they should be named similarly."
 Building.Tubeway.FlavorDescription,"Két hódfej összekoppan a Surranócsőben—és már jön is az új Vasfog-találmány!","Hitting your head can be a source of crazy ideas in cartoons. Iron Teeth should be the same as Faction.IronTeeth.DisplayName"
-Building.TubewayStation.Description,A Surranócső-hálózat ki- és bejárataként szolgál.,
+Building.TubewayStation.Description,A surranócső-hálózat ki- és bejárataként szolgál.,
 Building.TubewayStation.DisplayName,Surranóállomás,"Beavers use it to enter Building.Tubeway.DisplayName, so they should be named similarly."
 Building.TubewayStation.FlavorDescription,"Klausztrofóbiás hódok, kérjük, az ösvénynél maradjanak!","Tubeways are very tight corridors, so they wouldn't be accessible for beavers scared of such places."
 Building.Tunnel.Description,"Felállványozott alagutat fúr a hegybe. Használd a Rétegek eszközt, hogy a hegy belsejébe láss!.",
@@ -566,6 +566,12 @@ Building.UndergroundPile.FlavorDescription,Az ekkora tárolóhely már megéri a
 Building.UndergroundRuins.Description,"Kibányászható hulladékvassal teli, rég eltemetett romok.",
 Building.UndergroundRuins.DisplayName,Eltemetett romok,Buried ruins on top of which an extracting facility - a mine - can be placed.
 Building.UndergroundRuins.FlavorDescription,"Bármit is építettek odalent az embörök, a vasat nem sajnálták.",
+Building.VerticalPowerShaft.Description,Kinetikus energiát továbbít. Függőlegesen is.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
+Building.VerticalPowerShaft.DisplayName,Függőleges Hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
+Building.VerticalPowerShaft.FlavorDescription,Mire ez a nagy felhajtás?,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
+Building.VerticalTubeway.Description,"Modern, hatékony, bár kicsit szűkös közlekesést tesz lehetővé. Függőlegesen is.",The first sentence must be the same as Building.Tubeway.Description
+Building.VerticalTubeway.DisplayName,Függőleges Surranócső,"An expanded version of the Building.Tubeway.DisplayName with a solid platform on top of it, that allows other Tubes or structures to be placed on top of it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
+Building.VerticalTubeway.FlavorDescription,"Fel, fel, le, le, balra, jobbra, balra, jobbra, bukj, araszolj… hmm… nem innen indultunk?",Konami Code reference
 Building.WaterPump.Description,Ivóvizet szivattyúz és szűr a hódok számára. A rosszvízszennyezés csökkenti a hatékonyságát.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Building.WaterPump.DisplayName,Vízszivattyú,
 Building.WaterPump.FlavorDescription,"Friss víz – lendület minden kortyban!","""Pump"" pun, feel free to adapt."
@@ -736,7 +742,7 @@ Ebben a Kísérleti módban <RedHighlight>a játék számos része nincs leford�
 Erősen javasoljuk, hogy csatlakozz a hivatalos Discord szerverünkhöz, és vegyél részt az új tartalmakkal kapcsolatos beszélgetésekben.",Welcome text that is shown to players of the experimental versions of the game.
 Explosions.BlownInExplosionMessage,{0} felrobbant egy robbanás következtében.,{0} stands for character name. Notification that shows when a character (Beaver/Bot) is killed/destroyed by an explosion (another bot or dynamite)
 Faction.Folktails.Description,"Lazák, de szorgalmasak, a Virágvölgyiek gazdálkodás mesterei. Tisztelik a természetet, és az bőséges termést hoz nekik.
-Mottójuk: <i>Kényelem,étel, és erős fa.</i>",Description of a beaver faction
+Mottójuk: <i>Kényelem, étel, és erős fa.</i>",Description of a beaver faction
 Faction.Folktails.DisplayName,Virágvölgyiek,Name of a faction
 Faction.IronTeeth.Description,"A hagyomány útját elhagyva, a vas és a tudomány mestereivé váltak, és fejlett gépeket építenek.
 Számukra a fejlődés útja a leleményességen, hatékonyságon, és a természet háttérbe szorításán át vezet.
@@ -977,7 +983,7 @@ KeyBinding.PreviousDistrict,Előző kerület kiválasztása,Label of the key tha
 KeyBinding.PreviousRootButton,Előző eszköztár kategória,Label of the key that selects the previous toolbar (bottom bar) category.
 KeyBinding.PreviousTool,Előző eszköz,Label of the key that selects the previous tool from currently selected toolbar category.
 KeyBinding.RaiseVisibleLayer,Látható réteg emelése,Label of the key that increases the max visible vertical level of buildings
-KeyBinding.ResetCamera,"Kamerahelyzet visszaállítása","Keybinding for resetting the camera to its default angle and zoom."
+KeyBinding.ResetCamera,"Kamera visszaállítása","Keybinding for resetting the camera to its default angle and zoom."
 KeyBinding.ResetMapEditorSimulation,Szimuláció alaphelyzetbe állítása,Label of the key that resets the water and badwater simulations
 KeyBinding.RestoreCamera,Kamera pozíció betöltése,Label of the key that restores the camera to the position saved by KeyBinding.SaveCamera
 KeyBinding.RotateCameraDown,Kamera lefelé forgatása,Label of the key that rotates the camera down
@@ -1129,6 +1135,8 @@ MapMetadata.Diorama.Description,"Mielőtt engedélyt kapnának nagy települése
 MapMetadata.Diorama.Name,Dioráma,
 MapMetadata.HelixMountain.Description,"Bár a hódok szerint ez a folyómeder forma gyakorlatilag használhatatlan, elismerik az emberiség korlátozott víztechnikai képességeit.",
 MapMetadata.HelixMountain.Name,Helix-hegy,The name of this map refers to the spiral shape of its central mountain.
+MapMetadata.Hollows.Description,"Ezek a termékeny üregek kiváló lehetőségeket kínálnak a leendő telepeseknek. A zegzugos táj számos titkot rejt - a legidősebb hódok eltemetett kincsekről mesélnek a tábortűz mellett.",
+MapMetadata.Hollows.Name,Üregek,
 MapMetadata.Lakes.Description,"A tavakban és folyókban gazdag vidékek mára ritkaságnak számítanak, de ami még megmaradt, azt bizonyítja, hogy van még remény a Föld számára.",
 MapMetadata.Lakes.Name,Tavak,
 MapMetadata.Meander.Description,"A hódok leleményessége nem ismer határokat, ha a folyó kanyarulatairól van szó – de a kevés hely sok fejtörést okoz nekik.",
