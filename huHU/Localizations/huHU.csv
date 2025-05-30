@@ -76,7 +76,7 @@ Building.AdvancedBreedingPod.Description,"Fejlett inkubációs folyamatot alkalm
 Building.AdvancedBreedingPod.DisplayName,Fejlett inkubátor,
 Building.AdvancedBreedingPod.FlavorDescription,"A legenda szerint egy hódkölyök beleesett egy kivonatos tartályba, és másnap már három fát rágott át.","Extract must be the same as Good.Extract.DisplayName, kit is a young beaver."
 Building.AquaticFarmhouse.Description,"<YellowHighlight>Vízi</YellowHighlight> növények termesztésére szakosodott gazdákat alkalmaz.","Aquatic is a keyword, must be the same as in NaturalResources.Aquatic."
-Building.AquaticFarmhouse.DisplayName,Vízi Földművesház,A farmhouse that specializes in water plants.
+Building.AquaticFarmhouse.DisplayName,Vízi földművesház,A farmhouse that specializes in water plants.
 Building.AquaticFarmhouse.FlavorDescription,"""Halat enni?! Dejszen mi hódok volnánk, nem vidrák!"" —Nóra nagyi","Beavers eating fish is a common misconception. Beavers are 100% herbivores. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.BadwaterDischarge.Description,"Lezár egy Rosszvízforrást. Igény szerint nyitható és zárható. Nyitott állapotban szárazság idején is fenntartja a rosszvíz áramlását.","Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
 Building.BadwaterDischarge.DisplayName,Rosszvízkifolyó,"Name of the building that can either stop flow of badwater or enforce flow with full power. It's a dome shaped, mechanical building that opens and closes like a camera shutter. Badwater must be the same as Good.Badwater.DisplayName."
@@ -273,7 +273,7 @@ Building.GearWorkshop.Description,Fogaskerekeket gyárt deszkákból.,Gears and 
 Building.GearWorkshop.DisplayName,Fogaskerékműhely,Gear is a resource
 Building.GearWorkshop.FlavorDescription,"""A fa fogaskerék sziklaszilárd!"" — hirdette Kazkó bá az iparosítás korszakában.","Metal Gear Solid is a famous Japanese video game series. Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.GravityBattery.Description,"A többletenergiát etárolja, és visszatáplálja, amikor a hálózat alulterhelt. Minél magasabbra épül, annál több energiát képes tárolni.",
-Building.GravityBattery.DisplayName,Gravitációs Akkumulátor,"A battery in the form of a crane, that stores energy by raising a heavy weight above the ground."
+Building.GravityBattery.DisplayName,Gravitációs akkumulátor,"A battery in the form of a crane, that stores energy by raising a heavy weight above the ground."
 Building.GravityBattery.FlavorDescription,"Így néz ki, amikor a hódok saját fizikai törvényeket alkotnak.","Gravity batteries in the real world do not make sense from the physics standpoint."
 Building.GreaseFactory.Description,"Kenőanyagot állít elő kivonatból és repceolajból, hogy fokozza a robotok hatékonyságát.","Bots should be the same as in Bot.PrefabName. Grease should be the same as Good.Grease.DisplayName."
 Building.GreaseFactory.DisplayName,Kenőanyaggyár,Grease should be the same as Good.Grease.DisplayName.
@@ -351,7 +351,7 @@ Building.Lodge.Description,"Ahol a hód lehajthatja fejét.",
 Building.Lodge.DisplayName,Kunyhó,Type of housing; named after the beaver lodges
 Building.Lodge.FlavorDescription,"""Emlékszem, mikor még egy kunyhó az csak egy rakás rönk volt. Ma már van ablak is!"" —Nóra nagyi",
 Building.LogFence.Description,Dekoratív kerítés farönkökből készítve.,
-Building.LogFence.DisplayName,Rönkkerítés,
+Building.LogFence.DisplayName,Rönk kerítés,
 Building.LumberMill.Description,Deszkákat készít farönkökből.,Planks and Logs are resources so this needs to be consistent with their name
 Building.LumberMill.DisplayName,Fűrészmalom,
 Building.LumberMill.FlavorDescription,"Az idősebb hódok csikorgatták a fogukat, amikor Kazkó bá elhozta a gépesített fafeldolgozást.","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
@@ -370,7 +370,7 @@ Building.MediumWarehouse.DisplayName,Közepes raktár,
 Building.MediumWarehouse.FlavorDescription,"A termékek megfelelő tárolása létfontosságú, tekintve a posztapokaliptikus világ összes veszélyét.",
 Building.MemorialToFamily.DisplayName,Családi emlékmű,A large brazier surrounded by statues of a beaver family
 Building.MetalFence.Description,Dekoratív kerítés vasból készítve.,
-Building.MetalFence.DisplayName,Vaskerítés,
+Building.MetalFence.DisplayName,Vas kerítés,
 Building.MetalFence.FlavorDescription,"Óvakodj a hódoktól, akik fa helyett vassal dolgoznak.","Reference to ""beware the dog"" often written on fences."
 Building.MetalPlatform.Description,"Egy hatalmas állvány, amit egy erős oszlop tart.",
 Building.MetalPlatform.DisplayName,Vas állvány,
@@ -392,7 +392,7 @@ Building.MudBath.Description,"Iszapfürdő, ipari buborékadagolóval felszerelv
 Building.MudBath.DisplayName,Iszapfürdő,"A mud bath infused with bubbles, basically a jacuzzi but that word is too human."
 Building.MudBath.FlavorDescription,"Honnan jött ez a sok buborék?","Fart joke but it's easy to see it as bubbles all appear in the middle of the bath where the visitors' tails are directed."
 Building.MudPit.Description,Egy pihentető iszapfürdő.,This building allows beavers to relax in an area similar to a spa.Employs miners who extract scrap metal from underground ruins.
-Building.MudPit.DisplayName,Iszap gödör,"This building is a pit filled with mud, not for storage but entertainment."
+Building.MudPit.DisplayName,Iszapgödör,"This building is a pit filled with mud, not for storage but entertainment."
 Building.MudPit.FlavorDescription,Itt építik a kölykök az első kis gátjukat.,
 Building.NaturalOverhang.Description,"Egy kiálló szikla, amely szolgálhat hídként vagy alapként más formációk és épületek számára. Visszatartja a vizet",
 Building.NaturalOverhang2x1.DisplayName,Természetes kinyúlás 2x1,This structure is a solid rock overhang. Numbers at the end denote size X by Y.
@@ -422,21 +422,21 @@ Building.Path.Description,Ösvényekkel kell összekötni a különböző épül
 Building.Path.DisplayName,Ösvény,
 Building.Path.FlavorDescription,"""Lépésről lépésre, haza visz az út..."" — népszerű hód dal kezdete","Adapted from ""Take Me Home, Country Roads"" by John Denver"
 Building.PlankFence.Description,Dekoratív kerítés deszkákból készítve.,
-Building.PlankFence.DisplayName,Deszkakerítés,
+Building.PlankFence.DisplayName,Deszka kerítés,
 Building.Platform.Description,"Egy emelt állvány, amely szolgálhat hídként vagy alapként más épületek számára.",
 Building.Platform.DisplayName,Állvány,
 Building.Platform.FlavorDescription,A lenyűgöző teherbírású hód állványok igazi építészeti mesterművek.,
 Building.PowerShaft.Description,Kinetikus energiát továbbít.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.PowerShaft.DisplayName,Hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
-Building.PowerShaftDownward.DisplayName,Lefelé kanyarodó Hajtótengely,Power shaft that's pointed downward
+Building.PowerShaftDownward.DisplayName,Lefelé kanyarodó hajtótengely,Power shaft that's pointed downward
 Building.PowerShaft.FlavorDescription,Kazkó bá nagy találmányainak egyike.,Flavor text for the Power Shaft building
 Building.PowerShaftHigh.DisplayName,Magas hajtótengely,For ease of translation could also be called an axle
 Building.PowerShaftIntersection.DisplayName,Hajtótengely-kereszteződés,For ease of translation could also be called an axle
 Building.PowerShaftStraight.DisplayName,Egyenes hajtótengely,For ease of translation could also be called an axle
 Building.PowerShaftTIntersection.DisplayName,T hajtótengely-kereszteződés,For ease of translation could also be called an axle. A three-way junction of power shafts.
 Building.PowerShaftTurn.DisplayName,Hajtótengely-kanyar,For ease of translation could also be called an axle
-Building.PowerShaftUpward.DisplayName,Felfelé kanyarodó Hajtótengely,Power shaft that's pointed upward
-Building.PowerShaftVertical.DisplayName,Függőleges Hajtótengely,Power shaft that's completely vertical
+Building.PowerShaftUpward.DisplayName,Felfelé kanyarodó hajtótengely,Power shaft that's pointed upward
+Building.PowerShaftVertical.DisplayName,Függőleges hajtótengely,Power shaft that's completely vertical
 Building.PowerWheel.Description,Hódhajtású hódkerék.,
 Building.PowerWheel.DisplayName,Erőkerék,Meaning a wheel that produces power
 Building.PowerWheel.FlavorDescription,A legnagyszerűbb ötletek néha a legkisebbektől jönnek.,This building looks like a hamster wheel.
@@ -555,7 +555,7 @@ Building.TriplePlatform.DisplayName,Tripla állvány,Triple as triple the height
 Building.TriplePlatform.FlavorDescription,A lábakat csócsálni szigorúan tilos!,
 Building.Tubeway.Description,"Gyors, habár szűkös módja a közlekedésnek.",
 Building.Tubeway.DisplayName,Surranócső,"Tubeways are used as a network of large pipes for faster transportation around the map. Departure and arrival  happens in Building.TubewayStation.DisplayName, so they should be named similarly."
-Building.Tubeway.FlavorDescription,"Két hódfej összekoppan a Surranócsőben—és már jön is az új Vasfog-találmány!","Hitting your head can be a source of crazy ideas in cartoons. Iron Teeth should be the same as Faction.IronTeeth.DisplayName"
+Building.Tubeway.FlavorDescription,"Két hódfej összekoppan a surranócsőben—és már jön is az új Vasfog-találmány!","Hitting your head can be a source of crazy ideas in cartoons. Iron Teeth should be the same as Faction.IronTeeth.DisplayName"
 Building.TubewayStation.Description,A surranócső-hálózat ki- és bejárataként szolgál.,
 Building.TubewayStation.DisplayName,Surranóállomás,"Beavers use it to enter Building.Tubeway.DisplayName, so they should be named similarly."
 Building.TubewayStation.FlavorDescription,"Klausztrofóbiás hódok, kérjük, az ösvénynél maradjanak!","Tubeways are very tight corridors, so they wouldn't be accessible for beavers scared of such places."
@@ -567,10 +567,10 @@ Building.UndergroundRuins.Description,"Kibányászható hulladékvassal teli, r�
 Building.UndergroundRuins.DisplayName,Eltemetett romok,Buried ruins on top of which an extracting facility - a mine - can be placed.
 Building.UndergroundRuins.FlavorDescription,"Bármit is építettek odalent az embörök, a vasat nem sajnálták.",
 Building.VerticalPowerShaft.Description,Kinetikus energiát továbbít. Függőlegesen is.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
-Building.VerticalPowerShaft.DisplayName,Függőleges Hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
+Building.VerticalPowerShaft.DisplayName,Függőleges hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.VerticalPowerShaft.FlavorDescription,Mire ez a nagy felhajtás?,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.VerticalTubeway.Description,"Modern, hatékony, bár kicsit szűkös közlekesést tesz lehetővé. Függőlegesen is.",The first sentence must be the same as Building.Tubeway.Description
-Building.VerticalTubeway.DisplayName,Függőleges Surranócső,"An expanded version of the Building.Tubeway.DisplayName with a solid platform on top of it, that allows other Tubes or structures to be placed on top of it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
+Building.VerticalTubeway.DisplayName,Függőleges surranócső,"An expanded version of the Building.Tubeway.DisplayName with a solid platform on top of it, that allows other Tubes or structures to be placed on top of it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
 Building.VerticalTubeway.FlavorDescription,"Fel, fel, le, le, balra, jobbra, balra, jobbra, bukj, araszolj… hmm… nem innen indultunk?",Konami Code reference
 Building.WaterPump.Description,Ivóvizet szivattyúz és szűr a hódok számára. A rosszvízszennyezés csökkenti a hatékonyságát.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Building.WaterPump.DisplayName,Vízszivattyú,
@@ -591,7 +591,7 @@ Building.Windmill.Description,A változó szélenergiát hasznosítja.,
 Building.Windmill.DisplayName,Szélkerék,
 Building.Windmill.FlavorDescription,""Mi csak forgácsok vagyunk a szélben!"" — Virágvölgyi dal,"Reference to ""Dust in the Wind"" by Kansas."
 Building.WoodFence.Description,Dekoratív kerítés fából készítve.,
-Building.WoodFence.DisplayName,Fakerítés,
+Building.WoodFence.DisplayName,Fa kerítés,
 Building.WoodFence.FlavorDescription,"Mint egy gát, csak nem a víznek, hanem a hódoknak. Hódgát.",
 Building.WoodWorkshop.Description,"Gyantával átitatva erősíti a deszkákat.","It produces treated / impregnated planks. The resin used is a pine resin."
 Building.WoodWorkshop.DisplayName,Fakezelő műhely,It produces treated / impregnated planks. Do NOT use the same term as lumber mill.
@@ -639,7 +639,7 @@ CrashScreen.HowToFindReportShort,A hibajelentést itt találod:,
 CrashScreen.Introduction,"Ez váratlan volt. A mi hibánk, de jelentés küldésével segíthetsz nekünk a probléma megoldásában.",
 CrashScreen.ManualInstructions,"Kézzel is beküldheted a jelentést:",
 CrashScreen.ModdedIntroduction,"Úgy tűnik, hogy moddolt változatot futtatsz a játékból, ez lehet a hiba oka.",
-CrashScreen.ModdedInstructions,A modok eltávolításához itt találsz segítséget:,
+CrashScreen.ModdedInstructions,A modulok eltávolításához itt találsz segítséget:,
 CrashScreen.PrivacyPolicyAccept,Elfogadom az,Next to a checkbox and followed by CrashScreen.PrivacyPolicyLink
 CrashScreen.PrivacyPolicyLink,Adatvédelmi irányelveket,Preceded by a checkbox and CrashScreen.PrivacyPolicyToggle
 CrashScreen.SendFail,"Nem sikerült elküldeni. Kattints az újraküldéshez.",
@@ -667,7 +667,7 @@ Core.NavigationNext,Tovább,Used in forms to navigate to the next step.
 Core.NavigationBack,Vissza,Used in forms to navigate to the previous step.
 Core.No,Nem,A button please keep short
 Core.OK,OK,A button please keep short
-Core.Overwrite,Felülír,A button shown in prompts with confirmation that a file will be overwritten
+Core.Overwrite,Felülírás,A button shown in prompts with confirmation that a file will be overwritten
 Core.ResourceNameAndAmount,{0} ({1}),"Used for example in building material costs, {0} stands for resource name, {1} stands for amount"
 Core.ResourceNameAndAmountPerHour,{0} ({1} óránként),"Used for example in building resource usage, {0} stands for resource name, {1} stands for amount"
 Core.Save,Mentés,A button please keep short
@@ -712,7 +712,7 @@ Distribution.ImportGoodTooltip.Forced,Az importálás kötelezővé vált az elo
 Distribution.ImportGoodTooltip.Importable,Az importálás engedélyezve a tároló- és munkahelyi igény alapján.,"The text shown on a good's tooltip when it is importable. ""Storage and workplace demand"" should be the same as in Distribution.ImportAuto.Description"
 Distribution.ImportGoodTooltip.NonImportable,Az importálás blokkolva van a tároló- és munkahelyi igény hiánya miatt ebben a kerületben.,"The text shown on a good's tooltip when it is not importable. ""Storage and workplace demand"" should be the same as in Distribution.ImportAuto.Description"
 Distribution.ImportedGoods,Importált áruk,The header of the panel that shows importable and non-importable goods
-Distribution.ManageDistribution,Elosztás kezelése,Label for button that opens distribution panel. Distribution should be the same as in BatchControl.Distribution
+Distribution.ManageDistribution,Elosztás ablak,Label for button that opens distribution panel. Distribution should be the same as in BatchControl.Distribution
 Distribution.Reset,Összes alaphelyzetbe állítása,A button that resets distribution settings to default.
 Districts.DefaultDistrictName,{0}. kerület,"{0} is a number. By default districts are named District 1, District 2 etc."
 Districts.Districts,Kerületek,
@@ -908,7 +908,7 @@ GoodConsuming.NeedsHaulers,<YellowHighlight>Szállítók szükségesek.</YellowH
 Goods.Nothing,Semmi,
 Goods.StoredIn,Tárolva itt:,Header above a list of buildings that store selected good
 GridRendering.Visibility.Hide,Építési rács elrejtése,Shows construction guidelines when button is pressed.
-GridRendering.Visibility.Show,Építési rács mutatása,Shows construction guidelines when button is pressed.
+GridRendering.Visibility.Show,Építési rács megjelenítése,Shows construction guidelines when button is pressed.
 Growing.GrowsWhenMature,Érett korban nő,"Information about fruits and other resources, that grows when plant is mature and not when it is in seedling stage"
 Growing.Time,Növekedési napok: {0},{0} stands for a number of days. How many days left does this plant have to fully grow.
 Hauling.Prioritize,A szállítók előnyben részesítik ezt az épületet,building is a noun in this sentence. This building will be prioritized by haulers.
@@ -923,15 +923,15 @@ Inventory.StockpileOverlay.Show,Tároló információ megjelenítése,Tooltip fo
 Inventory.StockpileOverlay.Hide,Tároló információ elrejtése,Tooltip for button showing overlay over warehouses containing stored goods.
 Inventory.Undesired,Nem kívánt:,Please keep short. Which resources are not desired in the storage.
 KeyBindingsPanel.Header,Billentyű hozzárendelések,Header of the key bindings box
-Key.DownArrow,Le nyíl,Label of the down arrow key
+Key.DownArrow,Lefelé nyíl,Label of the down arrow key
 Key.LeftAlt,Bal Alt,Label of the left alt key
-Key.LeftArrow,Bal nyíl,Label of the left arrow key
+Key.LeftArrow,Balra nyíl,Label of the left arrow key
 Key.LeftCmd,Bal Cmd,Label of the left cmd key (key on Mac keyboards)
 Key.LeftCtrl,Bal Ctrl,Label of the left ctrl key
 Key.LeftShift,Bal Shift,Label of the left shift key
 Key.LeftWindows,Bal Windows,Label of the left windows key
 Key.RightAlt,Jobb Alt,Label of the right alt key
-Key.RightArrow,Jobb nyíl,Label of the right arrow key
+Key.RightArrow,Jobbra nyíl,Label of the right arrow key
 Key.RightCmd,Jobb Cmd,Label of the right cmd key (key on Mac keyboards)
 Key.RightCtrl,Jobb Ctrl,Label of the right ctrl key
 Key.RightShift,Jobb Shift,Label of the right shift key
@@ -939,86 +939,86 @@ Key.RightWindows,Jobb Windows,Label of the right windows key
 Key.Space,Szóköz,Label of the space key
 Key.UpArrow,Felfelé nyíl,Label of the up arrow key
 KeyBinding.AlternateClickableAction,Alternatív gomb művelet,Label of the key that toggles the alternate action of some buttons
-KeyBinding.AttractionsTab,Jólét lap megnyitása,"Label of the key that opens the Settlement Panel and selects the Attractions tab, Well-being should be the same as Wellbeing.DisplayName"
+KeyBinding.AttractionsTab,Jólét ablak,"Label of the key that opens the Settlement Panel and selects the Attractions tab, Well-being should be the same as Wellbeing.DisplayName"
 KeyBinding.Cancel,Mégse,Label of the key that cancels actions
-KeyBinding.CharactersTab,Népesség lap megnyitása,"Label of the key that opens the Settlement Panel and selects the Characters tab, Population should be the same as BatchControl.Population"
+KeyBinding.CharactersTab,Népesség ablak,"Label of the key that opens the Settlement Panel and selects the Characters tab, Population should be the same as BatchControl.Population"
 KeyBinding.Confirm,Megerősítés,Label of the key that confirms UI prompts
 KeyBinding.DecreaseBrushHeight,Ecset magasságának csökkentése,"Label of the key that decreases the vertical level of the brush, 'brush height' should be the same as MapEditor.Brush.Height.Label"
 KeyBinding.DecreaseBrushSize,Ecset méretének csökkentése,"Label of the key that decreases the size of the brush, 'brush size' should be the same as MapEditor.Brush.Size.Label"
 KeyBinding.DecreaseBuildersPriority,Építők prioritásának csökkentése,Label of the key that decreases the priority of the builders job assigned to the selected object
-KeyBinding.DecreaseFloodgateHeight,A zsilip magasságának csökkentése,Label of the key that decreases the height of the selected floodgate. Floodgate should be the same as Building.Floodgate.DisplayName
+KeyBinding.DecreaseFloodgateHeight,Zsilipmagasság csökkentése,Label of the key that decreases the height of the selected floodgate. Floodgate should be the same as Building.Floodgate.DisplayName
 KeyBinding.DecreaseSpeed,Sebesség csökkentése,Label of the key that decreases the speed of the game by one step
-KeyBinding.DecreaseWorkers,Kívánt munkavállalók számának csökkentése,Label of the key that decreases the desired number of workers in selected building
+KeyBinding.DecreaseWorkers,Munkások számának csökkentése,Label of the key that decreases the desired number of workers in selected building
 KeyBinding.DecreaseWorkingHours,Munkaidő csökkentése,Label of the key that decreases settlement working hours
 KeyBinding.DecreaseWorkplacePriority,Munkahely prioritásának csökkentése,Label of the key that decreases the priority of the selected workplace
 KeyBinding.DeleteObject,Objektum törlése,Label of the key that deletes the selected object
 KeyBinding.DetonateDynamite,Dinamit felrobbantása,Label of the key that detonates a dynamite
-KeyBinding.DistributionTab,Elosztás lap megnyitása,"Label of the key that opens the Settlement Panel and selects the Distribution tab, Distribution should be the same as BatchControl.Distribution"
+KeyBinding.DistributionTab,Elosztás ablak,"Label of the key that opens the Settlement Panel and selects the Distribution tab, Distribution should be the same as BatchControl.Distribution"
 KeyBinding.Flip,Megfordítás,Label of the key that flips the selected building (makes the model mirrored)
 KeyBinding.Hold,Nyomva tartva:,Used to describe key binding that turns something on while the key is held.
-KeyBinding.HousingTab,Ház lakások lap megnyitása,"Label of the key that opens the Settlement Panel and selects the Housing tab, Housing should be the same as BatchControl.Housing"
+KeyBinding.HousingTab,Lakhatás ablak,"Label of the key that opens the Settlement Panel and selects the Housing tab, Housing should be the same as BatchControl.Housing"
 KeyBinding.IncreaseBrushHeight,Ecset magasságának növelése,"Label of the key that increases the vertical level of the brush, 'brush height' should be the same as MapEditor.Brush.Height.Label"
 KeyBinding.IncreaseBrushSize,Ecset méretének növelése,"Label of the key that increases the size of the brush, 'brush size' should be the same as MapEditor.Brush.Size.Label"
 KeyBinding.IncreaseBuildersPriority,Építők prioritásának növelése,Label of the key that increases the priority of the builders job assigned to the selected object
-KeyBinding.IncreaseFloodgateHeight,A zsilip magasságának növelése,Label of the key that increases the height of the selected floodgate. Floodgate should be the same as Building.Floodgate.DisplayName
+KeyBinding.IncreaseFloodgateHeight,Zsilipmagasság növelése,Label of the key that increases the height of the selected floodgate. Floodgate should be the same as Building.Floodgate.DisplayName
 KeyBinding.IncreaseSpeed,Sebesség növelése,Label of the key that increases the speed of the game by one step
-KeyBinding.IncreaseWorkers,Kívánt munkavállalók számának növelése,Label of the key that increases the desired number of workers in selected building
+KeyBinding.IncreaseWorkers,Munkások számának növelése,Label of the key that increases the desired number of workers in selected building
 KeyBinding.IncreaseWorkingHours,Munkaidő növelése,Label of the key that increases settlement working hours
 KeyBinding.IncreaseWorkplacePriority,Munkahely prioritásának növelése,Label of the key that increases the priority of the selected workplace
 KeyBinding.InverseBrushDirection,Ecset irányának megfordítása,
 KeyBinding.LowerVisibleLayer,Látható réteg csökkentése,Label of the key that decreases the max visible vertical level of buildings
-KeyBinding.MechanicalTab,Áramlás lap megnyitása,"Label of the key that opens the Settlement Panel and selects the Mechanical tab, Power should be the same as BatchControl.Mechanical"
-KeyBinding.MigrationTab,Migrációs lap megnyitása,"Label of the key that opens the Settlement Panel and selects the Migration tab, Migration should be the same as BatchControl.Migration"
-KeyBinding.MoveCameraDown,Kamera lefelé mozgatása,Label of the key that moves the camera down
-KeyBinding.MoveCameraFast,Kamera sebességének növelése,Label of the key that modifies the speed of camera movement and rotation
-KeyBinding.MoveCameraLeft,Kamera balra mozgatása,Label of the key that moves the camera left
-KeyBinding.MoveCameraRight,Kamera jobbra mozgatása,Label of the key that moves the camera right
-KeyBinding.MoveCameraUp,Kamera felfelé mozgatása,Label of the key that moves the camera up
+KeyBinding.MechanicalTab,Meghajtás ablak,"Label of the key that opens the Settlement Panel and selects the Mechanical tab, Power should be the same as BatchControl.Mechanical"
+KeyBinding.MigrationTab,Migráció ablak,"Label of the key that opens the Settlement Panel and selects the Migration tab, Migration should be the same as BatchControl.Migration"
+KeyBinding.MoveCameraDown,Lefelé mozgatás,Label of the key that moves the camera down
+KeyBinding.MoveCameraFast,Mozgási sebesség növelés,Label of the key that modifies the speed of camera movement and rotation
+KeyBinding.MoveCameraLeft,Balra mozgatás,Label of the key that moves the camera left
+KeyBinding.MoveCameraRight,Jobbra mozgatás,Label of the key that moves the camera right
+KeyBinding.MoveCameraUp,Felfelé mozgatás,Label of the key that moves the camera up
 KeyBinding.NextDistrict,Következő kerület kiválasztása,Label of the key that selects the next district
 KeyBinding.NextRootButton,Következő eszköztár kategória,Label of the key that selects the next toolbar (bottom bar) category.
 KeyBinding.NextTool,Következő eszköz,Label of the key that selects the next tool from currently selected toolbar category.
-KeyBinding.OpenWellbeingPanel,Jólét panel megnyitása,"Label of the key that opens the Well-being box, Well-being should be the same as Wellbeing.DisplayName"
+KeyBinding.OpenWellbeingPanel,Jóllét ablak,"Label of the key that opens the Well-being box, Well-being should be the same as Wellbeing.DisplayName"
 KeyBinding.PickVisibleLayer,Látható réteg kiválasztása,Label of the key that picks the layer of the visible terrain currently under the cursor
 KeyBinding.PreviousDistrict,Előző kerület kiválasztása,Label of the key that selects the previous district
 KeyBinding.PreviousRootButton,Előző eszköztár kategória,Label of the key that selects the previous toolbar (bottom bar) category.
 KeyBinding.PreviousTool,Előző eszköz,Label of the key that selects the previous tool from currently selected toolbar category.
-KeyBinding.RaiseVisibleLayer,Látható réteg emelése,Label of the key that increases the max visible vertical level of buildings
-KeyBinding.ResetCamera,"Kamera visszaállítása","Keybinding for resetting the camera to its default angle and zoom."
+KeyBinding.RaiseVisibleLayer,Látható réteg növelése,Label of the key that increases the max visible vertical level of buildings
+KeyBinding.ResetCamera,"Visszaállítás","Keybinding for resetting the camera to its default angle and zoom."
 KeyBinding.ResetMapEditorSimulation,Szimuláció alaphelyzetbe állítása,Label of the key that resets the water and badwater simulations
-KeyBinding.RestoreCamera,Kamera pozíció betöltése,Label of the key that restores the camera to the position saved by KeyBinding.SaveCamera
-KeyBinding.RotateCameraDown,Kamera lefelé forgatása,Label of the key that rotates the camera down
-KeyBinding.RotateCameraLeft,Kamera balra forgatása,Label of the key that rotates the camera left
-KeyBinding.RotateCameraLeft90,Kamera 90 fokkal balra forgatása,Label of the key that rotates the camera left by 90 degrees
-KeyBinding.RotateCameraRight,Kamera jobbra forgatása,Label of the key that rotates the camera right
-KeyBinding.RotateCameraRight90,Kamera 90 fokkal jobbra forgatása,Label of the key that rotates the camera right by 90 degrees
-KeyBinding.RotateCameraUp,Kamera felfelé forgatása,Label of the key that rotates the camera up
-KeyBinding.RotateClockwise,Forgatás óramutató járásával,Label of the key that rotates the selected object clockwise
-KeyBinding.RotateCounterclockwise,Forgatás ellentétes óramutató járásával,Label of the key that rotates the selected object counterclockwise
-KeyBinding.SaveCamera,Kamera pozíció mentése,Label of the key that saves the current camera position
+KeyBinding.RestoreCamera,Pozíció betöltése,Label of the key that restores the camera to the position saved by KeyBinding.SaveCamera
+KeyBinding.RotateCameraDown,Lefelé forgatás,Label of the key that rotates the camera down
+KeyBinding.RotateCameraLeft,Balra forgatás,Label of the key that rotates the camera left
+KeyBinding.RotateCameraLeft90,90 fokkal balra forgatás,Label of the key that rotates the camera left by 90 degrees
+KeyBinding.RotateCameraRight,Jobbra forgatás,Label of the key that rotates the camera right
+KeyBinding.RotateCameraRight90,90 fokkal jobbra forgatás,Label of the key that rotates the camera right by 90 degrees
+KeyBinding.RotateCameraUp,Felfelé forgatás,Label of the key that rotates the camera up
+KeyBinding.RotateClockwise,Forgatás az óramutató járásával megegyező irányban,Label of the key that rotates the selected object clockwise
+KeyBinding.RotateCounterclockwise,Forgatás az óramutató járásával ellentétes irányban,Label of the key that rotates the selected object counterclockwise
+KeyBinding.SaveCamera,Pozíció mentése,Label of the key that saves the current camera position
 KeyBinding.SaveMap,Térkép mentése,Label of the key that saves the map
 KeyBinding.Screenshot,Képernyőkép,Label of the key that takes a screenshot
-KeyBinding.ScreenshotUpscaled,Képernyőkép (nagyított),Label of the key that takes an upscaled screenshot
-KeyBinding.ShowGuidelines,Segédvonalak mutatása,Show guidelines when key is pressed
-KeyBinding.ShowStockpileOverlay,Tárolási áttekintő megjelenítése,Label of the key that shows the storage overlay
-KeyBinding.SkipDeleteConfirmation,Törlés megerősítésének kihagyása,Label of the key that skips the delete confirmation when held
+KeyBinding.ScreenshotUpscaled,Képernyőkép (nagyobb felbontás),Label of the key that takes an upscaled screenshot
+KeyBinding.ShowGuidelines,Segédvonalak megjelenítése,Show guidelines when key is pressed
+KeyBinding.ShowStockpileOverlay,Tárolási címkék megjelenítése,Label of the key that shows the storage overlay
+KeyBinding.SkipDeleteConfirmation,Törlés automatikus megerősítése,Label of the key that skips the delete confirmation when held
 KeyBinding.Speed0,Szünet be/kikapcsolása,Label of the key that pauses the game speed
 KeyBinding.Speed1,Játéksebesség >,Label of the key that sets the game speed to normal. > shouldn't be removed as it is the symbol for normal speed on UI button.
 KeyBinding.Speed2,Játéksebesség >>,Label of the key that sets the game speed to fast. >> shouldn't be removed as it is the symbol for fast speed on UI button.
 KeyBinding.Speed3,Játéksebesség >>>,Label of the key that sets the game speed to very fast. >>> shouldn't be removed as it is the symbol for very fast speed on UI button.
-KeyBinding.StorageTab,Tárolás lap megnyitása,"Label of the key that opens the Settlement Panel and selects the Storage tab, Storage should be the same as BatchControl.Storage"
+KeyBinding.StorageTab,Raktározás ablak,"Label of the key that opens the Settlement Panel and selects the Storage tab, Storage should be the same as BatchControl.Storage"
 KeyBinding.Toggle,Ki-/bekapcsolás:,Used to describe key binding that toggles something on/off.
-KeyBinding.ToggleBatchControlBox,Település panel váltása,Label of the key that opens/close the Settlement panel
-KeyBinding.ToggleBrushShape,Ecset forma váltása,"Label of the key that toggles the shape of the brush, 'brush shape' should be the same as MapEditor.Brush.Shape.Label"
-KeyBinding.ToggleBuildingPause,Kiválasztott épület szüneteltetése/folytatása,Label of the key that pauses/resumes the selected building
+KeyBinding.ToggleBatchControlBox,Település ablak,Label of the key that opens/close the Settlement panel
+KeyBinding.ToggleBrushShape,Ecsetforma váltása,"Label of the key that toggles the shape of the brush, 'brush shape' should be the same as MapEditor.Brush.Shape.Label"
+KeyBinding.ToggleBuildingPause,Megállítás/elindítás,Label of the key that pauses/resumes the selected building
 KeyBinding.ToggleConsole,Parancssor ki-/bekapcsolása,Label of the key that toggles the console with logs
 KeyBinding.ToggleGuidelines,Segédvonalak ki-/bekapcsolása,Toggle guidelines on/off
-KeyBinding.ToggleGUI,Felület láthatóságának váltása,Label of the key that hides/shows the whole user interface
-KeyBinding.ToggleHaulingPriority,Szállítási prioritás váltása,Label of the key that toggles the hauling priority of the selected object
-KeyBinding.ToggleNaturalResources,Természeti erőforrások váltása,Label of the key that shows/hides the natural resources in map editor. Natural resources should be the same as NaturalResources.Visibility.Show
-KeyBinding.ToggleStockpileOverlay,Tárolási áttekintő váltása,Label of the key that shows/hides the storage overlay
+KeyBinding.ToggleGUI,Felület elrejtése/megjelenítése,Label of the key that hides/shows the whole user interface
+KeyBinding.ToggleHaulingPriority,Szállítási prioritás,Label of the key that toggles the hauling priority of the selected object
+KeyBinding.ToggleNaturalResources,Természeti erőforrások,Label of the key that shows/hides the natural resources in map editor. Natural resources should be the same as NaturalResources.Visibility.Show
+KeyBinding.ToggleStockpileOverlay,Tárolási címkék ki-/bekapcsolása,Label of the key that shows/hides the storage overlay
 KeyBinding.ToggleStockpilePriority,Raktár prioritás váltása,Label of the key that toggles the priority of the selected warehouse between StockpilePriority.Accept/StockpilePriority.Obtain/StockpilePriority.Supply/StockpilePriority.Empty
-KeyBinding.ToggleWaterVisibility,Víz láthatóságának váltása,Label of the key that makes water semi-transparent
-KeyBinding.WorkplacesTab,Nyisd meg a Munkahelyek fület,"Label of the key that opens the Settlement Panel and selects the Workplaces tab, Workplaces should be the same as BatchControl.Workplaces"
+KeyBinding.ToggleWaterVisibility,Víz elrejtése/megjelenítése,Label of the key that makes water semi-transparent
+KeyBinding.WorkplacesTab,Munkahelyek ablak,"Label of the key that opens the Settlement Panel and selects the Workplaces tab, Workplaces should be the same as BatchControl.Workplaces"
 KeyBinding.ToggleWorkerType,"Munkástípus állítása",Keybinding for toggling the worker type.
 KeyBinding.UnlockTool,Szerszám feloldása,Label of the key that unlocks the currently selected tool
 KeyBinding.ZoomIn,Közelítés,Label of the key that zooms camera in
@@ -1029,11 +1029,11 @@ KeyBindingBox.DuplicatedBinding,"Ez a billentyűkombináció már hozzá van ren
 
 Szeretnéd mégis hozzárendelni?","Message shown on key rebinding dialog box when the user tries to assign a key combination that is already assigned to another key binding, {0} stands for the list of key bindings e.g. KeyBinding.Speed0, KeyBinding.ToggleGUI etc."
 KeyBindingBox.ClearBinding,Törlés,Text on the button in rebinding dialog box that clears the current key binding. Please keep short.
-KeyBindingBox.PrimaryBinding,Elsõdleges hozzárendelés,Header of the primary key bindings column in the key bindings panel
+KeyBindingBox.PrimaryBinding,Elsődleges,Header of the primary key bindings column in the key bindings panel
 KeyBindingBox.RebindingMessage,Nyomj meg egy billentyût a hozzárendelés újrakonfigurálásához: {0},"Message shown on key rebinding dialog box, {0} stands for the name of the key binding e.g. KeyBinding.Speed0, KeyBinding.ToggleGUI etc."
-KeyBindingBox.ResetToDefault,Visszaállítás alapértelmezett értékekre,Text on the button in key bindings panel that resets all key bindings to their default bindings
-KeyBindingBox.ResetToDefaultMessage,"  Biztos vagy benne, hogy vissza szeretnéd állítani az összes billentyû hozzárendelést az alapértelmezett értékekre?",Message shown on key bindings panel when the user clicks the KeyBindingBox.ResetToDefault button
-KeyBindingBox.SecondaryBinding,Másodlagos kötés,Header of the secondary key bindings column in the key bindings panel
+KeyBindingBox.ResetToDefault,Az alapértelmezett kiosztás visszaállítása,Text on the button in key bindings panel that resets all key bindings to their default bindings
+KeyBindingBox.ResetToDefaultMessage,"Biztosan vissza szeretnéd állítani az összes hozzárendelést az alapértelmezett értékre?",Message shown on key bindings panel when the user clicks the KeyBindingBox.ResetToDefault button
+KeyBindingBox.SecondaryBinding,Másodlagos,Header of the secondary key bindings column in the key bindings panel
 KeyBindingGroup.Buildings,Épületek,"Label for the key binding group associated with building controls (pausing, changing priority etc)"
 KeyBindingGroup.Camera,Kamera,"Label for the key binding group associated with camera controls (camera movement, rotation, zoom etc)"
 KeyBindingGroup.MapEditor,Térképszerkesztő,Label for the key binding group associated with map editor controls (mostly brush manipulation)
@@ -1047,10 +1047,10 @@ LoadMapPanel.Delete,Térkép törlése,A button. Please keep short.
 LoadMapPanel.DeleteMapPrompt,Biztosan törölni szeretné a következőt: {0}?,{0} stands for map name
 LoadMapPanel.Header,Térkép szerkesztése,
 MainMenu.RosettaPerformanceWarning,"Teljesítménycsökkenés.","Warning message displayed in the main menu when Rosetta (MacOS compatibility mode) is enabled. Preceded by the ""Rosetta: OFF"" message."
-MainMenu.WelcomeScreenStart,Indítás!,A button please keep short
+MainMenu.WelcomeScreenStart,Indítás,A button please keep short
 MainMenu.WelcomeScreenText,"Üdvözlet telepes!
 
-Most a <i>Timberborn korai hozzáférés</i> verzióját játszod.
+Most a <i>Timberborn korai hozzáférés</i> verziójával játszol.
 
 Az előtted álló út izgalmas, de ne felejtsd el, hogy a játék még fejlesztés alatt áll. Folyamatosan új tartalmakat adunk hozzá, és sok már létező részlet további munkára szorul. Hibák és összeomlások előfordulhatnak. Kérjük, oszd meg véleményedet a <i>Visszajelzés küldése</i> gombra kattintva vagy az hivatalos Discord szerveren.
 
@@ -1116,7 +1116,7 @@ MapEditor.ThumbnailCapturing.CameraPosition,Kamerahelyzet,Label for the controls
 MapEditor.ThumbnailCapturing.ClearOverlay,Add meg a méretet {0}x{0} és {1}x{1} között.,Text on the button in map editor that clears the overlay of the thumbnail
 MapEditor.ThumbnailCapturing.Description,Válaszd ki a térkép bélyegképének helyzetét. A térkép mentésekor képernyőkép készül.,Description of the map thumbnail panel in the map editor
 MapEditor.ThumbnailCapturing.Overlay,Átfedés:,Label of the controls in map editor that change the overlay of the thumbnail
-MapEditor.ThumbnailCapturing.OverlayTip,Válasszon egy 960x540 pixeles PNG vagy JPG fájlt. Használja az alfa csatornát az átfedés megjelenítéséhez az eredeti kép tetején.,Text in the thumbnail overlay selection dialog
+MapEditor.ThumbnailCapturing.OverlayTip,Válassz egy 960x540 pixeles PNG vagy JPG fájlt! Használd az alfa csatornát az eredeti képpel való átfedés megjelenítéséhez!.,Text in the thumbnail overlay selection dialog
 MapEditor.ThumbnailCapturing.Reset,Visszaállítás,Text on the button in map editor that resets the position of thumbnail image of the map to the default
 MapEditor.ThumbnailCapturing.SelectOverlay,Kiválasztás,Text on the button in map editor that changes the overlay of the thumbnail
 MapEditor.ThumbnailCapturing.Title,Térkép bélyegkép,Title of the map thumbnail panel in map editor
@@ -1174,7 +1174,7 @@ Mechanical.PowerCapacityPerMeter,kWh/m,Stands for horse power hour per meter - u
 Mechanical.PowerCapacitySymbol,kWh,Please keep short. Stands for horse power hour (as in kilowatt-hour); should keep similar.
 Mechanical.PowerInput,Teljesítménybemenet: {0},{0} stands for power amount followed by PowerSymbol
 Mechanical.PowerInputMaximum,Teljesítménybemenet / maximum: {0} / {1} ({2}%),{0} stands for input amount {1} stands for maximum amount followed by PowerSymbol {2} stands for efficency ratio in percent
-Mechanical.PowerOutput,Teljesítmény kimenet: {0},{0} stands for power amount
+Mechanical.PowerOutput,Teljesítménykimenet: {0},{0} stands for power amount
 Mechanical.PowerSymbol,kW,Please keep short. Stands for horse power; should keep similar.
 Mechanical.PowerSymbolPerFlow,kW/m³/s,Please keep short. Stands for horse power per cubic metre per second; hp should be the same as Mechanical.PowerSymbol.
 Menu.Continue,Folytatás,A button in main menu which opens the previously played game. Please keep short
@@ -1186,7 +1186,7 @@ Menu.ExitToDesktop,Kilépés az asztalra,A button please keep short
 Menu.ExitToDesktopPrompt,Biztosan kilép a játékból?,
 Menu.ExitToMenu,Visszalépés a főmenübe,A button please keep short
 Menu.ExitToMenuPrompt,Biztosan visszalép a főmenübe?,
-Menu.Feedback,Menjen a visszajelzési oldalra,A button please keep short
+Menu.Feedback,Visszajelzés,A button please keep short
 Menu.KeyBindings,Billentyűkiosztás,A button please keep short
 Menu.LoadGame,Betöltés,A button please keep short
 Menu.ModManager,Modulok,Label of a button that opens the mod manager.
@@ -1208,8 +1208,8 @@ Migration.ManualMigration,Manuális áthelyezés,Shown above manual migration pa
 Migration.MigratePopulation,Népesség áthelyezése,Button please keep short
 Migration.Minimum,Minimum,"Label shown in front of input field, with desired minimum amount of population in district"
 Migration.SameDistrict,Nem lehet ugyanarra a kerületre áthelyezni.,Shown on tooltip of disabled migration buttons when the chosen districts are same
-Modding.ActiveMods,"Aktív modok",A label for the list of mods active in the game.
-Modding.BrowseMods,Böngészés a helyi modok között,Label of the button that opens a file explorer with a directory with mods. Please keep short.
+Modding.ActiveMods,"Aktív modulok",A label for the list of mods active in the game.
+Modding.BrowseMods,Böngészés a helyi modulok között,Label of the button that opens a file explorer with a directory with mods. Please keep short.
 Modding.CloudSource,{0} modul,"Tooltip with source of the mod. {0} is the name of the cloud platform, for example Steam Műhely."
 Modding.DecreasePriority,Betöltési prioritás csökkentése,Label of a button that decreases the loading priority of a mod.
 Modding.DownloadMods,Modulok letöltése,Label of the button that opens some panel where mods can be downloaded. Please keep short.
@@ -1218,17 +1218,17 @@ Modding.LoadConfirmation,"Biztosan be akarod tölteni?",A message displayed in t
 Modding.LocalSource,Helyi modul,Tooltip saying that the mod is stored locally.
 Modding.MissingMod,"Hiányzó modul.",Shown on a tooltip for an icon that indicates a missing of a mod saved in save file.
 Modding.ModManagerHeader,Modulok,Header of the mod manager panel.
-Modding.ModsIncompatibilityMessage,"Úgy próbáltad betölteni a játékot, hogy a mentésben használt modok nem elérhetőek.",A message displayed in the mod incompatibility dialog box.
+Modding.ModsIncompatibilityMessage,"Úgy próbáltad betölteni a játékot, hogy a mentésben használt modulok nem elérhetőek.",A message displayed in the mod incompatibility dialog box.
 Modding.ModWarning.InvalidGameVersion,Ehhez a modulhoz magasabb játékverzió szükséges: {0}.,Message that is shown when a mod requires a higher game version. {0} is the required game version.
 Modding.ModWarning.MissingRequiredMod,Hiányzó kötelező modul: {0}.,Message that is shown when a mod is missing a required mod. {0} is the ID of the required mod.
 Modding.ModWarning.RequiredModInvalidOrder,"A kötelező ""{0}"" modul ennél a modulnál alacsonyabb a betöltési sorrendben.",Message that is shown when a required mod is below the mod in the load order. {0} is the ID of the required mod.
 Modding.ModWarning.RequiredModInvalidVersion,"A szükséges ""{0}"" modul verziója nem éri el a minimálisan szükséges verziót.",Message that is shown when a required mod has a version below the minimum required version. {0} is the ID of the required mod.
 Modding.ModWarning.RequiredModNotEnabled,"A szükséges ""{0}"" modul nincs engedélyezve.",Message that is shown when a required mod is not enabled. {0} is the ID of the required mod.
-Modding.OpenDirectory,Nyisd meg a modok könyvtárát,Label of a button that opens a file explorer with a directory with mods. Please keep short.
-Modding.ResetOrder,Visszaállítás a betöltési sorrend alapállapotba,Label of a button that resets the order of mods.
+Modding.OpenDirectory,Nyisd meg a modulok könyvtárát,Label of a button that opens a file explorer with a directory with mods. Please keep short.
+Modding.ResetOrder,A betöltési sorrend visszaállítása,Label of a button that resets the order of mods.
 Modding.RestartWarning,A változtatások csak újraindítás után lépnek életbe.,Message that is shown when the player has changed something in Mod Manager and need to restart the game for the changes to take effect.
 Modding.SavedMods,"A mentés moduljai",A label for the list of mods found in the save file.
-Modding.ShowSavedMods,"Modok: {0}",A label for the button that opens a panel with the list of mods found in the save file. {0} is a placeholder for the number of mods.
+Modding.ShowSavedMods,"Modulok: {0}",A label for the button that opens a panel with the list of mods found in the save file. {0} is a placeholder for the number of mods.
 Modding.ShowUploadPanel,Feltöltés,Label of a button that opens the panel with list of mods that can be uploaded to some cloud platform.
 Modding.ThumbnailInfo,"Helyezz egy ""thumbnail"" képfájlt a modul könyvtárába a miniatűr beállításához. A fájl mérete nem haladhatja meg az 1 MB-ot, és a 16:9 képarány javasolt.",Info text that explains how to set a thumbnail for a mod
 Modding.UploadPanelHeader,Modul feltöltése,Header of the panel that allows uploading mods to some cloud platform.
@@ -1268,7 +1268,7 @@ NaturalResource.Maple.FlavorDescription,"A megcsapolható juharfák szirupot ter
 NaturalResource.Oak.DisplayName,Tölgy,Common oak tree.
 NaturalResource.Oak.FlavorDescription,A legjobb hód építmények tölgyfa és vas kötésben állnak.,This idiom makes perfect literal sense for the Iron Teeth.
 NaturalResource.Pine.DisplayName,Fenyő,Tree of the genus Pinus
-NaturalResource.Pine.FlavorDescription,"""Figyeld meg, hogyan áll a fenyőfa! Minden egyes tűlevele egy kis 'fenyőcske', ami télen is zöld marad."" —Unknown beaver poet","""Pine"" pun, feel free to adapt."
+NaturalResource.Pine.FlavorDescription,"""Figyeld meg, hogyan áll a fenyőfa! Minden egyes tűlevele egy kis 'fenyőcske', ami télen is zöld marad."" —Ismeretlen hód költő","""Pine"" pun, feel free to adapt."
 NaturalResource.Potato.DisplayName,Krumpli,Plant Solanum tuberosum
 NaturalResource.Potato.FlavorDescription,"""Van több módja is a krumpli elkészítésének."" — Hód közmondás",
 NaturalResource.Soybean.DisplayName,Szójabab,Should be consistent with Good.Soybean.DisplayName
@@ -1292,7 +1292,7 @@ NaturalResources.Leftover,{0} (maradék),{0} stands for NaturalResource.DisplayN
 NaturalResources.Mature,{0} (érett),{0} stands for NaturalResource.DisplayName. Fully grown plant.
 NaturalResources.Seedling,{0} (palánta),{0} stands for NaturalResource.DisplayName. Not fully grown plant.
 NaturalResources.Visibility.Hide,Természeti erőforrások elrejtése,Tooltip for button hiding natural resources
-NaturalResources.Visibility.Show,Természeti erőforrások mutatása,Tooltip for button showing natural resources
+NaturalResources.Visibility.Show,Természeti erőforrások megjelenítése,Tooltip for button showing natural resources
 Need.BadwaterContamination.DisplayName,Szennyezés,Title of an effect that shows up when a beaver is contaminated. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Need.BeeSting.DisplayName,Méhcsípés,Title of an effect that shows up when a beaver has been stung by a bee.
 Need.BrokenTeeth.DisplayName,Törött fogak,Title of an effect that shows up when a beaver has broken its teeth
@@ -1345,13 +1345,13 @@ NewGameConfigurationPanel.FoodConsumption,Étel fogyasztás,"Label of a setting,
 NewGameConfigurationPanel.For,ennyi időre:,"Specifies a duration, between text fields, example usage: 'Drought duration handicap: [50%] for [10] cycles'"
 NewGameConfigurationPanel.DroughtDurationHandicap,Aszályidőtartam-csökkentés,"Label of a setting, makes droughts shorter during a game, example usage: 'Drought duration handicap: 50%"
 NewGameConfigurationPanel.Hard,Nehéz,Game mode keep short
-NewGameConfigurationPanel.HardModeDescription,"Az embörök nem élték túl, és te sem fogod.
+NewGameConfigurationPanel.HardModeDescription,"Az embörök nem élték túl, és te sem fogod!
 
 A településed kevés erőforrással indul.
 
 Az aszályok és a rosszvíz áradások kezdetben is súlyosak, és idővel csak rosszabbodnak.
 
-Élesítsd a metszőfogaidat.",Hard difficulty description. 'did not make it' as in they did not survive. 'sharpen your incisors' is meant to be a kind of a call to arms before a tough game. Badtide should be the same as Weather.Badtide
+Élesítsd a metszőfogaidat!",Hard difficulty description. 'did not make it' as in they did not survive. 'sharpen your incisors' is meant to be a kind of a call to arms before a tough game. Badtide should be the same as Weather.Badtide
 NewGameConfigurationPanel.InjuryChance,Sérülés esélye,"Label of a setting, how often injuries occur in workshops (relative to predefined value), example usage: 'Injury chance: 50%'. Injury must be the same as Need.Injury.DisplayName"
 NewGameConfigurationPanel.Normal,Normál,Game mode keep short
 NewGameConfigurationPanel.NormalModeDescription,"Szereted a kihívásokat.
@@ -1372,17 +1372,17 @@ NewGameConfigurationPanel.ChanceForBadtide,Rosszvíz ár esélye,"Label of a set
 NewGameConfigurationPanel.CyclesBeforeBadtideRandomization,Áradások száma víz nélkül,"Label of a setting, how many cycles there will be without badtide seaon possibility. Badtide should be the same as Weather.Badtide"
 NewGameConfigurationPanel.BadtideDuration,Rosszvíz ár időtartama,"Label of a setting, how long badtide season could be. Badtide should be the same as Weather.Badtide"
 NewGameConfigurationPanel.BadtideDurationHandicap,Rosszvíz ár időtartam csökkentése,"Label of a setting, makes badtide season shorter during a game, example usage: 'Badtide duration handicap: 50%. Badtide should be the same as Weather.Badtide"
-NewGameFactionPanel.SubHeader,Válassz Frakciót,
-NewGameMapPanel.SubHeader,Válassz Térképet,
+NewGameFactionPanel.SubHeader,Válassz Frakciót!,
+NewGameMapPanel.SubHeader,Válassz Térképet!,
 NewMapPanel.Header,Új térkép létrehozása,
 Planting.NoPriorityOption,Nincs,No resource is prioritized
 Planting.Prioritize,Előnyben részesített növény:,Which resource to prioritize when planting.
 Planting.ReplantDeadTrees,"Vágásra nem jelölt elpuszt fák újratelepítése",Label of toggle in forester panel fragment
-Planting.UnlockPrompt,"Ahhoz, hogy {1} növényt telepíts, fel kell oldanod {0}-et.",{0} stands for Building.DisplayName {1} stands for NaturalResource.DisplayName.
+Planting.UnlockPrompt,"Ahhoz, hogy {1} növényt telepíts, fel kell oldanod a {0} épületet.",{0} stands for Building.DisplayName {1} stands for NaturalResource.DisplayName.
 PlantingTool.Description,Használd ezt az eszközt egy terület kijelöléséhez a telepítéshez.,
 PlantingTool.RequiredBuilding,Szükséges épület: {0},{0} stands for Building.DisplayName.
 PlayerData.CorruptedDataInfo.CorruptedFilePresent,A sérült játékos adatfájl másolatát megtekintheted a <link><b>játék dokumentumkönyvtárában</b></link>.,Corrupted means broken or unusable due to some error.
-PlayerData.CorruptedDataInfo.Header,"Probléma merült fel a játékos adatfájl olvasásakor. A tartalmát helyreállítottuk egy helyi biztonsági másolatból, de néhány beállításod (beleértve a feloldott frakciókat és a megtanult térképeket) elveszhetett.",
+PlayerData.CorruptedDataInfo.Header,"Probléma merült fel a játékos adatfájl olvasásakor. A tartalmát helyreállítottuk egy helyi biztonsági másolatból, de néhány beállításod (beleértve a feloldott frakciókat és a befejezett térképeket) elveszhetett.",
 Population.AllPerished,"És habár minden hód elpusztult, a folyó tovább folyt,
 rövid létezésük csak egy faforgácsmorzsa volt.",UI information displayed as a tooltip when the entire population has died.
 Priorities.VeryLow,Nagyon alacsony,Please keep short
@@ -1392,25 +1392,27 @@ Priorities.High,Magas,Please keep short
 Priorities.VeryHigh,Nagyon magas,Please keep short
 RecoverableGood.RecoveredGoods,Visszanyert áruk:,Label on tooltip that shows up when the player want to destroy building(s). Followed by list of resources.
 RecoveredGoodStack.DeletePrompt,"A törmelékben lévő összes áru elveszik. Biztosan szeretnéd eltávolítani?","Prompt shown when the player clicks delete button on chosen rubble,Rubble should be the same as RecoveredGoodStack.DisplayName"
-RecoveredGoodStack.Description,"Az épület lerombolása után hátramaradt anyagok, amelyeket az építők összegyűjthetnek.",Description of stack of goods spawned after destroying a building. Builders should be translated the same way as in Building.BuildersHut.Description key
+RecoveredGoodStack.Description,"Épületek lerombolása után maradt hátra, az építők begyűjthetik a benne lévő anyagokat.",Description of stack of goods spawned after destroying a building. Builders should be translated the same way as in Building.BuildersHut.Description key
 RecoveredGoodStack.DisplayName,Törmelék,Display name of stack of goods spawned after destroying a building
-RecoveredGoodStack.FlavorDescription,Úgyis eltakarta a kilátást.,
-RecoveredGoodStack.Priority,Gyűjtési prioritás:,Setting a priority for resources gathering work on a Rubble. Could be similar to Demolish.PriorityTitle
+RecoveredGoodStack.FlavorDescription,Amúgy is csak takarta a kilátást...,
+RecoveredGoodStack.Priority,Begyűjtési prioritás:,Setting a priority for resources gathering work on a Rubble. Could be similar to Demolish.PriorityTitle
 Resources.EatableRaw,Nyersen is fogyasztható.,Shown on a tooltip of goods that can be eaten raw.
-Resources.GatheredBy,Gyűjtve:,"Header above list of buildings that can gather certain resource. Gathered is meant as general term, containing resource gathering of gatherers, farmers, lumberjacks, tappers."
+Resources.GatheredBy,Begyűjti:,"Header above list of buildings that can gather certain resource. Gathered is meant as general term, containing resource gathering of gatherers, farmers, lumberjacks, tappers."
 Ruins.ShuffleModel,Keverési modell,Shuffle as in Randomize.
 Saving.DeleteSave,Mentés törlése,A button. Please keep short.
-Saving.DeleteSavePrompt,Biztosan törölni szeretnéd ezt: {0}?,{0} stands for save name
+Saving.DeleteSavePrompt,"Biztosan törölni szeretnéd ezt a mentést?
+{0}",{0} stands for save name
 Saving.DeleteSettlement,Település törlése,A button. Please keep short.
 Saving.DeleteSettlementPrompt,Biztosan törölni szeretnéd a(z) {0} nevű települést? Ez törölni fogja a település minden mentését.,{0} stands for settlement name
 Saving.Error,"Mentés sikertelen! Győződj meg róla, hogy nincsenek illegális karakterek a névben, és van elegendő lemezterület.",Message shown to player when saving game or map failed
 Saving.InvalidName,"Érvénytelen név. Győződj meg róla, hogy a névben nincsenek tiltott karakterek.",Error message shown after inputting a settlement name with illegal characters such > < ?.
 Saving.LoadGamePanelHeader,Játék betöltése,
 Saving.MissingMacOSPermissionsLocKey,"A Timberborn szüksége van engedélyre a mentett játékállományok tárolásához a merevlemezen. A játék most bezár és megnyitja a személyes adatvédelmi beállításokat, ahol megadhatod számára a szükséges engedélyeket.",A message shown to players if they did not grant the necessary permissions on macOS.
-Saving.NameSettlement,Hogyan szeretnéd elnevezni a településedet?,A prompt in the box for naming your settlement after starting a new game.
+Saving.NameSettlement,Nevezd el a településedet!,A prompt in the box for naming your settlement after starting a new game.
 Saving.NonCompatibleSaveVersion,"Ez a mentés egy nagy átdolgozás előtt készült, és nem tölthető be.
 Igyekszünk minimalizálni a mentési kompatibilitás elvesztését, azonban a visszajelzéseitekre válaszolva és a játék fejlesztése során nem mindig lehetséges.",
-Saving.SaveExists,"A(z) ""{0}"" nevű mentés már létezik.",{0} stands for save name
+Saving.SaveExists,"Ilyen nevű mentés már létezik.
+{0}",{0} stands for save name
 Saving.SaveGamePanelHeader,Mentés,
 Saving.Saves,Mentések,One of the two headers in the load game panel. Shown above a list of saves assigned to a settlement.
 Saving.SemiCompatibleSaveVersion,"Ez a mentés verziója ({0}) nem kompatibilis a jelenlegi játékverzióval ({1}). A mentés betöltése lefagyást okozhat, és súlyos játékhibákkal találkozhatsz. Erősen javasoljuk, hogy indíts új játékot a teljes új funkciók élvezetéhez.
@@ -1431,22 +1433,22 @@ Settings.GameSaving.AutoSavingOn,Automatikus mentés,
 Settings.GameSaving.Header,Mentés,
 Settings.Header,Beállítások,
 Settings.Input.DragCamera,Kamera húzása,
-Settings.Input.EdgePanCamera,Szél görgetése,"When this option is enabled, player can move camera by moving mouse to screen edge"
-Settings.Input.EdgePanCameraSpeed,Szél görgetés sebessége,
+Settings.Input.EdgePanCamera,Képernyőszéllel mozás,"When this option is enabled, player can move camera by moving mouse to screen edge"
+Settings.Input.EdgePanCameraSpeed,Képernyőszéllel mozás sebessége,
 Settings.Input.Header,Bemenet,
-Settings.Input.InvertZoom,Zoom fordítása,
-Settings.Input.KeyboardCameraMovementSpeed,Billentyűzet mozgási sebesség,
-Settings.Input.KeyboardCameraRotationSpeed,Billentyűzet forgási sebesség,
-Settings.Input.KeyboardCameraZoomSpeed,Billentyűzet zoom sebesség,
-Settings.Input.LockCursorInWindow,Egérkurzor rögzítése az ablakban,"When this option is enabled, mouse cursor cannot leave game window / display"
-Settings.Input.MouseWheelCameraZoomSpeed,Egér görgő zoom sebessége,Label of a slider for setting the speed of camera zooming with the mouse wheel.
+Settings.Input.InvertZoom,Fordított közelítés/távolítás,
+Settings.Input.KeyboardCameraMovementSpeed,Billentyűvel mozgás sebessége,
+Settings.Input.KeyboardCameraRotationSpeed,Billentyűvel forgatás sebessége,
+Settings.Input.KeyboardCameraZoomSpeed,Billentyűvel közelítés/távolítás sebessége,
+Settings.Input.LockCursorInWindow,Egérkurzor rögzítése az ablakhoz,"When this option is enabled, mouse cursor cannot leave game window / display"
+Settings.Input.MouseWheelCameraZoomSpeed,Egérgörgővel közelítés/távolítás sebessége,Label of a slider for setting the speed of camera zooming with the mouse wheel.
 Settings.Input.SwapMouseCameraMovementWithRotation,Kamera gombok cseréje,"When this option is enabled, the middle mouse button is swapped with the right mouse button"
 Settings.Language.Change,Változtatás,Please keep short
 Settings.Language.Warning,A változások csak a játék újraindítása után lépnek életbe.,Warning shown when user changes language
-Settings.Language.Restart,Most újraindítás,Please keep short
+Settings.Language.Restart,Újraindítás,Please keep short
 Settings.Language.Current,Nyelv:,
-Settings.Screen.AntiAliasing,Anti-aliasing (Élsimítás),Label for anti-aliasing toggle in settings window
-Settings.Screen.FrameRateLimit,Keretsebesség korlát,Label of a dropdown for setting a FPS limit. It should probably be left unchanged in most languages.
+Settings.Screen.AntiAliasing,Élsimítás,Label for anti-aliasing toggle in settings window
+Settings.Screen.FrameRateLimit,FPS-korlát,Label of a dropdown for setting a FPS limit. It should probably be left unchanged in most languages.
 Settings.Screen.FrameRateLimit.Unlimited,Korlátlan,A dropdown value indicating unlimited frame rate.
 Settings.Screen.FrameRateLimit.Value,{0} FPS,{0} is a number. FPS stands for Frames Per Second.
 Settings.Screen.FullScreen,Teljes képernyő,
@@ -1456,7 +1458,7 @@ Settings.Screen.Quality.High,Magas,Please keep short
 Settings.Screen.Quality.Low,Alacsony,Please keep short
 Settings.Screen.Quality.Medium,Közepes,Please keep short
 Settings.Screen.Quality.Ultra,Ultra,Please keep short
-Settings.Screen.ResolutionScale,Felbontás skála,Please keep short
+Settings.Screen.ResolutionScale,Felbontásskálázás,Please keep short
 Settings.Screen.ScreenResolution,Képernyőfelbontás,
 Settings.Screen.VSync,VSync,Label of a dropdown for choosing a VSync mode.
 Settings.Screen.VSync.0,Ki,A dropdown item indicating VSync mode.
@@ -1467,20 +1469,20 @@ Settings.Sound.Header,Hang,
 Settings.Sound.MasterVolume,Fő hangerő,
 Settings.Sound.MusicVolume,Zene hangerő,
 Settings.Sound.MuteWhenMinimized,"Némítás, ha minimalizált vagy háttérben van",
-Settings.Sound.UIVolume,UI hangerő,
+Settings.Sound.UIVolume,Kezelőfelület hangerő,
 Settings.Tutorial.Header,Útmutató,
 Settings.Tutorial.DisableTutorial,Útmutató kikapcsolása,
 Settings.UI.Header,Felület,
 Settings.UI.RelaxedCameraRestrictions,Kamera feloldása,
 Settings.UI.RunInBackground,Háttérben futtatás,A settings which controls whether the game should run when minimized or out of focus.
 Settings.UI.ShowFps,FPS számláló megjelenítése,
-Settings.UI.UIScaleFactor,UI mérete,
-Status.BadwaterContamination.Incubation,"Ez a hód túl sok időt töltött szennyezett rossz vízben. Jelenleg nincs baja, de pár nap múlva megbetegszik.",Shown as an status alert when beaver spents too much time in contaminated water (and will get sick soon). Badwater should be the same as Good.Badwater.DisplayName.
+Settings.UI.UIScaleFactor,Kezelőfelület mérete,
+Status.BadwaterContamination.Incubation,"Ez a hód túl sok időt töltött szennyezett rosszvízben. Jelenleg nincs baja, de pár nap múlva megbetegszik.",Shown as an status alert when beaver spents too much time in contaminated water (and will get sick soon). Badwater should be the same as Good.Badwater.DisplayName.
 Status.BadwaterContamination.Incubation.Short,A hód nincs jól,Shown as an status alert when beaver spents too much time in contaminated badwater (and will get sick soon). Please keep short.
 Status.Beaver.Dead,Meghalt.,Shown in the beaver info window to explain that the beaver died
 Status.Bot.Dead,Megsemmisült.,This shows up when a bot has been destroyed
-Status.Breeding.ProgressHalted,"Szaporodás szüneteltetve, tápanyagokra várva",
-Status.Breeding.ProgressHalted.Short,Szaporodás szüneteltetve,Please keep short.
+Status.Breeding.ProgressHalted,"Az inkubáció szünetel, tápanyagokra vár.",
+Status.Breeding.ProgressHalted.Short,Az inkubáció szünetel,Please keep short.
 Status.Builders.UnreachableBuilderJob,"Túl messze van a kerülettől, nem érhető el az építők által. Építs több utat vagy új kerületet.","Shown when a construction site, demolishable object or rubble is out of a district's range. Builders should be translated the same way as in Building.BuildersHut.Description key."
 Status.Buildings.BlockedByContamination,Ez az épület magas szennyezés mellett nem működik.,Shown as status when badwater contamination affects building and stops it from working. Badwater should be the same as Good.Badwater.DisplayName.
 Status.Buildings.BlockedByContamination.Short,Rosszvíz által blokkolva,Shown as status when badwater contamination affects building and stops it from working (please keep short). Badwater should be the same as Good.Badwater.DisplayName.
@@ -1536,9 +1538,9 @@ Status.Work.LackOfResources.Short,Nyersanyaghiány,Please keep short.
 Status.Work.NoUnemployed,Nincs elérhető munkás a kerületben.,Shown when there are no unemployed workers available in a district to work in this building.
 Status.Work.NoUnemployed.Short,Munkaerőhiány,A notification that lets players know that the building has no workers. Please keep short.
 Status.Yielding.NothingToDoInRange,Nincs mit csinálni a hatósugárban,
-SteamWorkshop.Changelog,Változási napló,Label of the text field that allows entering the changelog of the item to be uploaded to Steam Műhely.
+SteamWorkshop.Changelog,Változásnapló,Label of the text field that allows entering the changelog of the item to be uploaded to Steam Műhely.
 SteamWorkshop.Description,Leírás,Label of the text field that allows entering the description of the item to be uploaded to Steam Műhely.
-SteamWorkshop.LegalAgreement,Ez az elem beküldésével elfogadja a <link><u>műhely szolgáltatási feltételeit</u></link>.,Tagged text is a highlightable link to the Steam Műhely terms of service. Do not remove or translate tags.
+SteamWorkshop.LegalAgreement,Az elem beküldésével elfogadod a <link><u>Steam Műhely szolgáltatási feltételeit</u></link>.,Tagged text is a highlightable link to the Steam Műhely terms of service. Do not remove or translate tags.
 SteamWorkshop.Name,Név,Label of the text field that allows entering the name of the item to be uploaded to Steam Műhely.
 SteamWorkshop.Preview,Előnézet,Label of the preview of the item to be uploaded to Steam Műhely.
 SteamWorkshop.RefreshThumbnail,Frissítés,Label of a button that tries to load the preview of the item to be uploaded to Steam Műhely.
@@ -1546,7 +1548,7 @@ SteamWorkshop.ShowWorkshopItem,Megnyitás a Steam Műhelyben,Label of the button
 SteamWorkshop.SteamMapTooltip,Steam Műhely térkép,Tooltip on the map icon that indicates that the map is from Steam Műhely.
 SteamWorkshop.ShowWorkshopGroup,Csoport megnyitása,Label of a button that opens the Steam Műhely page of the modding group. Please keep short
 SteamWorkshop.Update,Frissítés,Label of the checkbox that determines whether certain elements of the item to be uploaded to Steam Műhely should be updated.
-SteamWorkshop.UploadAsNew,Új feltöltése,Label of the checkbox that determines whether the item to be uploaded to Steam Műhely should be uploaded as a new item or as an update to an existing item.
+SteamWorkshop.UploadAsNew,Feltöltés új elemként,Label of the checkbox that determines whether the item to be uploaded to Steam Műhely should be uploaded as a new item or as an update to an existing item.
 SteamWorkshop.UploadButton,Feltöltés,Text on the button that starts uploading the item to Steam Műhely.
 SteamWorkshop.UploadFailed,"A feltöltés sikertelen, Steam hibakód: {0}","Message that is shown when an item could not be uploaded to Steam Műhely. {0} is the error code, for example ""k_EResultAccessDenied (15)"""
 SteamWorkshop.UploadHeader,Feltöltés a Steam Műhelybe,Header of the panel that allows uploading items to Steam Műhely.
@@ -1574,11 +1576,11 @@ Time.HoursShort,{0} óra,"{0} stands for hours, for example 16h. Please keep ver
 ToolGroups.Decoration,Dekoráció,Buildings and objects that are for decoration
 ToolGroups.Demolishing,Épületek és erőforrások lerombolása,
 ToolGroups.DistrictManagement,Kerületkezelés,"Toolbar category for buildings used for district management - that includes builders, moving goods and making new districts"
-ToolGroups.FieldsPlanting,Növénytermesztés,This is in active voice as in 'to plant crops'
+ToolGroups.FieldsPlanting,Haszonnövények ültetése,This is in active voice as in 'to plant crops'
 ToolGroups.Food,Élelmiszer,Buildings pertaining to growing and production of food
 ToolGroups.ForestryPlanting,Fák és bokrok ültetése,This is in active voice
 ToolGroups.Housing,Házépítés,Buildings that beavers can live in
-ToolGroups.Landscaping,Kertépítés,Buildings that allow changes to land such as Dams or Dynamite
+ToolGroups.Landscaping,Tereprendezés,Buildings that allow changes to land such as Dams or Dynamite
 ToolGroups.NaturalOverhangs,Természetes túlnyúlások,Name for the category grouping natural/rock overhangs in the toolbar.
 ToolGroups.MapEditor,Térképszerkesztő,Objects specific to map editor such as starting point or water source
 ToolGroups.Metal,Vas,Buildings that allow to collect and produce with metal
@@ -1586,7 +1588,7 @@ ToolGroups.Monuments,Emlékművek,Awe-inspiring statues and fantastic contraptio
 ToolGroups.Other,Egyéb,Buildings that don't fit in other categories
 ToolGroups.Paths,Utak és szerkezetek,"Buildings that are made to be built and walked upon or to support other buildings such as paths, stairs and platforms"
 ToolGroups.Power,Energetika,Buildings that produce and transfer power
-ToolGroups.Priority,Prioritások hozzárendelése,This is in active voice
+ToolGroups.Priority,Prioritások beállítása,This is in active voice
 ToolGroups.Ruins,Romok,Group for different types of ruin objects
 ToolGroups.Science,Tudomány,Buildings that produce Science points
 ToolGroups.Storage,Tárolás,Buildings that store goods and resources
@@ -1644,9 +1646,9 @@ A gyűjtögetők automatikusan leszedik az áfonyát a zászló hatósugarában.
 Tutorial.Stage.MarkBirchesForPlanting,"Most már ültethetsz fákat is. Válaszd ki a Fák és bokrok ültetése eszközt, és ültess néhány nyírfát.
 
 Ahogy a terményeknél, a fák növekedéséhez is szükség van öntözésre. Ne felejtsd el őket vágásra kijelölni!","'Fák és bokrok ültetése' ugyanaz, mint a ToolGroups.ForestryPlanting."
-Tutorial.Stage.MarkCarrots,"A gazdák nem kezdenek el dolgozni, amíg meg nem mondod nekik, mit és hol kell ültetni. Használd a Növénytermesztés eszközt egy répaföld kijelöléséhez.
+Tutorial.Stage.MarkCarrots,"A gazdák nem kezdenek el dolgozni, amíg meg nem mondod nekik, mit és hol kell ültetni. Használd a Haszonnövények ültetése eszközt egy répaföld kijelöléséhez.
 
-A terményeket öntözött földre kell ültetni, különben kiszáradnak és elpusztulnak.","A Növénytermesztés ugyanaz, mint a ToolGroups.FieldsPlanting."
+A terményeket öntözött földre kell ültetni, különben kiszáradnak és elpusztulnak.","A Haszonnövények ültetése ugyanaz, mint a ToolGroups.FieldsPlanting."
 Tutorial.Stage.BasicStorage,"Bár minden általad elhelyezett épület rendelkezik némi tárolókapacitással, azok gyorsan megtelnek.
 
 Építs további raktárakat a farönköknek és víznek. Minden tárolóépület csak egyféle erőforrást képes tárolni. Beállíthatod, miután kiválasztottad az épületet.",
