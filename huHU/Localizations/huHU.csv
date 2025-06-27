@@ -1405,6 +1405,10 @@ Saving.DeleteSavePrompt,"Biztosan törölni szeretnéd ezt a mentést?
 Saving.DeleteSettlement,Település törlése,A button. Please keep short.
 Saving.DeleteSettlementPrompt,Biztosan törölni szeretnéd a(z) {0} nevű települést? Ez törölni fogja a település minden mentését.,{0} stands for settlement name
 Saving.Error,"Mentés sikertelen! Győződj meg róla, hogy nincsenek illegális karakterek a névben, és van elegendő lemezterület.",Message shown to player when saving game or map failed
+Saving.InvalidFile,"A betöltendő mentés sérült!
+
+Település: {0}
+Mentés: {1}","Error message shown after trying to load a save file that is corrupted."
 Saving.InvalidName,"Érvénytelen név. Győződj meg róla, hogy a névben nincsenek tiltott karakterek.",Error message shown after inputting a settlement name with illegal characters such > < ?.
 Saving.LoadGamePanelHeader,Játék betöltése,
 Saving.MissingMacOSPermissionsLocKey,"A Timberborn szüksége van engedélyre a mentett játékállományok tárolásához a merevlemezen. A játék most bezár és megnyitja a személyes adatvédelmi beállításokat, ahol megadhatod számára a szükséges engedélyeket.",A message shown to players if they did not grant the necessary permissions on macOS.
