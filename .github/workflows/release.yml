@@ -24,9 +24,9 @@ jobs:
     - name: Extract mod.io metadata
       id: metadata
       run: |
-        GAME_ID=$(jq '.game' metadata.json)
-        MOD_ID=$(jq '.mod' metadata.json)
-        VERSION=$(jq '.version' metadata.json)
+        GAME_ID=$(jq '.modIo.game' huHU/manifest.json)
+        MOD_ID=$(jq '.modIo.mod' huHU/manifest.json)
+        VERSION=$(jq '.version' huHU/manifest.json)
         CHANGELOG=$(git for-each-ref $GITHUB_REF --format='%(contents)')
 
     - uses: nickelc/upload-to-modio@v2.1.0

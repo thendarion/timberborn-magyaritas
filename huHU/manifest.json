@@ -4,6 +4,10 @@
   "Id": "huHU",
   "MinimumGameVersion": "0.7.0.0",
   "Description": "Végre a hódok magyar nyelven építhetik településüket. De vajon túlélik-e az aszályokat és a rosszvízáradásokat? :D",
-  "RequiredMods": [
+  "modIo": [
+    {
+      "game": 3659,
+      "mod": 4960361
+    }
   ]
 }
