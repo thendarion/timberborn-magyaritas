@@ -25,12 +25,18 @@ jobs:
     - name: Extract mod.io metadata
       id: metadata
       run: |
-        echo GAME_ID=$(jq '.modIo.game' huHU/manifest.json) >> $GITHUB_ENV
-        echo MOD_ID=$(jq '.modIo.mod' huHU/manifest.json) >> $GITHUB_ENV
-        echo VERSION=$(jq '.version' huHU/manifest.json) >> $GITHUB_ENV
+        GAME_ID=$(jq '.modIo.game' huHU/manifest.json)
+        echo "GAME_ID: $GAME_ID"
+        echo GAME_ID=$GAME_ID >> $GITHUB_ENV
+        MOD_ID=$(jq '.modIo.mod' huHU/manifest.json)
+        echo "MOD_ID: $MOD_ID"
+        echo MOD_ID=$MOD_ID >> $GITHUB_ENV
+        VERSION=$(jq '.Version' huHU/manifest.json)
+        echo "VERSION: $VERSION"
+        echo VERSION=$VERSION >> $GITHUB_ENV
         GITHUB_REF_NAME="${GITHUB_REF##*/}"
-        echo CHANGELOG="$(git tag -l --format='%(contents)' $GITHUB_REF_NAME)"
-        echo $CHANGELOG
+        echo "CHANGELOG: $(git tag -l --format='%(contents)' $GITHUB_REF_NAME)"
+        echo "CHANGELOG: $CHANGELOG"
         echo $CHANGELOG >> $GITHUB_ENV
 
 
