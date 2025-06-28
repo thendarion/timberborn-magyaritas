@@ -1,0 +1,41 @@
+ID,Text,Comment
+Menu.Mods,Egyedi térképek és modulok,Button opening a menu that allows downloading mods and custom maps. Keep short.
+Mods.Download,Letöltés,Button to download a mod. Keep short.
+Mods.Info,Infó,Button to show more info about a mod. Keep short.
+Mods.Loading,Betöltés…,Info text shown when mods are loading.
+Mods.Tags,Címkék:,Header above available list of tags. Keep short.
+Mods.Author,Szerző:,Label before the author of mod.
+Mods.Downloads,Letöltések:,Label before count of mod downloads.
+Mods.ShowMore,Tovább,Button to show more mods. Keep short.
+Mods.Tags.All,Mind,Tag options to show all mods and maps. Keep short.
+Mods.Votes,Szavazatok:,Label before count of mod likes and dislikes.
+Mods.ModsChanged,A változtatások újraindítás után lépnek életbe,Instruction on the dialog for the user to restart the game after changes to mods have been made
+Mods.Quit,Kilépés,Button to quit game
+Mods.Restart,Újraindítás,Button to restart game
+Mods.Stay,Vissza,Button to not quit the game immediately
+Mods.Enabled,Engedélyezve,Toggle for if a mod is enabled or not. Keep short.
+Mods.Installed,Telepítve,Toggle for is a mod is installed or not. Keep short.
+Mods.Uninstall,Eltávolítás,Button to uninstall a mod.
+Mods.Options,Opciók:,Header above available list of special options. Keep short.
+Mods.Dependencies,Függőségek:,Header above available list of Dependencies. Keep short.
+Mods.InstalledVersion,Telepített verzió:,Header above available list of InstalledVersion. Keep short.
+Mods.LiveVersion,Élő verzió:,Header above of Live version. Keep short.
+Mods.Newest,Legújabb,Button to sort by newest.
+Mods.MostDownloaded,Legtöbb letöltés,Button to sort by amount of downloads.
+Mods.TopRated,Legjobb értékelés,Button to sort by amount of likes.
+Mods.LastUpdated,Legutóbb frissített,Button to sort by last update day.
+Mods.UpdateAllLabel,{0} frissítés elérhető.,Label for informing how many mods have updates pending.
+Mods.UpdateAll,Az összes frissítése,Button for updating all updatable mods. Keep short
+Mods.Empty,,Empty string
+Mods.Update,Frissítés,Button to update mod. Keep short
+Mods.Versions,Telepíthető verziók, Label for versions of a mod that are available in mod.io
+Mods.UpdateBehaviour,Az élő helyett a legújabb verzió keresése,-
+Mods.UpdateBehaviourTooltip,Általában az élő verzió való a stabil játékhoz. Néha elérhető újabb verzió a játék kísérleti ágához.,-
+Mods.VersionUnknown,"A modfájlok alapján nem nyilvánvaló, hogy működik-e a jelenlegi játékverzióval.",-
+Mods.VersionCompatible,A modfájlok alapján kompatiblilisnek találtuk a jelenlegi játékverzióval.,-
+Mods.VersionIncompatible,A modfájlok alapján nem találtunk a jelen játékverzióval kompatililis modverziót. Nem ajánlott telepíteni.,-
+Mods.CrashInfo,"Úgy tűnik, a játék összeomlott a betöltés során. Alább, a következő összeomlást megelőzendő, letilthatsz modulokat.",-
+Mods.EnableAll,Minden modul engedélyezése,-
+Mods.DisableAll,Minden modul letiltása,-
+Mods.GoToCrashReport,A hibajelentés megtekintése,-
+Mods.Browser,Modtallózó,-
