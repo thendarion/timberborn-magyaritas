@@ -21,6 +21,7 @@ jobs:
     - uses: ncipollo/release-action@v1
       with:
         artifacts: "TimberHUN.zip"
+        skipIfReleaseExists: true
 
     - name: Extract mod.io metadata
       id: metadata
