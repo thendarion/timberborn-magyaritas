@@ -27,18 +27,13 @@ jobs:
       id: metadata
       run: |
         GAME_ID=$(jq '.modIo.game' huHU/manifest.json)
-        echo "GAME_ID: $GAME_ID"
         echo GAME_ID=$GAME_ID >> $GITHUB_ENV
         MOD_ID=$(jq '.modIo.mod' huHU/manifest.json)
-        echo "MOD_ID: $MOD_ID"
         echo MOD_ID=$MOD_ID >> $GITHUB_ENV
         MOD_VERSION=$(jq '.Version' huHU/manifest.json)
-        echo "MOD_VERSION: $MOD_VERSION"
         echo MOD_VERSION=$MOD_VERSION >> $GITHUB_ENV
         GITHUB_REF_NAME="${GITHUB_REF##*/}"
-        echo "CHANGELOG: $(git tag -l --format='%(contents)' $GITHUB_REF_NAME)"
-        echo "CHANGELOG: $CHANGELOG"
-        echo $CHANGELOG >> $GITHUB_ENV
+        git tag -l --format='%(contents)' $GITHUB_REF_NAME > changelog.txt
 
     - uses: nickelc/upload-to-modio@v2.1.0
       with:
@@ -46,5 +41,5 @@ jobs:
         game: ${{ env.GAME_ID }}
         mod: ${{ env.MOD_ID }}
         version: ${{ env.MOD_VERSION }}
-        changelog: ${{ env.CHANGELOG }}
+        changelog-path: changelog.txt
         path: TimberHUN.zip
