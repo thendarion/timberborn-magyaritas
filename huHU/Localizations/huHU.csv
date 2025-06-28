@@ -239,7 +239,7 @@ Building.ExercisePlaza.DisplayName,Gyakorlótér,
 Building.ExercisePlaza.FlavorDescription,"A Vasfogak szeretnének olyanok lenni, mint teremtményeik - mindig keményebbek, jobbak, gyorsabbak, erősebbek.","Reference to the Daft Punk song ""Harder, Better, Faster, Stronger""."
 Building.ExplosivesFactory.Description,Robbanóanyagot gyárt rosszvízből.,Explosives and badwater being resource names. Badwater should be the same as Good.Badwater.DisplayName.
 Building.ExplosivesFactory.DisplayName,Robbanóanyaggyár,Explosives is a resource name
-Building.ExplosivesFactory.FlavorDescription,"Ha már veszélyes, legyen hasznos is.",
+Building.ExplosivesFactory.FlavorDescription,"Ha már veszélyes, legyen hasznos is!",
 Building.FarmerMonument.DisplayName,Földműves Emlékmű,A large statue of a farmer carrying a bundle of wheat.
 Building.FarmerMonument.FlavorDescription,"Megzabolázzuk a pusztaságot, tápláljuk a népet.",
 Building.Farmhouse.Description,"Földműveseket alkalmaz, akik ültetnek és aratnak.",
@@ -428,15 +428,8 @@ Building.Platform.DisplayName,Állvány,
 Building.Platform.FlavorDescription,A lenyűgöző teherbírású hód állványok igazi építészeti mesterművek.,
 Building.PowerShaft.Description,Kinetikus energiát továbbít.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.PowerShaft.DisplayName,Hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
-Building.PowerShaftDownward.DisplayName,Lefelé kanyarodó hajtótengely,Power shaft that's pointed downward
 Building.PowerShaft.FlavorDescription,Kazkó bá nagy találmányainak egyike.,Flavor text for the Power Shaft building
 Building.PowerShaftHigh.DisplayName,Magas hajtótengely,For ease of translation could also be called an axle
-Building.PowerShaftIntersection.DisplayName,Hajtótengely-kereszteződés,For ease of translation could also be called an axle
-Building.PowerShaftStraight.DisplayName,Egyenes hajtótengely,For ease of translation could also be called an axle
-Building.PowerShaftTIntersection.DisplayName,T hajtótengely-kereszteződés,For ease of translation could also be called an axle. A three-way junction of power shafts.
-Building.PowerShaftTurn.DisplayName,Hajtótengely-kanyar,For ease of translation could also be called an axle
-Building.PowerShaftUpward.DisplayName,Felfelé kanyarodó hajtótengely,Power shaft that's pointed upward
-Building.PowerShaftVertical.DisplayName,Függőleges hajtótengely,Power shaft that's completely vertical
 Building.PowerWheel.Description,Hódhajtású hódkerék.,
 Building.PowerWheel.DisplayName,Erőkerék,Meaning a wheel that produces power
 Building.PowerWheel.FlavorDescription,A legnagyszerűbb ötletek néha a legkisebbektől jönnek.,This building looks like a hamster wheel.
@@ -508,12 +501,6 @@ Building.SmallWarehouse.FlavorDescription,"""Hányszor mondjam még el? Dinamit 
 Building.Smelter.Description,Hulladékvasból vasrudakat önt.,"Scrap metal should be the same as Good.ScrapMetal.DisplayName and metal blocks should be the same as Good.MetalBlock.DisplayName"
 Building.Smelter.DisplayName,Vaskohó,"A facility that uses very high temperature to produce metal blocks from iron ore."
 Building.Smelter.FlavorDescription,"Az új hód világ verejték és égett szőr szagú.",
-Building.SolidPowerShaft.Description,Kinetikus energiát továbbít. Függőlegesen is.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
-Building.SolidPowerShaft.DisplayName,Stabil hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
-Building.SolidPowerShaft.FlavorDescription,Mire ez a nagy felhajtás?,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
-Building.SolidTubeway.Description,"Modern, hatékony, bár kicsit szűkös közlekesést tesz lehetővé. Függőlegesen is.",The first sentence must be the same as Building.Tubeway.Description
-Building.SolidTubeway.DisplayName,Stabil surranócső,"An expanded version of the Building.Tubeway.DisplayName with a solid platform on top of it, that allows other Tubes or structures to be placed on top of it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
-Building.SolidTubeway.FlavorDescription,"Fel, fel, le, le, balra, jobbra, balra, jobbra, bukj, araszolj… hmm… nem innen indultunk?",Konami Code reference
 Building.StartingLocation.DisplayName,Indulási helyszín,
 Building.StreamGauge.Contamination,Szennyeződés: {0},"Level of the water contamination, {0} stands for contamination level in percent. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project."
 Building.StreamGauge.Current,Vízhozam: {0} m³/s,"Intensity of the water current, {0} stands for current speed in cubic metre per second"
@@ -613,6 +600,7 @@ BuildingTools.Multiple,Tartsd lenyomva a bal egérgombot több objektum elhelyez
 BuildingTools.UnlockLabel,Feloldás:,"Label of the button that unlocks the building, please keep short."
 BuildingTools.UnlockPrompt,"Biztos vagy benne, hogy fel akarod oldani a(z) {0}-t? {1} Tudománypontba kerül.",{0} stands for Building.DisplayName {1} stands for amount. Prompt when player presses to unlock a building.
 Buildings.AboveGround,<YellowHighlight>Föld feletti:</YellowHighlight> Más épületek tetejére kell helyezni.,
+Buildings.BadwaterAccess,<YellowHighlight>Rosszvízfüggő:</YellowHighlight> Rosszvizet igényel.,
 Buildings.BottomConstraint,Ezt nem lehet a térkép legaljára építeni.,An alert for when someone tries to build at the lowest layer of the map.
 Buildings.ContinuousTerrainConstraint,"Megszakítások nélküli, folytonos föld szükséges a térkép aljáig.",Warning when trying to place an object (that requires it) on a terrain with gaps
 Buildings.DeletePrompt,"Biztos vagy benne, hogy le akarod bontani a kijelölt épület(ek)et? Nem lehet visszavonni.",
@@ -1082,7 +1070,7 @@ MapEditor.Brush.Height.Label,Ecset magassága:,Either absolute or relative heigh
 MapEditor.Brush.NaturalResourceRemoval,Természetes erőforrások eltávolítása,Natural resources meaning trees and bushes
 MapEditor.Brush.NaturalResourceSpawning,Természetes erőforrások,Natural resources meaning trees and bushes
 MapEditor.Brush.RandomizeYieldGrowth,Véletlenszerű hozamnövekedés,"This text is next to a toggle that randomizes the percentage growth of fruit, chestnuts or other things that can be gathered and regrow"
-MapEditor.Brush.RelativeTerrainHeight.Title,Terep magassága (relatív),A tool that changes terrain height by a value relative to the original height.
+MapEditor.Brush.RelativeTerrainHeight,Terep magassága (relatív),A tool that changes terrain height by a value relative to the original height.
 MapEditor.Brush.SculptingTerrain,Terep (formálás),"Label of the brush that allows the player to sculpt the terrain (e.g. dig tunnels or create overhangs)"
 MapEditor.Brush.Shape.Label,Ecset forma:,
 MapEditor.Brush.Shape.Round,Kerek,
@@ -1477,7 +1465,6 @@ Settings.Sound.UIVolume,Kezelőfelület hangerő,
 Settings.Tutorial.Header,Útmutató,
 Settings.Tutorial.DisableTutorial,Útmutató kikapcsolása,
 Settings.UI.Header,Felület,
-Settings.UI.RelaxedCameraRestrictions,Kamera feloldása,
 Settings.UI.RunInBackground,Háttérben futtatás,A settings which controls whether the game should run when minimized or out of focus.
 Settings.UI.ShowFps,FPS számláló megjelenítése,
 Settings.UI.UIScaleFactor,Kezelőfelület mérete,
@@ -1487,10 +1474,9 @@ Status.Beaver.Dead,Meghalt.,Shown in the beaver info window to explain that the 
 Status.Bot.Dead,Megsemmisült.,This shows up when a bot has been destroyed
 Status.Breeding.ProgressHalted,"Az inkubáció szünetel, tápanyagokra vár.",
 Status.Breeding.ProgressHalted.Short,Az inkubáció szünetel,Please keep short.
-Status.Builders.UnreachableBuilderJob,"Túl messze van a kerülettől, nem érhető el az építők által. Építs több utat vagy új kerületet.","Shown when a construction site, demolishable object or rubble is out of a district's range. Builders should be translated the same way as in Building.BuildersHut.Description key."
 Status.Buildings.BlockedByContamination,Ez az épület magas szennyezés mellett nem működik.,Shown as status when badwater contamination affects building and stops it from working. Badwater should be the same as Good.Badwater.DisplayName.
 Status.Buildings.BlockedByContamination.Short,Rosszvíz által blokkolva,Shown as status when badwater contamination affects building and stops it from working (please keep short). Badwater should be the same as Good.Badwater.DisplayName.
-Status.Buildings.DirectionalBlocking,Az építkezés vár a mögötte lévő építkezés befejezésére.,"Status shown on construction sites, that need to be finished in directional order."
+Status.Buildings.DirectionalBlocking,Az építkezés a mögötte lévő építkezés befejezésére vár.,"Status shown on construction sites, that need to be finished in directional order."
 Status.Buildings.Flooded,Elárasztva.,Notification that shows in the selected building's panel when it's flooded.
 Status.Buildings.Flooded.Short,Elárasztott épület,Alert that shows up when a building is flooded. Please keep short.
 Status.Buildings.NeedsWater,Ennek az épületnek mélyebb vízre van szüksége a működéshez.,
@@ -1498,6 +1484,7 @@ Status.Buildings.NeedsWater.Short,Az épület vízre van szüksége,Please keep 
 Status.Buildings.Paused,Kikapcsolva.,"Alternative terms: Paused, Switched off"
 Status.Buildings.Unreachable,Ez az épület nincs összekötve semmilyen kerületközponttal útvonalon keresztül.,Shown when a building isn't connected to a District Center.
 Status.Buildings.Unreachable.Short,Nem csatlakoztatott épület,Shown when a building isn't connected to a District Center. Please keep short.
+Status.Buildings.VerticalBlocking,Az építkezés az alatta lévő építkezés befejezésére vár.,"Status shown on construction sites, that need to be finished from bottom to top."
 Status.ConstructionSites.NoMaterials,Nem lehet minden szükséges építőanyagot beszerezni.,Shown in the building box when there are no available materials in the nearby storages or no storages nearby
 Status.ConstructionSites.NoMaterials.Short,Építőanyaghiány,Notification that the construction can't be finished. Please keep short.
 Status.Distribution.InvalidConnection,Az épületet két kerülettel kell összekötni.,"Shown as status of District Crossing, when both entrances of the building are connected to the same district or when other half is not connected to any district"
@@ -1550,7 +1537,6 @@ SteamWorkshop.Preview,Előnézet,Label of the preview of the item to be uploaded
 SteamWorkshop.RefreshThumbnail,Frissítés,Label of a button that tries to load the preview of the item to be uploaded to Steam Műhely.
 SteamWorkshop.ShowWorkshopItem,Megnyitás a Steam Műhelyben,Label of the button that opens the Steam Műhely page of the item that has been uploaded to Steam Műhely.
 SteamWorkshop.SteamMapTooltip,Steam Műhely térkép,Tooltip on the map icon that indicates that the map is from Steam Műhely.
-SteamWorkshop.ShowWorkshopGroup,Csoport megnyitása,Label of a button that opens the Steam Műhely page of the modding group. Please keep short
 SteamWorkshop.Update,Frissítés,Label of the checkbox that determines whether certain elements of the item to be uploaded to Steam Műhely should be updated.
 SteamWorkshop.UploadAsNew,Feltöltés új elemként,Label of the checkbox that determines whether the item to be uploaded to Steam Műhely should be uploaded as a new item or as an update to an existing item.
 SteamWorkshop.UploadButton,Feltöltés,Text on the button that starts uploading the item to Steam Műhely.
@@ -1564,7 +1550,6 @@ SteamWorkshop.Visibility.Friends,Csak barátoknak,Option in the dropdown that al
 SteamWorkshop.Visibility.Private,Privát,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Műhely.
 SteamWorkshop.Visibility.Public,Nyilvános,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Műhely.
 SteamWorkshop.Visibility.Unlisted,Listázatlan,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Műhely.
-SteamWorkshop.WorkshopGroupInfo,A Steam Műhely támogatása még kísérleti. A Steam Műhely eléréséhez csatlakoznod kell a következő csoportba: {0}.,Message that is shown when the player tries to upload or download something from Steam Műhely and is not a member of the modding group. {0} is the name of Steam group.
 StockpilePriority.Accept,Fogadás,"Please keep short. Defines a state of a warehouse, where it accepts goods if needed"
 StockpilePriority.Accept.Long,Áru fogadása.,"Describes a state of a warehouse, where it accepts goods if needed"
 StockpilePriority.Empty,Kiürítés,"Please keep short. Defines a state of a warehouse, where it is going to be emptied"
@@ -1689,7 +1674,6 @@ WaterOpacity.Visibility.Show,Víz megjelenítése,Tooltip for button showing wat
 Weather.Badtide,Rossz ár,Name of toxic hazard season during which all rivers turn into badwater instead of water. Ideally the name should refer to Good.Badwater.DisplayName and follow its pattern. Please read the comment for Good.Badwater.DisplayName for a complete description of what badwater is.
 Weather.BadtideEndedNotification,Rossz ár vége,Notification that shows up when a badtide season ends. Badtide should be the same as Weather.Badtide.
 Weather.BadtideStartedNotification,Rossz ár kezdete,Notification that shows up when a badtide season starts. Badtide should be the same as Weather.Badtide.
-Weather.Counter,{0} nap,Number of days before an event will start. Number is in 1.2 format (1.2 days)
 Weather.CycleAndDayLong,"{0}. ciklus, {1}. nap","Example usage: 'Cycle 2, day 5'."
 Weather.CycleAndDayShort,{0}.{1}.,Example usage: 'Day 2-5'.
 Weather.CycleBegins,A {0}. ciklus kezdete,"Shown as a message when new cycle begins, {0} stands for cycle number, example usage: 'Cycle 4 begins'."
@@ -1723,8 +1707,6 @@ WonderCompletion.Statistic.TreesCut,Kivágott fák száma:,A text for flavor sta
 WonderCompletion.Statistic.WaterConsumed,Felhasznált víz:,A text for flavor statistic that shows how many units of water have been consumed during the game.
 WonderCompletion.WonderCompleted,Elkészült Csoda: {0},"Text that is shown when the player has built and activated a Wonder. {0} is the name of the faction that the player performed this with. """"Wonder"""" should be the same as Buildings.Wonder."
 Work.BeaverOnly,<YellowHighlight>Csak hódok:</YellowHighlight> Csak hódok dolgozhatnak ezen a munkahelyen.,Shown on a tooltip at workplaces where only beavers can work in
-Work.Bonus.BonusDescription,Munkás bónusz: {0},For example 'Worker bonus: Strength +30%'. Used in building description if a building grants a bonus to its workers.
-Work.Bonus.PenaltyDescription,Munkás hátrány: {0},For example 'Worker penalty: Strength -20%'. Used in building description if a building grants a penalty to its workers.
 Work.BotOnly,<YellowHighlight>Csak robotok:</YellowHighlight> Csak robotok dolgozhatnak ezen a munkahelyen.,Shown on a tooltip at workplaces where only bots can work in. Bots should be the same as Bot.PluralDisplayName.
 Work.CurrentWorkers,Munkások: {0} / {1},Please keep short. {0} stands for the desired number of workers. {1} stands for max number of workers that can work in building.
 Work.DefaultAllowedWorker,Munkások típusa az új épületekben:,Global setting for who is allowed to work in a new building: beavers or bots
