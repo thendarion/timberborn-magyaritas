@@ -6,7 +6,7 @@ on:
     - '*'
 
 jobs:
-  release:
+  github_release:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -24,23 +24,44 @@ jobs:
         skipIfReleaseExists: true
         bodyFile: changelog.txt
 
+  modio_release:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
     - name: Extract mod.io metadata
       id: metadata
       run: |
-        GAME_ID=$(jq '.modIo.game' huHU/manifest.json)
-        echo GAME_ID=$GAME_ID >> $GITHUB_ENV
-
-        MOD_ID=$(jq '.modIo.mod' huHU/manifest.json)
-        echo MOD_ID=$MOD_ID >> $GITHUB_ENV
-
         MOD_VERSION=$(jq '.Version' huHU/manifest.json)
         echo MOD_VERSION=$MOD_VERSION >> $GITHUB_ENV
 
     - uses: nickelc/upload-to-modio@v2
       with:
         token: ${{ secrets.MODIO_TOKEN }}
-        game: ${{ env.GAME_ID }}
-        mod: ${{ env.MOD_ID }}
+        game: 3659
+        mod: 4960361
         version: ${{ env.MOD_VERSION }}
         changelog-path: changelog.txt
         path: TimberHUN.zip
+
+  steam_release:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Extract steam metadata
+      id: metadata
+      run: |
+        CHANGELOG=$(tr '\n' '\\n' < changelog.txt)
+        echo CHANGELOG="$CHANGELOG" >> $GITHUB_ENV
+
+    - uses: steamkit/steam-publish@v1
+    - uses: AnarkisGaming/workshop@v1
+      with:
+        appID: 1062090
+        publishedFileID: 3486799229
+        path: huHU
+        changelog: ${{ env.CHANGELOG }}
+      env:
+        STEAM_ACCOUNT_NAME: ${{ secrets.STEAM_ACCOUNT_NAME }}
+        STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
