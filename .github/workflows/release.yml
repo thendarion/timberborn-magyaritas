@@ -6,17 +6,48 @@ on:
     - '*'
 
 jobs:
+  prepare_release:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Extract mod.io metadata
+      id: metadata
+      run: |
+        GAME_ID=$(jq '.modIo.game' huHU/manifest.json)
+        echo GAME_ID=$GAME_ID >> $GITHUB_OUTPUT
+
+        MOD_ID=$(jq '.modIo.mod' huHU/manifest.json)
+        echo MOD_ID=$MOD_ID >> $GITHUB_OUTPUT
+
+        MOD_VERSION=$(jq '.Version' huHU/manifest.json)
+        echo MOD_VERSION=$MOD_VERSION >> $GITHUB_OUTPUT
+
+        GITHUB_REF_NAME="${GITHUB_REF##*/}"
+        git tag -l --format='%(contents)' $GITHUB_REF_NAME > changelog.txt
+
+    - name: Create ZIP archive
+      uses: montudor/action-zip@v1
+      with:
+        args: zip -qq -r TimberHUN.zip huHU
+
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v4
+      with:
+      name: release-artifacts
+      path: |
+        changelog.txt
+        TimberHUN.zip
+
   github_release:
+    needs: prepare_release
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
     - uses: actions/checkout@v4
-
-    - uses: montudor/action-zip@v1
+    - uses: actions/download-artifact@v4
       with:
-        args: zip -qq -r TimberHUN.zip huHU
+        name: release-artifacts
 
     - uses: ncipollo/release-action@v1
       with:
@@ -25,29 +56,28 @@ jobs:
         bodyFile: changelog.txt
 
   modio_release:
+    needs: prepare_release
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-
-    - name: Extract mod.io metadata
-      id: metadata
-      run: |
-        MOD_VERSION=$(jq '.Version' huHU/manifest.json | tr -d '"')
-        echo MOD_VERSION=$MOD_VERSION >> $GITHUB_ENV
 
     - uses: nickelc/upload-to-modio@v2
       with:
         token: ${{ secrets.MODIO_TOKEN }}
-        game: 3659
-        mod: 4960361
-        version: ${{ env.MOD_VERSION }}
+        game: ${{ needs.prepare_release.outputs.game_id }}
+        mod: ${{ needs.prepare_release.outputs.mod_id }}
+        version: ${{ needs.prepare_release.outputs.mod_version }}
         changelog-path: changelog.txt
         path: TimberHUN.zip
 
   steam_release:
+    needs: prepare_release
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
+    - uses: actions/download-artifact@v4
+      with:
+        name: release-artifacts
 
     - name: Extract steam metadata
       id: metadata
