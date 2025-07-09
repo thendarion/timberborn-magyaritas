@@ -620,6 +620,8 @@ CancelPlantingTool.Description,"Használd, hogy megszüntesd a telepítési ter�
 CancelPlantingTool.Title,Telepítési terület törlése,Tool that removes fields so the beavers won't plant there.
 Carrying.Carry,Szállít: {0} ({2} kg-ból {1} kg),{0} stands for Good.DisplayName {1} stands for carried good weight {2} stands for beaver lifting capacity. Tells player what the beaver is carrying and how much it weighs in comparison to the beaver's strength
 Carrying.Nothing,semmi,When beaver is carrying nothing.
+CrashScreen.CommentPlaceholder,"(Opcionális) Megjegyzés a csapatunknak", "Shown in a crash screen text field where players can optionally enter a comment that will help track down the bug"
+CrashScreen.EmailPlaceholder,"(Opcionális) E-mail cím - arra az esetre, ha kapcsolatba kellene lépnünk Veled", "Shown in a crash screen text field where players can optionally enter their email"
 Clusters.SharesPower,"Ha maga meg van hajtva, a szomszédos épületeket is meghajtja.",Power is not an electrical but mechanical/kinetic energy. Notifies that the power is shared with buildings that touch this building.
 CrashScreen.CommentPlaceholder,"Megjegyzés (opcionális)","Shown in a crash screen text field where players can optionally enter a comment that will help track down the bug"
 CrashScreen.HowToFindReport,A jelentésbe kerülő adatok:,
