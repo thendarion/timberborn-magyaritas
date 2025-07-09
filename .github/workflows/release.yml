@@ -32,7 +32,7 @@ jobs:
     - name: Extract mod.io metadata
       id: metadata
       run: |
-        MOD_VERSION=$(jq '.Version' huHU/manifest.json)
+        MOD_VERSION=$(jq '.Version' huHU/manifest.json | tr -d '"')
         echo MOD_VERSION=$MOD_VERSION >> $GITHUB_ENV
 
     - uses: nickelc/upload-to-modio@v2
