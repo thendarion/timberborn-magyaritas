@@ -6,7 +6,7 @@ a nyers fordítást a Google-lel készült, annak megfelelő minőségben, majd 
 
 ### Legújabb verzió
 * [Steam Műhelyben](https://steamcommunity.com/sharedfiles/filedetails/?id=3486799229)
-* [Mod.io-n](mod.io/g/timberborn/m/timberborn-magyaritas) 
+* [Mod.io-n](https://mod.io/g/timberborn/m/timberborn-magyaritas#description) 
 
 ne felejtsd el lájkolni!
 
@@ -26,7 +26,7 @@ This mod translates the interface of Timberborn into the Hungarian language with
 
 ### Latest version can be found
 * On [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3486799229)
-* On [Mod.io](mod.io/g/timberborn/m/timberborn-magyaritas) 
+* On [Mod.io](https://mod.io/g/timberborn/m/timberborn-magyaritas#description) 
 
 Don't forget to give us a thumbs up!
 
