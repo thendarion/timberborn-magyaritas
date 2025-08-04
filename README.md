@@ -1,5 +1,5 @@
 # Timberborn magyarítás
-Timberborn magyar nyelvi fájlok ( [description in English](https://github.com/chimericalidea/timberborn-magyaritas/edit/main/README.md#we-speak-english-too) )
+Timberborn magyar nyelvi fájlok ( [description in English](https://github.com/thendarion/timberborn-magyaritas/blob/main/README.md#timberborn-in-hungarian) )
 
 
 a nyers fordítást a Google-lel készült, annak megfelelő minőségben, majd egy magyar 'szakember' alaposan szerkesztette
