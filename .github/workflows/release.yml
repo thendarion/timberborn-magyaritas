@@ -9,6 +9,8 @@ jobs:
   prepare_release:
     runs-on: ubuntu-latest
     steps:
+    - uses: actions/checkout@v4
+
     - name: Extract mod.io metadata
       id: metadata
       run: |
