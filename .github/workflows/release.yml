@@ -9,8 +9,6 @@ jobs:
   prepare_release:
     runs-on: ubuntu-latest
     outputs:
-      GAME_ID: ${{ steps.metadata.outputs.GAME_ID }}
-      MOD_ID: ${{ steps.metadata.outputs.MOD_ID }}
       MOD_VERSION: ${{ steps.metadata.outputs.MOD_VERSION }}
     steps:
     - uses: actions/checkout@v4
@@ -18,15 +16,9 @@ jobs:
         fetch-depth: 0
         fetch-tags: true
 
-    - name: Extract mod.io metadata
+    - name: Extract metadata
       id: metadata
       run: |
-        GAME_ID=$(jq -r '.modIo.game' huHU/manifest.json)
-        echo "GAME_ID=$GAME_ID" >> "$GITHUB_OUTPUT"
-
-        MOD_ID=$(jq -r '.modIo.mod' huHU/manifest.json)
-        echo "MOD_ID=$MOD_ID" >> "$GITHUB_OUTPUT"
-
         MOD_VERSION=$(jq -r '.Version' huHU/manifest.json)
         echo "MOD_VERSION=$MOD_VERSION" >> "$GITHUB_OUTPUT"
 
@@ -57,7 +49,6 @@ jobs:
     - uses: ncipollo/release-action@v1
       with:
         artifacts: TimberHUN.zip
-        skipIfReleaseExists: true
         bodyFile: changelog.txt
 
   modio_release:
@@ -71,8 +62,8 @@ jobs:
     - uses: nickelc/upload-to-modio@v2
       with:
         token: ${{ secrets.MODIO_TOKEN }}
-        game: ${{ needs.prepare_release.outputs.GAME_ID }}
-        mod: ${{ needs.prepare_release.outputs.MOD_ID }}
+        game: 3659
+        mod: 4960361
         version: ${{ needs.prepare_release.outputs.MOD_VERSION }}
         changelog-path: changelog.txt
         path: TimberHUN.zip
