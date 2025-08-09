@@ -81,8 +81,11 @@ jobs:
         path: .
     - name: Prepare Steam changelog
       run: |
-        CHANGELOG=$(tr '\n' '\\n' < changelog.txt)
-        echo "CHANGELOG=$CHANGELOG" >> "$GITHUB_ENV"
+        {
+          echo 'CHANGELOG<<__EOF__'
+          cat changelog.txt
+          echo '__EOF__'
+        } >> "$GITHUB_ENV"
     - uses: AnarkisGaming/workshop@v1
       with:
         appID: 1062090
