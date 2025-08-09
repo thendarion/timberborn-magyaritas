@@ -22,9 +22,6 @@ jobs:
         MOD_VERSION=$(jq -r '.Version' huHU/manifest.json)
         echo "MOD_VERSION=$MOD_VERSION" >> "$GITHUB_OUTPUT"
 
-        TAG_NAME="${GITHUB_REF_NAME:-${GITHUB_REF##*/}}"
-        git tag -l --format='%(contents)' "$TAG_NAME" > changelog.txt
-
     - name: Create ZIP archive
       run: zip -qq -r TimberHUN.zip huHU
 
