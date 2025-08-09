@@ -34,7 +34,7 @@ Beaver.Employment,Foglalkoztatás,Header of a section that tells of how many and
 Beaver.GrewUp,{0} felnőtt.,{0} stands for beaver name. A notification that a beaver achieved maturity.
 Beaver.House,{0}ban lakik.,{0} stands for Building.DisplayName. Tells which type of building the beaver resides in.
 Beaver.Homeless,Hajléktalan,Signifies that the beaver has no home
-Beaver.HomelessPlural,Hajléktalan,Label before number of homeless beavers
+Beaver.HomelessPlural,Hajléktalanok,Label before number of homeless beavers
 Beaver.Launched,{0} tovarepült.,{0} stands for beaver name. A notification that a beaver has been launched in a plane.
 Beaver.PluralDisplayName,Hódok,
 Beaver.Population.Adults,Felnőttek,Label before number of adult beavers
@@ -43,7 +43,7 @@ Beaver.Population.ContaminatedAdults,Szennyezett felnőttek,"Label before number
 Beaver.Population.ContaminatedChildren,Szennyezett kölykök,"Label before number of children beavers contaminated by badwater. ""Contaminated"" should be similar or same as Need.BadwaterContamination.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project."
 Beaver.Population.Contaminated,Szennyezett,Header of the list of beavers contaminated by badwater. Should be similar or same as Need.BadwaterContamination.DisplayName
 Beaver.Unemployed,Munkanélküli,"Signifies that the beaver has no job, singular"
-Beaver.UnemployedPlural,Munkanélküli,"Used in population statistics, followed by the number of unemployed beavers"
+Beaver.UnemployedPlural,Munkanélküliek,"Used in population statistics, followed by the number of unemployed beavers"
 Beaver.Workplace,Munkahely: {0},{0} stands for Building.DisplayName. Tells which type of building the beaver works in.
 Bonus.CarryingCapacity,Szállító kapacitás,How much stuff a unit can carry
 Bonus.CuttingSuccessChance,Vágási esély,Cutting chance when cutting down a tree
@@ -1354,7 +1354,7 @@ NewGameConfigurationPanel.StartingAdults,Induló felnőttek,"Label of a setting,
 NewGameConfigurationPanel.StartingChildren,Induló kölykök,"Label of a setting, number of children spawned at the start of a game."
 NewGameConfigurationPanel.StartingFood,Induló élelem,"Label of a setting, amount of food available at the start of a game."
 NewGameConfigurationPanel.StartingWater,Induló víz,"Label of a setting, amount of water available at the start of a game."
-NewGameConfigurationPanel.TemperateWeatherDuration,Enyhe időjárás időtartama,"Label of a setting, how long temperate weather is during each cycle."
+NewGameConfigurationPanel.TemperateWeatherDuration,Mérsékelt időjárás időtartama,"Label of a setting, how long temperate weather is during each cycle."
 NewGameConfigurationPanel.To,"–","Describes a range of numbers, example usage: '20 to 50%'"
 NewGameConfigurationPanel.SubHeader,Játékmód,
 NewGameConfigurationPanel.WaterConsumption,Vízfogyasztás,"Label of a setting, how much water beavers consume during a game, for example 'Water consumption: 60%'."
@@ -1686,7 +1686,7 @@ Weather.Notification.BadtideApproaching, közelít,Tooltip of weather panel show
 Weather.Notification.BadtideInProgress,Rosszvízár folyamatban,Tooltip of weather panel shown when a badtide season is in progress. Badtide should be the same as Weather.Badtide.
 Weather.Notification.DroughtApproaching,Aszály közelít,Tooltip of weather panel shown when a drought season is approaching. Drought should be the same as Weather.Drought.
 Weather.Notification.DroughtInProgress,Aszály folyamatban,Tooltip of weather panel shown when a drought season is in progress. Drought should be the same as Weather.Drought.
-Weather.Notification.Mild,Enyhe időjárás,Tooltip of weather panel shown when a mild (temperate) season is in progress.
+Weather.Notification.Mild,Mérsékelt időjárás,Tooltip of weather panel shown when a mild (temperate) season is in progress.
 Weather.Temperate,Mérsékelt időjárás,
 Wellbeing.AverageWellbeing,Átlagos jóllét:,Please keep short. Well-being is how good the beavers feel in general. Could also be welfare or prosperity
 Wellbeing.DisplayName,Jóllét,How good the beavers feel. Could also be welfare or prosperity
