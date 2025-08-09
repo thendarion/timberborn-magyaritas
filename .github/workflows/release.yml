@@ -45,6 +45,7 @@ jobs:
         path: .
     - uses: ncipollo/release-action@v1
       with:
+        name: "TimberHUN v${{ needs.prepare_release.outputs.MOD_VERSION }}"
         artifacts: TimberHUN.zip
         bodyFile: changelog.txt
 
