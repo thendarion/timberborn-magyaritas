@@ -1,1 +1,3 @@
-- hibajavítások
+- idézetek javítása
+- kifejezések egységesítése
+- központozás javítása
