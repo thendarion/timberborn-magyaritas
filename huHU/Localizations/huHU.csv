@@ -780,8 +780,8 @@ Good.AlgaeRation.DisplayName,Algafejadag,"Algae should be the same as in Good.Al
 Good.AlgaeRation.PluralDisplayName,Algafejadag,Algae should be the same as in Good.Algae.DisplayName
 Good.Antidote.DisplayName,Ellenszer,Antidote made out of natural resources (used to heal badwater contamination).
 Good.Antidote.PluralDisplayName,Ellenszer,Antidote made out of natural resources (used to heal badwater contamination).
-Good.Badwater.DisplayName,Rossz víz,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
-Good.Badwater.PluralDisplayName,Rossz víz,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
+Good.Badwater.DisplayName,Rosszvíz,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
+Good.Badwater.PluralDisplayName,Rosszvíz,"A toxic liquid resource, a remnant of human civilization that contaminates the land, plants, and beavers. It flows on the maps in the form of toxic rivers. The name comes from 'bad' and 'water' and it does not refer to any actual resource or place in the real world, it is a name that beavers came up with. Please note that this term is very important because it is one of the core aspects of the game, the resource is as abundant in the game as normal water. If you have any doubts about the meaning of the word, please contact the developers."
 Good.Berries.DisplayName,Áfonya,Resource name
 Good.Berries.PluralDisplayName,Áfonya,Resource name
 Good.Biofuel.DisplayName,Bioüzemanyag,Fuel made out of natural resources like plants.
@@ -1158,7 +1158,7 @@ Biztosan be akarod tölteni ezt a térképet?","{0} is the map version (e.g. 0.1
 Mechanical.BlockedConnection,A hajtótengely blokkolva van!,Power is not an electrical but mechanical/kinetic energy.
 Mechanical.Charge,Töltöttség,Current battery charge (how much power a battery has left)
 Mechanical.Efficiency,Hatékonyság: {0}%,{0} stands for efficiency percentage number. How efficient workshop is at using the energy.
-Mechanical.NetworkPower,A hálózat teljesítménye / igénye: {0} / {1},{0} stands for supply amount {1} stands for demand amount followed by PowerSymbol
+Mechanical.NetworkPower,A hálózat teljesítménye / terhelése: {0} / {1},{0} stands for supply amount {1} stands for demand amount followed by PowerSymbol
 Mechanical.PowerCapacity,Kapacitás,Stands for battery capacity.
 Mechanical.PowerCapacityPerMeter,kWh/m,Stands for horse power hour per meter - used to describe battery capacity. hph should be same as Mechanical.PowerCapacitySymbol.
 Mechanical.PowerCapacitySymbol,kWh,Please keep short. Stands for horse power hour (as in kilowatt-hour); should keep similar.
@@ -1503,23 +1503,23 @@ Status.Manufactory.NoRecipe,Nincs kiválasztott recept.,A warning that no recipe
 Status.Manufactory.NoRecipe.Short,Nincs kiválasztott recept,A warning that no recipe is selected for crafting. Please keep short.
 Status.Mechanical.NoPower,Az épületnek meghajtásra van szüksége a működéshez. Csatlakoztasd egy erőműhöz!,
 Status.Mechanical.NoPower.Short,Az épület nincs meghajtva,Power is not an electrical but mechanical/kinetic energy. Please keep short.
-Status.NaturalResources.Contaminated,Szennyeződés.,Shown when a plant is dying because it is contaminated. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
-Status.NaturalResources.Drying,Szárazság.,Shown when a plant is dying because it has no access to the water
-Status.NaturalResources.NotEnoughWater,Elfogyott a víz.,Shown when a water plant is dying because its river or lake dried up.
-Status.NaturalResources.TooMuchWater,Árvíz.,Shown when a plant is dying because it is submerged in water.
-Status.Need.BadwaterContamination,Rossz vízzel szennyezett.,This shows up in the selected beaver's panel when it is contaminated. Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
+Status.NaturalResources.Contaminated,Szennyeződés,Shown when a plant is dying because it is contaminated. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
+Status.NaturalResources.Drying,Szárazság,Shown when a plant is dying because it has no access to the water
+Status.NaturalResources.NotEnoughWater,Vízhiány,Shown when a water plant is dying because its river or lake dried up.
+Status.NaturalResources.TooMuchWater,Árvíz,Shown when a plant is dying because it is submerged in water.
+Status.Need.BadwaterContamination,Rosszvízzel szennyezett.,This shows up in the selected beaver's panel when it is contaminated. Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Status.Need.BadwaterContamination.Short,Szennyezett hód,This shows up as an alert when a beaver is contaminated. Please keep short. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Status.Need.Biofuel,A botnak kifogyott az üzemanyaga.,This shows up when a bot runs out of fuel.
-Status.Need.Biofuel.Short,Kifogyott az üzemanyag,This shows up when a bot runs out of fuel. Please keep short. Bot should be the same as Bot.PrefabName.
-Status.Need.BrokenTeeth,Törött fogak.,This shows up when a beaver has broken teeth.
+Status.Need.Biofuel.Short,Üzemanyaghiány,This shows up when a bot runs out of fuel. Please keep short. Bot should be the same as Bot.PrefabName.
+Status.Need.BrokenTeeth,A hódnak eltört a foga.,This shows up when a beaver has broken teeth.
 Status.Need.BrokenTeeth.Short,Törött fogak,This shows up when a beaver has broken teeth. Please keep short.
 Status.Need.Energy,A robot lemerült.,This shows up when a bot runs out of energy.
 Status.Need.Energy.Short,Lemerült robot,This shows up when a bot runs out of energy. Please keep short. Bot should be the same as Bot.PrefabName.
-Status.Need.Hunger,Éhezik.,This shows up when a beaver's hunger reaches critical levels. Please keep short.
+Status.Need.Hunger,Éhezik,This shows up when a beaver's hunger reaches critical levels. Please keep short.
 Status.Need.Injury,A hód munka közben megsérült.,This shows up in the selected beaver's panel when it has an injury.
 Status.Need.Injury.Short,Sérült hód,This shows up as an alert when a beaver has an injury. Please keep short.
-Status.Need.Sleep,Kimerült.,
-Status.Need.Thirst,Kiszáradt.,This shows up on the entity panel when a beaver is extremely thirsty
+Status.Need.Sleep,Kimerült,
+Status.Need.Thirst,Kiszáradt,This shows up on the entity panel when a beaver is extremely thirsty
 Status.Object.UnreachableObject,"Túl messze van minden kerülettől, és a hódok nem érik el. Építs még ösvényt, vagy egy új kerületet!","Shown when a building, construction site, demolishable object or rubble is out of a district's range."
 Status.RecoveredGoodStack.NoStorage,Nincs elérhető tárolóhely. Építs több tárolót.,Shown on Rubble's panel when there is no storage space for goods. Storage should be translated similar to ToolGroups.Storage
 Status.Science.NotEnoughScience,Nincs elég Tudománypont az üzemeltetéshez.,Shown when the player doesn't have enough Science Points to power a building. Science Points should be the same as Science.SciencePoints
@@ -1682,7 +1682,7 @@ Weather.CycleBegins,A {0}. ciklus kezdete,"Shown as a message when new cycle beg
 Weather.Drought,Aszály,
 Weather.DroughtEndedNotification,Aszály vége,A notification that a drought has ended.
 Weather.DroughtStartedNotification,Aszály kezdete,A notification that a drought has begun.
-Weather.Notification.BadtideApproaching, közelít,Tooltip of weather panel shown when a badtide season is approaching. Badtide should be the same as Weather.Badtide.
+Weather.Notification.BadtideApproaching,Rosszvízár közelít,Tooltip of weather panel shown when a badtide season is approaching. Badtide should be the same as Weather.Badtide.
 Weather.Notification.BadtideInProgress,Rosszvízár folyamatban,Tooltip of weather panel shown when a badtide season is in progress. Badtide should be the same as Weather.Badtide.
 Weather.Notification.DroughtApproaching,Aszály közelít,Tooltip of weather panel shown when a drought season is approaching. Drought should be the same as Weather.Drought.
 Weather.Notification.DroughtInProgress,Aszály folyamatban,Tooltip of weather panel shown when a drought season is in progress. Drought should be the same as Weather.Drought.
