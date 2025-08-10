@@ -1367,7 +1367,7 @@ NewGameMapPanel.SubHeader,Válassz Térképet!,
 NewMapPanel.Header,Új térkép létrehozása,
 Planting.NoPriorityOption,Nincs,No resource is prioritized
 Planting.Prioritize,Előnyben részesített növény:,Which resource to prioritize when planting.
-Planting.ReplantDeadTrees,"Vágásra nem jelölt elpusztult fák újratelepítése",Label of toggle in forester panel fragment
+Planting.ReplantDeadTrees,"Vágásra ki nem jelölt, elpusztult fák újratelepítése",Label of toggle in forester panel fragment
 Planting.UnlockPrompt,"Ahhoz, hogy {1} növényt telepíts, fel kell oldanod a {0} épületet.",{0} stands for Building.DisplayName {1} stands for NaturalResource.DisplayName.
 PlantingTool.Description,Használd ezt az eszközt egy terület kijelöléséhez a telepítéshez.,
 PlantingTool.RequiredBuilding,Szükséges épület: {0},{0} stands for Building.DisplayName.
