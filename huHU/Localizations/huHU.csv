@@ -71,13 +71,13 @@ BuilderPriorityTool.Description,"Használd ezt az eszközt az építési, bontá
 BuilderPriorityTool.Tip,"Kattints egy elemre a prioritás beállításához, vagy tartsd lenyomva a gombot egy nagyobb terület kiválasztásához.",
 Building.Agora.Description,"Egy nagy gyülekezőhely, ahol a hódok komoly fakérdéseket vitathatnak meg.",
 Building.Agora.DisplayName,Agóra,
-Building.Agora.FlavorDescription,"""A hódoknak joguk van a szabad véleménynyilvánításhoz!"" —Kazkó bá",Folktails must be same as faction as Faction.Folktails.DisplayName.
+Building.Agora.FlavorDescription,"""A hódoknak joguk van a szabad véleménynyilvánításhoz!"" — Kazkó bá",Folktails must be same as faction as Faction.Folktails.DisplayName.
 Building.AdvancedBreedingPod.Description,"Fejlett inkubációs folyamatot alkalmaz felnőtt hódok előállításához, akik azonnal nekivágnak a munkának.",Breeding should be the same as Building.BreedingPod.DisplayName
 Building.AdvancedBreedingPod.DisplayName,Fejlett inkubátor,
 Building.AdvancedBreedingPod.FlavorDescription,"A legenda szerint egy hódkölyök beleesett egy kivonatos tartályba, és másnap már három fát rágott át.","Extract must be the same as Good.Extract.DisplayName, kit is a young beaver."
 Building.AquaticFarmhouse.Description,"<YellowHighlight>Vízi</YellowHighlight> növények termesztésére szakosodott gazdákat alkalmaz.","Aquatic is a keyword, must be the same as in NaturalResources.Aquatic."
 Building.AquaticFarmhouse.DisplayName,Vízi földművesház,A farmhouse that specializes in water plants.
-Building.AquaticFarmhouse.FlavorDescription,"""Halat enni?! Dejszen mi hódok volnánk, nem vidrák!"" —Nóra nagyi","Beavers eating fish is a common misconception. Beavers are 100% herbivores. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.AquaticFarmhouse.FlavorDescription,"""Halat enni?! Dejszen mi hódok volnánk, nem vidrák!"" — Nóra nagyi","Beavers eating fish is a common misconception. Beavers are 100% herbivores. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.BadwaterDischarge.Description,"Lezár egy Rosszvízforrást. Igény szerint nyitható és zárható. Nyitott állapotban szárazság idején is fenntartja a rosszvíz áramlását.","Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
 Building.BadwaterDischarge.DisplayName,Rosszvízkifolyó,"Name of the building that can either stop flow of badwater or enforce flow with full power. It's a dome shaped, mechanical building that opens and closes like a camera shutter. Badwater must be the same as Good.Badwater.DisplayName."
 Building.BadwaterDischarge.FlavorDescription,Belépés csak RCE minősítéssel rendelkező mérnökök részére. A YouTube-komment nem számít referenciának.,"This is a reference to a youtuber called Real Civil Engineer."
@@ -100,7 +100,7 @@ Building.Bakery.DisplayName,Pékség,Building that bakes bread
 Building.Bakery.FlavorDescription,"""Nincs is jobb, mint egy forró, faforgáccsal szórt zsemle!"" — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Barrack.Description,"Praktikus, közös szállás.",
 Building.Barrack.DisplayName,Laktanya,Barracks are cramped homes for beavers. Not related to soldiers.
-Building.Barrack.FlavorDescription,Két Virágvölgyi belép egy laktanyába. — Vasfogak vicc,"Reference to 'walk into a bar' jokes; only Iron Teeth use Barracks, as Folktails prefer different lodges and are less work-focused than Iron Teeth"
+Building.Barrack.FlavorDescription,"""Két Virágvölgyi belép egy laktanyába."" — Vasfogak vicc","Reference to 'walk into a bar' jokes; only Iron Teeth use Barracks, as Folktails prefer different lodges and are less work-focused than Iron Teeth"
 Building.BeaverBust.Description,Egy fontosnak látszó hód mellszobra.,
 Building.BeaverBust.DisplayName,Hód mellszobor,
 Building.BeaverBust.FlavorDescription,"A csínytevő hódkölykök előszeretettel ""díszítik"" Kazkó bá szobrát.","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization. Kits are young beavers."
@@ -114,7 +114,7 @@ Building.Beehive.DisplayName,Méhkas,
 Building.Beehive.FlavorDescription,"""Idővel megszokja a hód zümmögést."" — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Bell.Description,"Hangjával jelzi a munkanap kezdetét és végét.","This is a large metal bell that rings twice a day."
 Building.Bell.DisplayName,Harang,"A large metal bell"
-Building.Bell.FlavorDescription,"""A nap legjobb része a reggeli harangszó!"" —Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.Bell.FlavorDescription,"""A nap legjobb része a reggeli harangszó!"" — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Bench.DisplayName,Pad,
 Building.Bench.FlavorDescription,"Néha akad egy-egy rongáló, aki megeszi a közvagyont.",
 Building.Blockage.Description,"Természetes akadály, mely elállja a víz útját. Elbontható.",Demolished meaning removed by a worker.
@@ -130,10 +130,10 @@ Building.Brazier.Description,Tűz díszes dobozban.,
 Building.Brazier.DisplayName,Parázstartó,
 Building.Brazier.FlavorDescription,"""Ez most komolyan lángol. Meg a hangulat is."" — Zsömi","Play on words with lit meaning both lit up and cool. If possible try to adapt the phrase to fit your language. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible."
 Building.BrazierOfBonding.DisplayName,Az összetartozás parázstartója,A large brazier surrounded by statues of a beaver family
-Building.BrazierOfBonding.FlavorDescription,"Ha nem értünk, akkor a jövő nemzedékeiért. — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.BrazierOfBonding.FlavorDescription,"""Ha nem miértünk, akkor a jövő nemzedékeiért."" — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.BreedingPod.Description,"A Vasfogak szaporodásának legnépszerűbb (és egyben egyetlen) módja.",Iron Teeth must be the same as the faction name (Faction.IronTeeth.DisplayName).
 Building.BreedingPod.DisplayName,Inkubátor,
-Building.BreedingPod.FlavorDescription,"""A kölykök jelentik a jövőt. Tizenkettőt kérek jövő hónapra!"" —Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.BreedingPod.FlavorDescription,"""A kölykök jelentik a jövőt. Tizenkettőt kérek jövő hónapra!"" — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.BuildersHut.Description,További építőket alkalmaz.,
 Building.BuildersHut.DisplayName,Építők kunyhója,
 Building.BuildersHut.FlavorDescription,Hódvára sem egy nap alatt épült. A legenda szerint hat óra elég volt.,Beaverome is a mythical beaver city built by beavers of many different factions who banded together to work on timber-tech for the greater good of all beavers.
@@ -249,7 +249,7 @@ Building.Fermenter.Description,Tápláló élelmiszereket állít elő növénye
 Building.Fermenter.DisplayName,Erjesztő,A building that ferments plants to make food.
 Building.Fermenter.FlavorDescription,Néhány baleset után korlátozták a fermentációra engedélyezett áruk listáját.,Referrencing fermentation used to produce alcoholic beverages.
 Building.FlameOfUnity.DisplayName,Az Egység Lángja,A large beacon held by four beaver statues.
-Building.FlameOfUnity.FlavorDescription,"""Semmi sem kovácsolja úgy össze a csapatot, mint a termelési kvóta."" —Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.FlameOfUnity.FlavorDescription,"""Semmi sem kovácsolja úgy össze a csapatot, mint a termelési kvóta."" — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Floodgate.Description,Állítható magasságban visszatartja a vizet.,
 Building.Floodgate.DisplayName,Zsilip,
 Building.Floodgate.FlavorDescription,"Mindenki azt hitte, a gát a csúcs… amíg Kazkó bá elő nem állt az első zsilippel.",
@@ -280,7 +280,7 @@ Building.GreaseFactory.DisplayName,Kenőanyaggyár,Grease should be the same as 
 Building.GreaseFactory.FlavorDescription,"""A jó munka olajozottan megy!"" — Kazkó bá","Reference to the song ""Greased Lightning"" from the movie ""Grease"" (1978). Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Grill.Description,Zöldségeket grillez.,
 Building.Grill.DisplayName,Grill,A place that grills
-Building.Grill.FlavorDescription,"""Rács, vaslap, tepsi, serpenyő – a krumpli mindenhol működik!"" —Nóra nagyi: Az 500 legjobb krumpliétel","Adapted quote from Lord of the Rings paired with a nod to an infamous Soviet-era cookbook ""500 potato dishes"". Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.Grill.FlavorDescription,"""Rács, vaslap, tepsi, serpenyő – a krumpli mindenhol működik!"" — Nóra nagyi: Az 500 legjobb krumpliétel","Adapted quote from Lord of the Rings paired with a nod to an infamous Soviet-era cookbook ""500 potato dishes"". Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Gristmill.Description,Növényeket őröl lisztté.,"Plant matter meaning different parts of plants, such as roots or flowers."
 Building.Gristmill.DisplayName,Őrlőmalom,
 Building.Gristmill.FlavorDescription,"A bonyolultabb étrenddel jött a többlépcsős feldolgozás igénye is.",
@@ -337,7 +337,7 @@ Building.LargeWaterPump.DisplayName,Nagy vízszivattyú,A large variant of the n
 Building.LargeWaterPump.FlavorDescription,"A nagy vízszivattyú nemcsak vizet ad – hitet is abban, hogy átvészeljük.","""The Shores of Beaver Bay"" is a song composed by the Timberborn community."
 Building.LargeWaterWheel.Description,"Nagyobb, hatékonyabb vízkerék. Oldalról felfüggesztett.",
 Building.LargeWaterWheel.DisplayName,Nagy vízkerék,A water wheel that's bigger than other versions.
-Building.LargeWaterWheel.FlavorDescription,"""Ehhez egy nagyobb kerék kéne."" —Kazkó bá","Reference to a famous one-liner from ""Jaws"" (""you're gonna need a bigger boat"")"
+Building.LargeWaterWheel.FlavorDescription,"""Ehhez egy nagyobb kerék kéne."" — Kazkó bá","Reference to a famous one-liner from ""Jaws"" (""you're gonna need a bigger boat"")"
 Building.LargeWindmill.Description,A nagyobb lapátok több energia előállítását teszik lehetővé.,
 Building.LargeWindmill.DisplayName,Nagy szélkerék,Advanced windmill that can rotate
 Building.LargeWindmill.FlavorDescription,"A legjobb szél a hátszél.","Tailwind being a wind blowing from behind, a pun since beavers have tails."
@@ -349,7 +349,7 @@ Building.Lido.DisplayName,Strandfürdő,Lido as in a swimming pool. Built on a r
 Building.Lido.FlavorDescription,A kölykök első úszásának megünneplésére a hódok medencés partit rendeznek.,Kits are young beavers.
 Building.Lodge.Description,"Ahol a hód lehajthatja fejét.",
 Building.Lodge.DisplayName,Kunyhó,Type of housing; named after the beaver lodges
-Building.Lodge.FlavorDescription,"""Emlékszem, mikor még egy kunyhó az csak egy rakás rönk volt. Ma már van ablak is!"" —Nóra nagyi",
+Building.Lodge.FlavorDescription,"""Emlékszem, mikor még egy kunyhó az csak egy rakás rönk volt. Ma már van ablak is!"" — Nóra nagyi",
 Building.LogFence.Description,Dekoratív kerítés farönkökből készítve.,
 Building.LogFence.DisplayName,Rönk kerítés,
 Building.LumberMill.Description,Deszkákat készít farönkökből.,Planks and Logs are resources so this needs to be consistent with their name
@@ -357,7 +357,7 @@ Building.LumberMill.DisplayName,Fűrészmalom,
 Building.LumberMill.FlavorDescription,"Az idősebb hódok csikorgatták a fogukat, amikor Kazkó bá elhozta a gépesített fafeldolgozást.","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.LumberjackFlag.Description,"Egy favágót alkalmaz.",
 Building.LumberjackFlag.DisplayName,Favágó zászló,Flag' could also be a Post or something similar as long as it is consistent with other Flags and different from Haulers Post
-Building.LumberjackFlag.FlavorDescription,"""Rágjuk a fát jó érzékkel, de csak nappal, soha nem éjjel."" —népszerű hód nóta","Adapted from Monthy Python's ""Lumberjack Song"""
+Building.LumberjackFlag.FlavorDescription,"""Rágjuk a fát jó érzékkel, de csak nappal, soha nem éjjel."" — népszerű hód nóta","Adapted from Monthy Python's ""Lumberjack Song"""
 Building.MechanicalFluidPump.Description,"Az egyik oldalon felszívja, a másik oldalon kiereszti a vizet/rosszvizet. Hatékonyabb, mint a kézi pumpa.",Badwater should be the same as Good.Badwater.DisplayName.
 Building.MechanicalFluidPump.DisplayName,Mechanikus folyadékszivattyú,"A mechanically powered water pump."
 Building.MechanicalFluidPump.FlavorDescription,"Inkább a gép emelje át, mint a hód!","Running water meaning water that is moving."
@@ -374,7 +374,7 @@ Building.MetalFence.DisplayName,Vas kerítés,
 Building.MetalFence.FlavorDescription,"Óvakodj a hódoktól, akik fa helyett vassal dolgoznak.","Reference to ""beware the dog"" often written on fences."
 Building.MetalPlatform.Description,"Egy hatalmas állvány, amit egy erős oszlop tart.",
 Building.MetalPlatform.DisplayName,Vas állvány,
-Building.MetalPlatform.FlavorDescription,"""Ez kisebbnek tűnt a katalógusban."" —Nóra nagyi","This platform looks like an enormours metal table, and Ma' Ngnonel is an older beaver. Please keep her name the same as in other localized flavor texts."
+Building.MetalPlatform.FlavorDescription,"""Ez kisebbnek tűnt a katalógusban."" — Nóra nagyi","This platform looks like an enormours metal table, and Ma' Ngnonel is an older beaver. Please keep her name the same as in other localized flavor texts."
 Building.MetalPlatform3x3.Description,"Egy vas állvány, amit egy erős központi oszlop tart.",
 Building.MetalPlatform3x3.DisplayName,Vas állvány 3x3,Numbers at the end denote size X by Y.
 Building.MetalPlatform5x5.Description,"Egy nagy vas állvány, amit egy erős központi oszlop tart fönn.",
@@ -387,7 +387,7 @@ Building.MiniLodge.DisplayName,Remetelak,A small lodge for only one beaver
 Building.MiniLodge.FlavorDescription,"Néha egyedül is megy.","Referencing 'Two Beavers Are Better Than One' meme-song from 'How I Met Your Mother' TV show."
 Building.Motivatorium.Description,"Gépesített színház, ahol a Vasfog eszmék életre kelnek.",Iron Teeth must be the same as Faction.IronTeeth.DisplayName.
 Building.Motivatorium.DisplayName,Motivatórium,
-Building.Motivatorium.FlavorDescription,"""Együtt dolgozunk, éjjel és nappal – így születik a haladás szépsége!"" —Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.Motivatorium.FlavorDescription,"""Együtt dolgozunk, éjjel és nappal – így születik a haladás szépsége!"" — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.MudBath.Description,"Iszapfürdő, ipari buborékadagolóval felszerelve.",
 Building.MudBath.DisplayName,Iszapfürdő,"A mud bath infused with bubbles, basically a jacuzzi but that word is too human."
 Building.MudBath.FlavorDescription,"Honnan jött ez a sok buborék?","Fart joke but it's easy to see it as bubbles all appear in the middle of the bath where the visitors' tails are directed."
@@ -479,7 +479,7 @@ Building.Sluice.Contamination,Szennyezés: {0},"Level of the water contamination
 Building.Sluice.Description,"Egyirányúsított, automatizált zsilipkapu.",
 Building.Sluice.DisplayName,Zsilipkapu,"Also known as a sluice gate. Different than Building.Floodgate.DisplayName."
 Building.Sluice.DownstreamDepth,Alsó vízmélység: {0},{0} stands for chosen downstream depth maintained by the building.
-Building.Sluice.FlavorDescription,"""Zsömi, megint elfelejtetted leereszteni a rosszvizet, igaz?"" —Nóra nagyi",Badwater has to be consistent with Good.Badwater.DisplayName
+Building.Sluice.FlavorDescription,"""Zsömi, megint elfelejtetted leereszteni a rosszvizet, igaz?"" — Nóra nagyi",Badwater has to be consistent with Good.Badwater.DisplayName
 Building.Sluice.Mode.Auto,Automatikus,Label of the toggle that sets the sluice to work in automatic mode
 Building.Sluice.Mode.AutoClosed,Automatikus: Zárva,Label for sluice working in automatic mode and is closed
 Building.Sluice.Mode.AutoOpen,Automatikus: Nyitva,Label for sluice working in automatic mode and is opened
@@ -531,7 +531,7 @@ Building.TeethGrindstone.FlavorDescription,"Miért kínoznád magad törött fog
 Building.TerrainBlock.Description,"Mesterséges föld kocka. Az építés irányát a tetején lévő nyilak mutatják.",Block of terrain refers to Building.TerrainBlock.DisplayName.
 Building.TerrainBlock.DisplayName,Földkocka,"A 1x1x1 chunk of terrain"
 Building.TributeToIngenuity.DisplayName,Hódolat az ügyességnek,Name of a monument
-Building.TributeToIngenuity.FlavorDescription,"""Persze, hogy van célja! Lenyűgöz!"" —Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.TributeToIngenuity.FlavorDescription,"""Persze, hogy van célja! Lenyűgöz!"" — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.TripleDynamite.DisplayName,Tripla dinamit,Dynamite that makes 3 blocks deep hole
 Building.TripleFloodgate.DisplayName,Tripla zsilip,
 Building.TripleFloodgate.FlavorDescription,"Ha ennél magasabb lenne, már nem tudná megtartani a víz súlyát.",
@@ -573,7 +573,7 @@ Building.WindGauge.FlavorDescription,"""Egyszer a testvéreimmel rászereltünk 
 Building.WindGauge.WindStrength,"Szélerősség: {0}%","This tells how strong the wind is in percent between 0 and 100"
 Building.WindTunnel.Description,"Minden hódnak szárnyakat ad! Extrém szórakozás, csak itt!",
 Building.WindTunnel.DisplayName,Szélcsatorna,
-Building.WindTunnel.FlavorDescription,"""Hiszem, hogy tudok repülni. Csak ki kell számolni a szökési sebességet."" —Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.WindTunnel.FlavorDescription,"""Hiszem, hogy tudok repülni. Csak ki kell számolni a szökési sebességet."" — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Windmill.Description,A változó szélenergiát hasznosítja.,
 Building.Windmill.DisplayName,Szélkerék,
 Building.Windmill.FlavorDescription,"""Mi csak forgácsok vagyunk a szélben!"" — Virágvölgyi dal","Reference to ""Dust in the Wind"" by Kansas."
@@ -593,7 +593,7 @@ Building.ZiplinePylon.DisplayName,Kötélpályaoszlop,"A high pole that serves a
 Building.ZiplinePylon.FlavorDescription,"""Építened kell még oszlopot!"" — Tobzi","Reference to the Starcraft warning ""We must construct additional pylons"", but a subversion of expectations since it's not on the pylon building."
 Building.ZiplineStation.Description,A közlekedés gyors és izgalmas módja.,
 Building.ZiplineStation.DisplayName,Kötélpályaállomás,"A station used for boarding zipline networks. They can be extended further using Building.ZiplinePylon.DisplayName, so they should be named similarly."
-Building.ZiplineStation.FlavorDescription,"""Ilyen hosszú kell legyen a farkad a belépéshez!"" —Tábla a bejáratnál","Reference to signs placed at amusement parks in front of the rides, but requiring tail length instead of height."
+Building.ZiplineStation.FlavorDescription,"""Ilyen hosszú kell legyen a farkad a belépéshez!"" — Tábla a bejáratnál","Reference to signs placed at amusement parks in front of the rides, but requiring tail length instead of height."
 BuildingTools.CantUnlock,"Nem lehet feloldani a(z) {0}-t, nincs elég Tudománypont.",{0} stands for Building.DisplayName {1} stands for amount. Prompt when player doesn't have enough science points to unlock a building.
 BuildingTools.DistrictsInConflict,A kerületeket el kell választani egy Kerülethatárral.,A warning when a player tries to connect two districts without separating them with a District Crossing. District Crossing should be the same as Building.DistrictCrossing.DisplayName
 BuildingTools.Multiple,Tartsd lenyomva a bal egérgombot több objektum elhelyezéséhez,Tooltip that tells the players that they can place multiple objects at once
@@ -1258,7 +1258,7 @@ NaturalResource.Maple.FlavorDescription,"A megcsapolható juharfák szirupot ter
 NaturalResource.Oak.DisplayName,Tölgy,Common oak tree.
 NaturalResource.Oak.FlavorDescription,A legjobb hód építmények tölgyfa és vas kötésben állnak.,This idiom makes perfect literal sense for the Iron Teeth.
 NaturalResource.Pine.DisplayName,Fenyő,Tree of the genus Pinus
-NaturalResource.Pine.FlavorDescription,"""Figyeld meg, hogyan áll a fenyőfa! Minden egyes tűlevele egy kis 'fenyőcske', ami télen is zöld marad."" —Ismeretlen hód költő","""Pine"" pun, feel free to adapt."
+NaturalResource.Pine.FlavorDescription,"""Figyeld meg, hogyan áll a fenyőfa! Minden egyes tűlevele egy kis 'fenyőcske', ami télen is zöld marad."" — Ismeretlen hód költő","""Pine"" pun, feel free to adapt."
 NaturalResource.Potato.DisplayName,Krumpli,Plant Solanum tuberosum
 NaturalResource.Potato.FlavorDescription,"""Van több módja is a krumpli elkészítésének."" — Hód közmondás",
 NaturalResource.Soybean.DisplayName,Szójabab,Should be consistent with Good.Soybean.DisplayName
@@ -1507,9 +1507,9 @@ Status.NaturalResources.Contaminated,Szennyeződés,Shown when a plant is dying 
 Status.NaturalResources.Drying,Szárazság,Shown when a plant is dying because it has no access to the water
 Status.NaturalResources.NotEnoughWater,Vízhiány,Shown when a water plant is dying because its river or lake dried up.
 Status.NaturalResources.TooMuchWater,Árvíz,Shown when a plant is dying because it is submerged in water.
-Status.Need.BadwaterContamination,Rosszvízzel szennyezett.,This shows up in the selected beaver's panel when it is contaminated. Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
+Status.Need.BadwaterContamination,A hód rosszvízzel szennyezett.,This shows up in the selected beaver's panel when it is contaminated. Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Status.Need.BadwaterContamination.Short,Szennyezett hód,This shows up as an alert when a beaver is contaminated. Please keep short. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
-Status.Need.Biofuel,A botnak kifogyott az üzemanyaga.,This shows up when a bot runs out of fuel.
+Status.Need.Biofuel,A robotnak kifogyott az üzemanyaga.,This shows up when a bot runs out of fuel.
 Status.Need.Biofuel.Short,Üzemanyaghiány,This shows up when a bot runs out of fuel. Please keep short. Bot should be the same as Bot.PrefabName.
 Status.Need.BrokenTeeth,A hódnak eltört a foga.,This shows up when a beaver has broken teeth.
 Status.Need.BrokenTeeth.Short,Törött fogak,This shows up when a beaver has broken teeth. Please keep short.
@@ -1620,49 +1620,49 @@ Tutorial.TextToggle.Show,Szöveg megjelenítése,Az útmutató gomb tooltipje a 
 Tutorial.SelectGood,Állítsd be: {0} erre: {1} {2},"{0} az épület neve, {1} az áru neve, {2} a Tutorial.Progress. Ez célkitűzésként, cselekvő igével jelenik meg. Például: 'Állítsd be: Raktár erre: Kenyér (0/5)'."
 Tutorial.Stage.PlaceLumberjacks,"Köszöntünk! Ez a bevezető segít az alapok elsajátításában egy hódtelepülés építése során.
 
-Minden új településnek szüksége van farönkökre. Csak a favágók vághatják ki a fákat, ezért helyezz el két Favágó zászlót a közelben lévő fák mellett.","A farönk az erőforrás neve, a Favágó zászló az épület neve."
+Minden új településnek szüksége van farönkökre. Csak a favágók vághatják ki a fákat, ezért helyezz el két Favágó zászlót a közelben lévő fák mellett!","A farönk az erőforrás neve, a Favágó zászló az épület neve."
 Tutorial.Stage.FinishLumberjacks,"A zászlók nem épülnek meg, ha nincsenek a kerület építési hatósugarában.
 
-Válaszd ki a Kerületközpontot, hogy lásd az építési hatósugarát. Ezt kiterjesztheted utak építésével.","A Favágó zászló, Kerületközpont és Út épületnevek."
+Válaszd ki a Kerületközpontot, hogy lásd az építési hatósugarát! Ezt kiterjesztheted utak építésével.","A Favágó zászló, Kerületközpont és Út épületnevek."
 Tutorial.Stage.ConnectLumberjacks,"Minden olyan épületnek, amelynek bejárata van, kapcsolódnia kell egy Kerületközponthoz úttal. Építs utakat, hogy összekösd a Favágó zászlókat a Kerületközponttal!
 
 A Kerületközpont kiválasztásával megtekintheted annak hatósugarát az utak mentén.","A Kerületközpont és az Út épületnevek."
-Tutorial.Stage.MarkTrees,"A favágók nem kezdenek dolgozni, amíg meg nem mondod nekik, mit kell tenniük. Használd a Fák kivágása eszközt, hogy kijelölj egy területet vágásra.
+Tutorial.Stage.MarkTrees,"A favágók nem kezdenek dolgozni, amíg meg nem mondod nekik, mit kell tenniük. Használd a Fák kivágása eszközt, hogy kijelölj egy területet vágásra!
 
 A Favágó zászló csak a hatósugarán belül lévő fákat vágja ki. Ezt ellenőrizheted, ha kiválasztasz egy zászlót.","A Favágó zászló épületnév. 'Fák kivágása' ugyanaz, mint a ToolGroups.TreeCutting."
-Tutorial.Stage.WaterPump,"A hódoknak vízre van szükségük az életben maradáshoz. Építs egy Vízszivattyút, hogy biztosítsd a folyamatos ivóvízforrást. Ne felejtsd el csatlakoztatni egy Kerületközponthoz.","A Vízszivattyú és a Kerületközpont épületnevek."
-Tutorial.Stage.Gatherer,"A víz mellett a hódoknak ételre is szükségük van. Építs egy Gyűjtögető zászlót néhány áfonyabokor közelében.
+Tutorial.Stage.WaterPump,"A hódoknak vízre van szükségük az életben maradáshoz. Építs egy Vízszivattyút, hogy biztosítsd a folyamatos ivóvízforrást! Ne felejtsd el csatlakoztatni egy Kerületközponthoz!","A Vízszivattyú és a Kerületközpont épületnevek."
+Tutorial.Stage.Gatherer,"A víz mellett a hódoknak ételre is szükségük van. Építs egy Gyűjtögető zászlót néhány áfonyabokor közelében!
 
-A gyűjtögetők automatikusan leszedik az áfonyát a zászló hatósugarában. A hatókört a Gyűjtögető zászló kiválasztásával láthatod.",
-Tutorial.Stage.MarkBirchesForPlanting,"Most már ültethetsz fákat is. Válaszd ki a Fák és bokrok ültetése eszközt, és ültess néhány nyírfát.
+A gyűjtögetők automatikusan begyűjtik az áfonyát a zászló hatósugarában. A hatókört a Gyűjtögető zászló kiválasztásával láthatod.",
+Tutorial.Stage.MarkBirchesForPlanting,"Most már ültethetsz fákat is. Válaszd ki a Fák és bokrok ültetése eszközt, és ültess néhány nyírfát!
 
 Ahogy a terményeknél, a fák növekedéséhez is szükség van öntözésre. Ne felejtsd el őket vágásra kijelölni!","'Fák és bokrok ültetése' ugyanaz, mint a ToolGroups.ForestryPlanting."
-Tutorial.Stage.MarkCarrots,"A gazdák nem kezdenek el dolgozni, amíg meg nem mondod nekik, mit és hol kell ültetni. Használd a Haszonnövények ültetése eszközt egy répaföld kijelöléséhez.
+Tutorial.Stage.MarkCarrots,"A gazdák nem kezdenek el dolgozni, amíg meg nem mondod nekik, mit és hol kell ültetni. Használd a Haszonnövények ültetése eszközt egy répaföld kijelöléséhez!
 
 A terményeket öntözött földre kell ültetni, különben kiszáradnak és elpusztulnak.","A Haszonnövények ültetése ugyanaz, mint a ToolGroups.FieldsPlanting."
 Tutorial.Stage.BasicStorage,"Bár minden általad elhelyezett épület rendelkezik némi tárolókapacitással, azok gyorsan megtelnek.
 
-Építs további raktárakat a farönköknek és víznek. Minden tárolóépület csak egyféle erőforrást képes tárolni. Beállíthatod, miután kiválasztottad az épületet.",
-Tutorial.Stage.ExpandStorage,"Miután van hely a farönkök és a víz tárolására, építs tárolót az áfonyának és a közelgő répatermésnek is.","A víz ugyanaz, mint a Good.Water.DisplayName, a farönkök ugyanaz, mint a Good.Log.PluralDisplayName."
+Építs további raktárakat a farönköknek és víznek! Minden tárolóépület csak egyféle erőforrást képes tárolni. Beállíthatod, miután kiválasztottad az épületet.",
+Tutorial.Stage.ExpandStorage,"Miután van hely a farönkök és a víz tárolására, építs tárolót az áfonyának és a közelgő répatermésnek is!","A víz ugyanaz, mint a Good.Water.DisplayName, a farönkök ugyanaz, mint a Good.Log.PluralDisplayName."
 Tutorial.Stage.Lodges,"Az otthonok növelik a hódok jóllétét, és lehetővé teszik a Virágvölgyiek népességének növekedését.
 
-Építs elegendő kunyhót, hogy minden hódnak legyen hol laknia.
+Építs elegendő kunyhót, hogy minden hódnak legyen hol laknia!
 
 A hódok nem fognak szaporodni, ha nincsenek üres fészekhelyek a kölykök számára.","A Kunyhó épületnév."
 Tutorial.Stage.Inventor,"A Tudománypontokat fejlettebb épületek feloldásához használhatod. A Tudománypontokat idővel a Feltaláló termeli.","A Feltaláló épületnév. A Tudománypont ugyanaz, mint a Science.SciencePoints."
 Tutorial.Stage.WaterWheel,"Most elkezdhetünk fejlettebb erőforrásokat előállítani, de néhány épületnek ehhez meghajtásra van szüksége.
 
 Építs egy Vízkereket a folyó partjára! A víz áramlásától függ, ezért leáll, ha nincs víz.","A Vízkerék épületnév."
-Tutorial.Stage.LumberMill,"Eljött az idő, hogy kezdjük a deszkák előállítását! Építs egy Fűrészmalmot, és csatlakoztasd a Vízkerékhez hajtótengelyekkel.
+Tutorial.Stage.LumberMill,"Eljött az idő, hogy kezdjük a deszkák előállítását! Építs egy Fűrészmalmot, és csatlakoztasd a Vízkerékhez hajtótengelyekkel!
 
 Sok épület képes energiát átadni egymásnak, ha közvetlenül fal mellett helyezkednek el.","A Fűrészmalom és a Vízkerék épületnevek."
-Tutorial.Stage.Farmhouse,"A településnek stabil élelmiszerforrásra van szüksége. Építs egy Földművesházat a vetéshez és a termények betakarításához.
+Tutorial.Stage.Farmhouse,"A településnek stabil élelmiszerforrásra van szüksége. Építs egy Földművesházat a vetéshez és a termények betakarításához!
 
-Ha kevés a munkásod, leállíthatsz néhány épületet. Ehhez válassz ki egy épületet, és kattints a szünet gombra.
+Ha kevés a munkásod, leállíthatsz néhány épületet. Ehhez válassz ki egy épületet, és kattints a szünet gombra!
 
 Ahogy sok más épületnek, a Földművesháznak is korlátozott a hatótávja.","A Földművesház ugyanaz, mint a Building.Farmhouse.DisplayName."
-Tutorial.Stage.Forester,"Szükségünk van egy stabil farönkforrásra. Oldd fel az Erdész épületet, és építsd meg ott, ahol fákat szeretnél ültetni.","Az Erdész épületnév."
-Tutorial.Stage.KeepPlaying,"A településed most önellátó, amíg folyik a víz. Fontold meg egy gát építését vagy több tartály elhelyezését, hogy segíts a hódjaidnak túlélni a szárazságot.
+Tutorial.Stage.Forester,"Szükségünk van egy stabil farönkforrásra. Oldd fel az Erdész épületet, és építsd meg ott, ahol fákat szeretnél ültetni!","Az Erdész épületnév."
+Tutorial.Stage.KeepPlaying,"A településed most önellátó, amíg folyik a víz. Fontold meg egy gát építését vagy több tartály elhelyezését, hogy segíts a hódjaidnak túlélni a szárazságot!
 
 Az útmutató bemutatta az alapokat, de még sok mindent felfedezhetsz magad is.
 
@@ -1673,9 +1673,9 @@ WaterInputCoordinates.Limit,Korlát,Depth limit of the water input building (e.g
 WaterMover.Unfiltered,Szűretlen,"Tooltip for a toggle, that decides what kind of fluid should be pumped: unfiltered, water or badwater"
 WaterOpacity.Visibility.Hide,Víz elrejtése,Tooltip for button hiding water
 WaterOpacity.Visibility.Show,Víz megjelenítése,Tooltip for button showing water
-Weather.Badtide,Rossz ár,Name of toxic hazard season during which all rivers turn into badwater instead of water. Ideally the name should refer to Good.Badwater.DisplayName and follow its pattern. Please read the comment for Good.Badwater.DisplayName for a complete description of what badwater is.
-Weather.BadtideEndedNotification,Rossz ár vége,Notification that shows up when a badtide season ends. Badtide should be the same as Weather.Badtide.
-Weather.BadtideStartedNotification,Rossz ár kezdete,Notification that shows up when a badtide season starts. Badtide should be the same as Weather.Badtide.
+Weather.Badtide,Rosszvízár,Name of toxic hazard season during which all rivers turn into badwater instead of water. Ideally the name should refer to Good.Badwater.DisplayName and follow its pattern. Please read the comment for Good.Badwater.DisplayName for a complete description of what badwater is.
+Weather.BadtideEndedNotification,Rosszvízár vége,Notification that shows up when a badtide season ends. Badtide should be the same as Weather.Badtide.
+Weather.BadtideStartedNotification,Rosszvízár kezdete,Notification that shows up when a badtide season starts. Badtide should be the same as Weather.Badtide.
 Weather.CycleAndDayLong,"{0}. ciklus, {1}. nap","Example usage: 'Cycle 2, day 5'."
 Weather.CycleAndDayShort,{0}.{1}.,Example usage: 'Day 2-5'.
 Weather.CycleBegins,A {0}. ciklus kezdete,"Shown as a message when new cycle begins, {0} stands for cycle number, example usage: 'Cycle 4 begins'."
@@ -1726,9 +1726,9 @@ Work.Workers,Munkások: {0},{0} stands for number of workers
 Work.WorkersLabel,Munkások,Label before number of workers
 Work.WorkingHoursTooltip,Munkaidő,
 Work.Workplace.DisplayName,Munkahely,"Header of a section where various aspects of a workplace can be changed (working priority, number of workers). Please keep short."
-Work.WorkplaceUnlock.CantUnlock,"Nem lehet feloldani ezt a munkahelyet botok számára, nincs elég Tudománypont.",Prompt when the player doesn't have enough science points to unlock a workplace for bots. Bots should be the same as Bot.PluralDisplayName.
-Work.WorkplaceUnlock.Prompt,Biztosan fel akarod oldani ezt a munkahelyet botok számára? Ez {0} Tudománypontba kerül.,"{0} stands for amount. Prompt when the player presses to unlock a workplace for bots. Science Points must be the same as Science.SciencePoints, Bots as Bot.PluralDisplayName"
-Work.WorkplaceUnlock.Tooltip,Oldd fel ezt a munkahelyet botok számára.,Shown on a blocked workplace's tooltip. Bots should be the same as Bot.PluralDisplayName.
+Work.WorkplaceUnlock.CantUnlock,"Nem lehet feloldani ezt a munkahelyet robotok számára, nincs elég Tudománypont.",Prompt when the player doesn't have enough science points to unlock a workplace for bots. Bots should be the same as Bot.PluralDisplayName.
+Work.WorkplaceUnlock.Prompt,Biztosan fel akarod oldani ezt a munkahelyet robotok számára? Ez {0} Tudománypontba kerül.,"{0} stands for amount. Prompt when the player presses to unlock a workplace for bots. Science Points must be the same as Science.SciencePoints, Bots as Bot.PluralDisplayName"
+Work.WorkplaceUnlock.Tooltip,Oldd fel ezt a munkahelyet robotok számára.,Shown on a blocked workplace's tooltip. Bots should be the same as Bot.PluralDisplayName.
 Work.WorkRefusalWarning,Megtagadja a munkát,Please keep short. A warning inside a tooltip that a beaver or a bot won't work if certain circumstances occur (like beaver is sick or bot is out of energy).
 Zipline.AddConnection,"Csatlakoztatás","Tooltip text for button with plus icon adding a connection between two zipline towers or stations."
 Zipline.BlockedWarning,Blokkolt pálya!,Error message when zipline path is obstructed
