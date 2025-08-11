@@ -1210,11 +1210,11 @@ Modding.MissingMod,"Hiányzó modul.",Shown on a tooltip for an icon that indica
 Modding.ModManagerHeader,Modulok,Header of the mod manager panel.
 Modding.ModsIncompatibilityMessage,"Úgy próbáltad betölteni a játékot, hogy a mentésben használt modulok nem elérhetőek.",A message displayed in the mod incompatibility dialog box.
 Modding.ModWarning.InvalidGameVersion,Ehhez a modulhoz magasabb játékverzió szükséges: {0}.,Message that is shown when a mod requires a higher game version. {0} is the required game version.
-Modding.ModWarning.MissingRequiredMod,Hiányzó kötelező modul: {0}.,Message that is shown when a mod is missing a required mod. {0} is the ID of the required mod.
-Modding.ModWarning.RequiredModInvalidOrder,"A kötelező ""{0}"" modul ennél a modulnál alacsonyabb a betöltési sorrendben.",Message that is shown when a required mod is below the mod in the load order. {0} is the ID of the required mod.
+Modding.ModWarning.MissingRequiredMod,Hiányzó szükséges modul: {0}.,Message that is shown when a mod is missing a required mod. {0} is the ID of the required mod.
+Modding.ModWarning.RequiredModInvalidOrder,"A szükséges ""{0}"" modul ennél a modulnál alacsonyabb a betöltési sorrendben.",Message that is shown when a required mod is below the mod in the load order. {0} is the ID of the required mod.
 Modding.ModWarning.RequiredModInvalidVersion,"A szükséges ""{0}"" modul verziója nem éri el a minimálisan szükséges verziót.",Message that is shown when a required mod has a version below the minimum required version. {0} is the ID of the required mod.
 Modding.ModWarning.RequiredModNotEnabled,"A szükséges ""{0}"" modul nincs engedélyezve.",Message that is shown when a required mod is not enabled. {0} is the ID of the required mod.
-Modding.OpenDirectory,Nyisd meg a modulok könyvtárát,Label of a button that opens a file explorer with a directory with mods. Please keep short.
+Modding.OpenDirectory,A modulkönyvtár tallózása,Label of a button that opens a file explorer with a directory with mods. Please keep short.
 Modding.ResetOrder,A betöltési sorrend visszaállítása,Label of a button that resets the order of mods.
 Modding.RestartWarning,A változtatások csak újraindítás után lépnek életbe.,Message that is shown when the player has changed something in Mod Manager and need to restart the game for the changes to take effect.
 Modding.SavedMods,"A mentés moduljai",A label for the list of mods found in the save file.
