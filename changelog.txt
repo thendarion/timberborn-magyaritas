@@ -1,3 +1,4 @@
 - központozás-javítás
 - nyelvhelyességi javítások
 - elnevezések egységesítése
+- új elnevezés: juharszirupos pogácsa

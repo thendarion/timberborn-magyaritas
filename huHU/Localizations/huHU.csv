@@ -858,8 +858,8 @@ Good.Log.DisplayName,Farönk,Resource name
 Good.Log.PluralDisplayName,Farönk,Resource name
 Good.MangroveFruit.DisplayName,Mangrove gyümölcs,"Fruit of the mangrove tree, mangrove should be the same as in NaturalResource.Mangrove.DisplayName"
 Good.MangroveFruit.PluralDisplayName,Mangrove gyümölcs,"Fruit of the mangrove tree, mangrove should be the same as in NaturalResource.Mangrove.DisplayName"
-Good.MaplePastry.DisplayName,Juhar péksütemény,A baked good filled with maple syrup.
-Good.MaplePastry.PluralDisplayName,Juhar péksütemény,A baked good filled with maple syrup.
+Good.MaplePastry.DisplayName,Juharszirupos pogácsa,A baked good filled with maple syrup.
+Good.MaplePastry.PluralDisplayName,Juharszirupos pogácsa,A baked good filled with maple syrup.
 Good.MapleSyrup.DisplayName,Juharszirup,Sweet syrup created from maple sap
 Good.MapleSyrup.PluralDisplayName,Juharszirup,Sweet syrup created from maple sap
 Good.MetalBlock.DisplayName,Vasrúd,Resource name
