@@ -1467,7 +1467,7 @@ Settings.Sound.UIVolume,Kezelőfelület hangerő,
 Settings.Tutorial.Header,Útmutató,
 Settings.Tutorial.DisableTutorial,Útmutató kikapcsolása,
 Settings.UI.Header,Felület,
-Settings.UI.RunInBackground,Háttérben futtatás,A settings which controls whether the game should run when minimized or out of focus.
+Settings.UI.RunInBackground,"Futtatás akkor is, ha a játék a háttérben van",A settings which controls whether the game should run when minimized or out of focus.
 Settings.UI.ShowFps,FPS számláló megjelenítése,
 Settings.UI.UIScaleFactor,Kezelőfelület mérete,
 Status.BadwaterContamination.Incubation,"Ez a hód túl sok időt töltött szennyezett rosszvízben. Jelenleg nincs baja, de pár nap múlva megbetegszik.",Shown as an status alert when beaver spents too much time in contaminated water (and will get sick soon). Badwater should be the same as Good.Badwater.DisplayName.
