@@ -474,7 +474,7 @@ Building.Shrub.FlavorDescription,"Ami szép, az jó – de ami szép és finom, 
 Building.Slope.DisplayName,Rámpa,
 Building.Slope.FlavorDescription,"Akárki is követte el, a hódok hálásak érte.",
 Building.Sluice.AboveContaminationToggle,{0} szennyezés felett zárjon be,"Label of a toggle that enables automation based on contamination level, {0} stands for currently set level, ie 5%"
-Building.Sluice.BelowContaminationToggle,{0} szennyezés felett zárjon be,"Label of a toggle that enables automation based on contamination level, {0} stands for currently set level, ie 5%"
+Building.Sluice.BelowContaminationToggle,{0} szennyezés alatt zárjon be,"Label of a toggle that enables automation based on contamination level, {0} stands for currently set level, ie 5%"
 Building.Sluice.Contamination,Szennyezés: {0},"Level of the water contamination, {0} stands for contamination level in percent. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project."
 Building.Sluice.Description,"Egyirányúsított, automatizált zsilipkapu.",
 Building.Sluice.DisplayName,Zsilipkapu,"Also known as a sluice gate. Different than Building.Floodgate.DisplayName."
