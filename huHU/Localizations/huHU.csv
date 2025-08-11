@@ -129,7 +129,7 @@ Building.BotPartFactory.FlavorDescription,"""Kész! De mit keres itt ez a csavar
 Building.Brazier.Description,Tűz díszes dobozban.,
 Building.Brazier.DisplayName,Parázstartó,
 Building.Brazier.FlavorDescription,"""Ez most komolyan lángol. Meg a hangulat is."" — Zsömi","Play on words with lit meaning both lit up and cool. If possible try to adapt the phrase to fit your language. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible."
-Building.BrazierOfBonding.DisplayName,Az összetartozás parázstartója,A large brazier surrounded by statues of a beaver family
+Building.BrazierOfBonding.DisplayName,Az Ősszetartozás Parázstartója,A large brazier surrounded by statues of a beaver family
 Building.BrazierOfBonding.FlavorDescription,"""Ha nem miértünk, akkor a jövő nemzedékeiért."" — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.BreedingPod.Description,"A Vasfogak szaporodásának legnépszerűbb (és egyben egyetlen) módja.",Iron Teeth must be the same as the faction name (Faction.IronTeeth.DisplayName).
 Building.BreedingPod.DisplayName,Inkubátor,
@@ -139,7 +139,7 @@ Building.BuildersHut.DisplayName,Építők kunyhója,
 Building.BuildersHut.FlavorDescription,Hódvára sem egy nap alatt épült. A legenda szerint hat óra elég volt.,Beaverome is a mythical beaver city built by beavers of many different factions who banded together to work on timber-tech for the greater good of all beavers.
 Building.BulletinPole.Description,Díszes oszlop közösségi üzenetekhez.,
 Building.BulletinPole.DisplayName,Hirdetőoszlop,
-Building.BulletinPole.FlavorDescription,"""Feldöntött a vízkerék? Megcsúsztál a fűrészporon? Járhat a kárpótlás! Zsömi segít (vagy nem)!""","Reference to common compensation scam text. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible."
+Building.BulletinPole.FlavorDescription,"""Feldöntött a vízkerék? Megcsúsztál a fűrészporon? Járhat a kárpótlás! Zsömi segít! (vagy nem)""","Reference to common compensation scam text. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible."
 Building.Campfire.Description,"A hódok itt esténként pihenhetnek és társasági életet élhetnek.",
 Building.Campfire.DisplayName,Tábortűz,
 Building.Campfire.FlavorDescription,Néha a tűz és a fa jó párost alkotnak.,
