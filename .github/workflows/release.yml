@@ -84,12 +84,11 @@ jobs:
           cat changelog.txt
           echo '__EOF__'
         } >> "$GITHUB_ENV"
-    - uses: AnarkisGaming/workshop@v1
+    - uses: m00nl1ght-dev/steam-workshop-deploy@v3
       with:
+        username: ${{ secrets.STEAM_USERNAME }}
+        configVdf: ${{ secrets.STEAM_CONFIG_VDF }}
         appID: 1062090
         publishedFileID: 3486799229
         path: huHU
-        changelog: ${{ env.CHANGELOG }}
-      env:
-        STEAM_ACCOUNT_NAME: ${{ secrets.STEAM_ACCOUNT_NAME }}
-        STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }}
+        changeNote: ${{ env.CHANGELOG }}
