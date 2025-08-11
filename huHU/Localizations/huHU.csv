@@ -322,7 +322,7 @@ Building.LargeIndustrialPile.FlavorDescription,Mi jobb egy halomnál? Egy halom 
 Building.LargeMetalPlatform.DisplayName,Nagy vas állvány,
 Building.LargeMetalPlatform.FlavorDescription,"A hódépítészet csúcsa – masszív, stabil, örök.","Heavy metal is a reference to the music genre. This building is massive and made of metal."
 Building.LargePile.DisplayName,Nagy halom,
-Building.LargePile.FlavorDescription,"A rönk bemegy, a rönk kijön. A rönk bemegy, a rönk kijön. Senki sem nézi, hányszor.","""Log"" pun — feel free to adapt."
+Building.LargePile.FlavorDescription,"A rönk bemegy, a rönk kijön. A rönk bemegy, a rönk kijön. Nincs itt semmi látnivaló!","""Log"" pun — feel free to adapt."
 Building.LargePowerWheel.Description,"Több munkást foglalkoztató, fejlett erőkerék.",
 Building.LargePowerWheel.DisplayName,Nagy erőkerék,
 Building.LargePowerWheel.FlavorDescription,"A Vasfogak szerint ez is körhinta… csak kicsit hatékonyabb.",Iron Teeth must be the same as Faction.IronTeeth.DisplayName.
@@ -489,13 +489,13 @@ Building.Sluice.Synchronize,Szinkronizálás a szomszédos zsilipekkel,
 Building.Sluice.MaximumDepthToggle,{0} alsó vízmélység alatt zárjon be,Label of a toggle that enables automation based on the maximum downstream depth of water
 Building.SmallIndustrialPile.DisplayName,Kis ipari halom,
 Building.SmallIndustrialPile.FlavorDescription,"""Na persze, tettek rá egy tetőt és máris iparinak hívják. Tipikus."" — Tobzi",
-Building.SmallPile.Description,Nagy áruk (pl. rönkök) tárolására szolgál.,
+Building.SmallPile.Description,Nagyméretű áru (pl. farönkök) tárolására szolgál.,
 Building.SmallPile.DisplayName,Kis halom,
 Building.SmallPile.FlavorDescription,Egy magára valamit is adó hód nem tesz árut a földre.,
 Building.SmallTank.Description,Folyadékok tárolására szolgál.,
 Building.SmallTank.DisplayName,Kis tartály,
 Building.SmallTank.FlavorDescription,"Ki a vizet számolja, aszályban is túlél.",
-Building.SmallWarehouse.Description,Árut tárol.
+Building.SmallWarehouse.Description,Áru tárolására szolgál.
 Building.SmallWarehouse.DisplayName,Kis raktár,
 Building.SmallWarehouse.FlavorDescription,"""Hányszor mondjam még el? Dinamit a spájzba nem való!"" — Nóra nagyi",
 Building.Smelter.Description,Hulladékvasból vasrudakat önt.,"Scrap metal should be the same as Good.ScrapMetal.DisplayName and metal blocks should be the same as Good.MetalBlock.DisplayName"
