@@ -1,4 +1,0 @@
-- idézetek javítása
-- kifejezések egységesítése
-- központozás javítása
-- az automatikus zsilipműködés csúszkáinak javítása
