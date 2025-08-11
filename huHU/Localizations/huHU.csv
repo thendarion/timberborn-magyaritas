@@ -183,7 +183,7 @@ Building.DeepWaterPump.Description,Ivóvizet szivattyúz és szűr a hódok szá
 Building.DeepWaterPump.DisplayName,Mély Vízszivattyú,A water pump which can access deeper water than a regular pump.
 Building.DeepWaterPump.FlavorDescription,"„Lenn a mélyben nádas zúg, víz fakad,
 A hód pumpálja, fárad, de nem szakad.""
- — Vasfog munkás dal","Iron Teeth is a faction name, keep consistent (Faction.IronTeeth.DisplayName)"
+ — Vasfog munkásdal","Iron Teeth is a faction name, keep consistent (Faction.IronTeeth.DisplayName)"
 Building.Detailer.Browse,Tallózás...,Label of a button that opens a file explorer with a directory with custom patterns. Please keep short.
 Building.Detailer.Description,Egyedi mintákat fest a hódok farkára.,This building allows the player to paint beavers' tails.
 Building.Detailer.DisplayName,Farokdíszítő,Detailer references that the tail customisations are details/decorations.
@@ -196,8 +196,10 @@ Building.DirtExcavator.DisplayName,Földkitermelő,"A machine used to gather dir
 Building.DirtExcavator.FlavorDescription,"Nincs hegy túl magas, nincs völgy túl mély – csak megmunkálandó föld",
 Building.DistrictCenter.Description,"Létrehoz egy kerületet saját lakossággal, erőforrásokkal és elszigetelt úthálózattal. Építőket alkalmaz. ",
 Building.DistrictCenter.DisplayName,Kerületközpont,
-Building.DistrictCenter.FlavorDescription.Folktails,"„Kényelem, élelem és kemény fa."" — a Virágvölgyiek jelmondata",The motto must be the same as in Faction.Folktails.Description
-Building.DistrictCenter.FlavorDescription.IronTeeth,"„Dolgozz keményen, dolgozz keményen!""— A Vasfogak jelszava",The motto must be the same as in Faction.IronTeeth.Description
+Building.DistrictCenter.FlavorDescription.Folktails,"„Kényelem, élelem és kemény fa.""
+ — a Virágvölgyiek jelmondata",The motto must be the same as in Faction.Folktails.Description
+Building.DistrictCenter.FlavorDescription.IronTeeth,"„Dolgozz keményen, dolgozz keményen!""
+ — A Vasfogak jelszava",The motto must be the same as in Faction.IronTeeth.Description
 Building.DistrictCrossing.Description,Árukat oszt el a két összekötött kerület között. Mindkét oldalon külön munkások hordják-viszik az árukat a Kerülethatár és a kerület többi része között.,Districts should be the same as in Building.DistrictCenter.DisplayName
 Building.DistrictCrossing.DisplayName,Kerülethatár,District should be the same as in Building.DistrictCenter.DisplayName
 Building.DistrictCrossing.FlavorDescription,Miért ment át a hód a kerület határán?,"Referencing ""Why did a chicken cross a road"" jokes"
@@ -1240,11 +1242,11 @@ NaturalResource.Cassava.FlavorDescription,"Mivel nyersen mérgező, a manióka a
 NaturalResource.Cattail.DisplayName,Gyékény,Plant of a genus Typha
 NaturalResource.Cattail.FlavorDescription,Gyékény: a vízpartok stilizált borítéka.,"Makes sense only in english, feel free to adapt. Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 NaturalResource.ChestnutTree.DisplayName,Gesztenye,A Aesculus hippocastanum tree
-NaturalResource.ChestnutTree.FlavorDescription,"„Legyél szíves taposd el a gesztenyét!"" — A hódok legdurvább sértése","Reference to a ""Step on a lego"" meme, chestnuts have prickly, spiky husks"
+NaturalResource.ChestnutTree.FlavorDescription,"„Lépj gesztenyére!"" — A hódok legdurvább sértése","Reference to a ""Step on a lego"" meme, chestnuts have prickly, spiky husks"
 NaturalResource.Coffee.DisplayName,Kávébokor,Plant that produces coffee beans.
 NaturalResource.Coffee.FlavorDescription,"Az ősi hódok a babokat rágcsálták az energialökésért, az Vasfogak viszont kifőztek egy jobb tervet.","According to a legend, coffee was discovered thanks to goats eating beans and becoming energectic. Also, ""distilling"" refers to the fact it's a liquid."
 NaturalResource.Corn.DisplayName,Kukorica,Should be consistent with Good.Corn.DisplayName
-NaturalResource.Corn.FlavorDescription,"„Semmi jó nem származik abból, ha a kölykök kukoricásban játszanak."" — Nóra nagyi","„Children of the corn"" reference. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+NaturalResource.Corn.FlavorDescription,"„Semmi jó nem származik abból, ha a kölykök kukoricásban játszanak."" — Nóra nagyi","„Children of the corn"" reference. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 NaturalResource.Dandelion.DisplayName,Pitypang,A flower used as an antidote ingredient. It looks like a yellow flower dandelion. Must be the same as Good.Dandelion.DisplayName
 NaturalResource.Dandelion.FlavorDescription,A hód mesékben a pitypangok dallamos hangjukról híresek.,"In Timberborn's lore, fairy tales feature talking plants (similar to human tales being about talking animals). Also, this references ""The Witcher"" - Dandelion (Jaskier) is a bard. Dandelion must be the same as Good.Dandelion.PluralDisplayName"
 NaturalResource.Eggplant.DisplayName,Padlizsán,Should be consistent with Good.Eggplant.DisplayName

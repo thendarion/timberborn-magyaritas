@@ -4,3 +4,4 @@
 - leírások egységesítése
 - új elnevezés: juharszirupos pogácsa
 - magyar idézőjelek használata az idézetekben
+- sortörés-javítások
