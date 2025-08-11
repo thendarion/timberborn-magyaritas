@@ -255,7 +255,7 @@ Building.Floodgate.DisplayName,Zsilip,
 Building.Floodgate.FlavorDescription,"Mindenki azt hitte, a gát a csúcs… amíg Kazkó bá elő nem állt az első zsilippel.",
 Building.Floodgate.Height,Magasság: {0},
 Building.Floodgate.Synchronize,Összehangolás a szomszédos zsilipekkel,
-Building.FluidDump.Description,Vizet vagy rosszvizet ereszt ki.,Badwater should be the same as Good.Badwater.DisplayName.
+Building.FluidDump.Description,"Vizet, vagy rosszvizet ereszt ki.",Badwater should be the same as Good.Badwater.DisplayName.
 Building.FluidDump.DisplayName,Kifolyóállomás,
 Building.FluidDump.ToggleLabel,Folyadék:,Label of the toggle button in fluid dump panel that changes the type of fluid that is being dumped (water or badwater)
 Building.FoodFactory.Description,Élelmiszerfejadagokat gyárt.,"Rations should be the same as in Good.AlgaeRation.DisplayName, Good.CornRation.DisplayName and Good.EggplantRation.DisplayName"
@@ -394,7 +394,7 @@ Building.MudBath.FlavorDescription,"Honnan jött ez a sok buborék?","Fart joke 
 Building.MudPit.Description,Egy pihentető iszapfürdő.,This building allows beavers to relax in an area similar to a spa.Employs miners who extract scrap metal from underground ruins.
 Building.MudPit.DisplayName,Iszapgödör,"This building is a pit filled with mud, not for storage but entertainment."
 Building.MudPit.FlavorDescription,Itt építik a kölykök az első kis gátjukat.,
-Building.NaturalOverhang.Description,"Egy kiálló szikla, amely szolgálhat hídként vagy alapként más formációk és épületek számára. Visszatartja a vizet",
+Building.NaturalOverhang.Description,"Egy kinyúló szikla, amely szolgálhat hídként, vagy alapként más formációk és épületek számára. Visszatartja a vizet",
 Building.NaturalOverhang2x1.DisplayName,Természetes kinyúlás 2x1,This structure is a solid rock overhang. Numbers at the end denote size X by Y.
 Building.NaturalOverhang3x1.DisplayName,Természetes kinyúlás 3x1,This structure is a solid rock overhang. Numbers at the end denote size X by Y.
 Building.NaturalOverhang4x1.DisplayName,Természetes kinyúlás 4x1,This structure is a solid rock overhang. Numbers at the end denote size X by Y.
@@ -408,7 +408,7 @@ Building.Observatory.FlavorDescription,"Régen csak a tábortűz mellett csodál
 Building.OilPress.Description,Repcemagból repceolajat présel.,Oil should be the same as in Building.OilPress.DisplayName
 Building.OilPress.DisplayName,Olajprés,A building that's a giant press that squeezes out oil.
 Building.OilPress.FlavorDescription,A kíváncsi hódkölykök még a sütit és a tobozt is szétlapítják vele.,"The process of squishing things with hydraulic press filmed in slo-mo is oddly fascinating, and makes for popular YT videos."
-Building.Overhang.Description,"Egy kinyúló állvány, amely szolgálhat hídként vagy alapként más épületek számára.",
+Building.Overhang.Description,"Egy kinyúló állvány, amely szolgálhat hídként, vagy alapként más épületek számára.",
 Building.Overhang2x1.DisplayName,Kinyúlás 2x1,"An artificial overhang made out of wood and metal that allows new buildings to be put on top of it. Numbers at the end denote size X by Y."
 Building.Overhang3x1.DisplayName,Kinyúlás 3x1,"An artificial overhang made out of wood and metal that allows new buildings to be put on top of it. Numbers at the end denote size X by Y."
 Building.Overhang4x1.DisplayName,Kinyúlás 4x1,"An artificial overhang made out of wood and metal that allows new buildings to be put on top of it. Numbers at the end denote size X by Y."
@@ -423,7 +423,7 @@ Building.Path.DisplayName,Ösvény,
 Building.Path.FlavorDescription,"""Lépésről lépésre, haza visz az út..."" — népszerű hód dal kezdete","Adapted from ""Take Me Home, Country Roads"" by John Denver"
 Building.PlankFence.Description,Dekoratív kerítés deszkákból készítve.,
 Building.PlankFence.DisplayName,Deszka kerítés,
-Building.Platform.Description,"Egy emelt állvány, amely szolgálhat hídként vagy alapként más épületek számára.",
+Building.Platform.Description,"Egy emelt állvány, amely szolgálhat hídként, vagy alapként más épületek számára.",
 Building.Platform.DisplayName,Állvány,
 Building.Platform.FlavorDescription,A lenyűgöző teherbírású hód állványok igazi építészeti mesterművek.,
 Building.PowerShaft.Description,Kinetikus energiát továbbít.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
@@ -524,7 +524,7 @@ Building.SwimmingPool.DisplayName,Úszómedence,
 Building.SwimmingPoll.FlavorDescription,"""Nagyon jó idő, de a faroktempón még dolgozhatunk!"" — Tobzi","Backstroke is a swimming style, but beavers also have tails. Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 Building.TappersShack.Description,"Csapolókat alkalmaz, akik gyantát és szirupot csapolnak a fákból.",
 Building.TappersShack.DisplayName,"Csapolókunyhó","A shack where workers tap trees to gather sap and syrups, similar to sugar shacks in Canada."
-Building.TappersShack.FlavorDescription,"A kölyköket már kicsi koruktól arra tanítják, hogy minden csepp számít – legyen az víz vagy gyanta.",
+Building.TappersShack.FlavorDescription,"A kölyköket már kicsi koruktól arra tanítják, hogy minden csepp számít – legyen az víz, vagy gyanta.",
 Building.TeethGrindstone.Description,"Törött fogak élesítésére",Broken teeth refers to Need.BrokenTeeth.CriticalDescription
 Building.TeethGrindstone.DisplayName,Fogcsiszoló kő,A grindstone contraption for sharpening beaver teeth
 Building.TeethGrindstone.FlavorDescription,"Miért kínoznád magad törött fogakkal, mikor le is csiszolhatod őket?","This building is used by beavers to clear the ""broken teeth"" status. Broken teeth refers to Need.BrokenTeeth.DisplayName."
@@ -718,7 +718,7 @@ Dwellings.FreeBeds,Szabad ágyak,Label before number of unoccupied beds
 Dwellings.OccupiedBeds,Elfoglalt ágyak,Label before number of occupied beds
 Emptying.Empty,Tároló kiürtése,A command for beavers to empty this storage.
 Enterable.DistanceToDistrict,Távolság a Kerületközpontjától: {0},{0} stands for distance to District Center. District Center must be the same as Building.DistrictCenter.DisplayName
-Enterable.DistanceToDistrictLarge,Fontold meg az utak optimalizálását vagy a kerület kisebb részekre bontását.,
+Enterable.DistanceToDistrictLarge,"Fontold meg az utak optimalizálását, vagy a kerület kisebb részekre bontását!",
 EntityPanel.ChangeName,Új név:,Shown when renaming a beaver or a district
 EntityPanel.Hide,Leírás elrejtése,Tooltip for a button which hides description
 EntityPanel.Show,Leírás megjelenítése,Tooltip for a button which shows description
@@ -1042,7 +1042,7 @@ MainMenu.WelcomeScreenText,"Üdvözlet telepes!
 
 Most a <i>Timberborn korai hozzáférés</i> verziójával játszol.
 
-Az előtted álló út izgalmas, de ne felejtsd el, hogy a játék még fejlesztés alatt áll. Folyamatosan új tartalmakat adunk hozzá, és sok már létező részlet további munkára szorul. Hibák és összeomlások előfordulhatnak. Kérjük, oszd meg véleményedet a <i>Visszajelzés küldése</i> gombra kattintva vagy az hivatalos Discord szerveren.
+Az előtted álló út izgalmas, de ne felejtsd el, hogy a játék még fejlesztés alatt áll. Folyamatosan új tartalmakat adunk hozzá, és sok már létező részlet további munkára szorul. Hibák és összeomlások előfordulhatnak. Kérjük, oszd meg véleményedet a <i>Visszajelzés küldése</i> gombra kattintva, vagy az hivatalos Discord szerveren.
 
 Ha korábban játszottál egy régebbi Timberborn verzióval, lehet, hogy érdemes új települést kezdened. A játék minden frissítéssel fejlődik, rendszeresen érkeznek új tartalmak és életminőséget javító funkciók, miközben néhány meglévő mechanizmus áttervezésre kerül és másképp működik.
 
@@ -1106,7 +1106,7 @@ MapEditor.ThumbnailCapturing.CameraPosition,Kamerahelyzet,Label for the controls
 MapEditor.ThumbnailCapturing.ClearOverlay,Add meg a méretet {0}x{0} és {1}x{1} között.,Text on the button in map editor that clears the overlay of the thumbnail
 MapEditor.ThumbnailCapturing.Description,Válaszd ki a térkép bélyegképének helyzetét. A térkép mentésekor képernyőkép készül.,Description of the map thumbnail panel in the map editor
 MapEditor.ThumbnailCapturing.Overlay,Átfedés:,Label of the controls in map editor that change the overlay of the thumbnail
-MapEditor.ThumbnailCapturing.OverlayTip,Válassz egy 960x540 pixeles PNG vagy JPG fájlt! Használd az alfa csatornát az eredeti képpel való átfedés megjelenítéséhez!,Text in the thumbnail overlay selection dialog
+MapEditor.ThumbnailCapturing.OverlayTip,"Válassz egy 960x540 pixeles PNG, vagy JPG fájlt! Használd az alfa csatornát az eredeti képpel való átfedés megjelenítéséhez!",Text in the thumbnail overlay selection dialog
 MapEditor.ThumbnailCapturing.Reset,Visszaállítás,Text on the button in map editor that resets the position of thumbnail image of the map to the default
 MapEditor.ThumbnailCapturing.SelectOverlay,Kiválasztás,Text on the button in map editor that changes the overlay of the thumbnail
 MapEditor.ThumbnailCapturing.Title,Térkép bélyegkép,Title of the map thumbnail panel in map editor
@@ -1462,7 +1462,7 @@ Settings.Sound.EnvironmentVolume,Környezeti hangerő,
 Settings.Sound.Header,Hang,
 Settings.Sound.MasterVolume,Fő hangerő,
 Settings.Sound.MusicVolume,Zene hangerő,
-Settings.Sound.MuteWhenMinimized,"Némítás, ha minimalizált vagy háttérben van",
+Settings.Sound.MuteWhenMinimized,"Némítás, ha a játék minimalizált, vagy a háttérben van",
 Settings.Sound.UIVolume,Kezelőfelület hangerő,
 Settings.Tutorial.Header,Útmutató,
 Settings.Tutorial.DisableTutorial,Útmutató kikapcsolása,
@@ -1662,7 +1662,7 @@ Ha kevés a munkásod, leállíthatsz néhány épületet. Ehhez válassz ki egy
 
 Ahogy sok más épületnek, a Földművesháznak is korlátozott a hatótávja.","A Földművesház ugyanaz, mint a Building.Farmhouse.DisplayName."
 Tutorial.Stage.Forester,"Szükségünk van egy stabil farönkforrásra. Oldd fel az Erdész épületet, és építsd meg ott, ahol fákat szeretnél ültetni!","Az Erdész épületnév."
-Tutorial.Stage.KeepPlaying,"A településed most önellátó, amíg folyik a víz. Fontold meg egy gát építését vagy több tartály elhelyezését, hogy segíts a hódjaidnak túlélni a szárazságot!
+Tutorial.Stage.KeepPlaying,"A településed most önellátó, amíg folyik a víz. Fontold meg egy gát építését, vagy több tartály elhelyezését, hogy segíts a hódjaidnak túlélni a szárazságot!
 
 Az útmutató bemutatta az alapokat, de még sok mindent felfedezhetsz magad is.
 
