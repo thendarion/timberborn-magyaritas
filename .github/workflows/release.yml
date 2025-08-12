@@ -86,9 +86,10 @@ jobs:
         } >> "$GITHUB_ENV"
     - uses: m00nl1ght-dev/steam-workshop-deploy@v3
       with:
-        username: ${{ secrets.STEAM_USERNAME }}
+        username: ${{ secrets.STEAM_ACCOUNT_NAME }}
         configVdf: ${{ secrets.STEAM_CONFIG_VDF }}
         appID: 1062090
         publishedFileID: 3486799229
         path: huHU
-        changeNote: ${{ env.CHANGELOG }}
+        changeNote: |
+          ${{ env.CHANGELOG }}
