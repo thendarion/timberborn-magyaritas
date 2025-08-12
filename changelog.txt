@@ -1,1 +1,2 @@
-
+- új elnevezés: gravitációs energiatároló
+- tisztázott gravitációs energiatároló leírás

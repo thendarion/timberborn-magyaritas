@@ -274,8 +274,8 @@ Building.GathererFlag.FlavorDescription,"Mikor az áfonyát kosárba tették, a 
 Building.GearWorkshop.Description,Fogaskerekeket gyárt deszkákból.,Gears and Planks are resources; keep consistent.
 Building.GearWorkshop.DisplayName,Fogaskerékműhely,Gear is a resource
 Building.GearWorkshop.FlavorDescription,"„A fa fogaskerék sziklaszilárd!"" — hirdette Kazkó bá az iparosítás korszakában.","Metal Gear Solid is a famous Japanese video game series. Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
-Building.GravityBattery.Description,"A többletenergiát etárolja, és visszatáplálja, amikor a hálózat alulterhelt. Minél magasabbra épül, annál több energiát képes tárolni.",
-Building.GravityBattery.DisplayName,Gravitációs akkumulátor,"A battery in the form of a crane, that stores energy by raising a heavy weight above the ground."
+Building.GravityBattery.Description,"A többletenergiát etárolja, és visszatáplálja, amikor a hálózat túlterhelt. Minél magasabbra épül, annál több energiát képes tárolni.",
+Building.GravityBattery.DisplayName,Gravitációs energiatároló,"A battery in the form of a crane, that stores energy by raising a heavy weight above the ground."
 Building.GravityBattery.FlavorDescription,"Így néz ki, amikor a hódok saját fizikai törvényeket alkotnak.","Gravity batteries in the real world do not make sense from the physics standpoint."
 Building.GreaseFactory.Description,"Kenőanyagot állít elő kivonatból és repceolajból, hogy fokozza a robotok hatékonyságát.","Bots should be the same as in Bot.PrefabName. Grease should be the same as Good.Grease.DisplayName."
 Building.GreaseFactory.DisplayName,Kenőanyaggyár,Grease should be the same as Good.Grease.DisplayName.
