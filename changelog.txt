@@ -1,2 +1,3 @@
 - új elnevezés: stabil surranócső/tengely
 - az erdész hangulatszövege most már magyar sorozatra utal
+- magyartalanságok javítása

@@ -1254,7 +1254,7 @@ NaturalResource.Eggplant.FlavorDescription,Nincsenek padok benne.,Do not transla
 NaturalResource.Kohlrabi.DisplayName,Karalábé,Should be consistent with Good.Kohlrabi.DisplayName
 NaturalResource.Kohlrabi.FlavorDescription,"Papírízű.","Not a very tasty food, yet consumed raw in large quantities."
 NaturalResource.Mangrove.DisplayName,Mangrove,"A tree that grows in shallow water. This particular name doesn't refer to a specific type, it uses a general name for this group of trees. Produces fruits that can be harvested."
-NaturalResource.Mangrove.FlavorDescription,"A magok messzi földi utazók által lettek behozva, olyan vidékekről, ahol sosem szárad ki a folyó.",
+NaturalResource.Mangrove.FlavorDescription,"Messzi földről érkezett utazók hozták a magokat, olyan vidékekről, ahol sosem szárad ki a folyó.",
 NaturalResource.Maple.DisplayName,Juhar,Tree of the genus Sapindaceae
 NaturalResource.Maple.FlavorDescription,"A megcsapolható juharfák szirupot termelnek, de a magas minőségű faanyag még édesebb jutalom.",
 NaturalResource.Oak.DisplayName,Tölgy,Common oak tree.
