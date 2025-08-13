@@ -265,7 +265,7 @@ Building.FoodFactory.DisplayName,Élelmiszergyár,A factory building that litera
 Building.FoodFactory.FlavorDescription,"A nem megfelelő étkeztetés súlyos károkat okozott a termelésben – és az épületekben.",A hungry beaver may take a bite of a [wooden] construction it's working on.
 Building.Forester.Description,Fákat és bokrokat ültet.,
 Building.Forester.DisplayName,Erdész,A building with a worker that plants trees and bushes
-Building.Forester.FlavorDescription,"Bátor és gyönyörű, az erdész a hód társadalom magja.","Forresters are a family of central characters in ""Bold and Beautiful"", an extremely long-running American soap opera. Feel free to adapt this flavor, do not translate that literally."
+Building.Forester.FlavorDescription,"Jóban-rosszban az erdőben — az erdész a hódok biztos pontja.","Forresters are a family of central characters in ""Bold and Beautiful"", an extremely long-running American soap opera. Feel free to adapt this flavor, do not translate that literally."
 Building.FountainOfJoy.DisplayName,Az Öröm Forrása,A large water fountain with statues on top.
 Building.FountainOfJoy.FlavorDescription,"Nem pazarlás, ha boldoggá tesz.",Water is a very preciuos resource in Timberborn - fountains could be seen as a waste.
 Building.GathererFlag.Description,Vadnövényeket takarít be.,
@@ -555,11 +555,11 @@ Building.UndergroundPile.FlavorDescription,Az ekkora tárolóhely már megéri a
 Building.UndergroundRuins.Description,"Kibányászható hulladékvassal teli, rég eltemetett romok.",
 Building.UndergroundRuins.DisplayName,Eltemetett romok,Buried ruins on top of which an extracting facility - a mine - can be placed.
 Building.UndergroundRuins.FlavorDescription,"Bármit is építettek odalent az embörök, a vasat nem sajnálták.",
-Building.VerticalPowerShaft.Description,Kinetikus energiát továbbít. Függőlegesen is.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
-Building.VerticalPowerShaft.DisplayName,Függőleges hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
+Building.VerticalPowerShaft.Description,Kinetikus energiát továbbít minden irányban (függőlegesen is).,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
+Building.VerticalPowerShaft.DisplayName,Stabil hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.VerticalPowerShaft.FlavorDescription,Mire ez a nagy felhajtás?,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
-Building.VerticalTubeway.Description,"Modern, hatékony, bár kicsit szűkös közlekesést tesz lehetővé. Függőlegesen is.",The first sentence must be the same as Building.Tubeway.Description
-Building.VerticalTubeway.DisplayName,Függőleges surranócső,"An expanded version of the Building.Tubeway.DisplayName with a solid platform on top of it, that allows other Tubes or structures to be placed on top of it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
+Building.VerticalTubeway.Description,"Modern, hatékony, bár kicsit szűkös közlekesést tesz lehetővé minden irányban (függőlegesen is).",The first sentence must be the same as Building.Tubeway.Description
+Building.VerticalTubeway.DisplayName,Stabil surranócső,"An expanded version of the Building.Tubeway.DisplayName with a solid platform on top of it, that allows other Tubes or structures to be placed on top of it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
 Building.VerticalTubeway.FlavorDescription,"Fel, fel, le, le, balra, jobbra, balra, jobbra, bukj, araszolj… hmm… nem innen indultunk?",Konami Code reference
 Building.WaterPump.Description,Ivóvizet szivattyúz és szűr a hódok számára. A rosszvízszennyezés csökkenti a hatékonyságát.,Badwater should be the same as Good.Badwater.DisplayName. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
 Building.WaterPump.DisplayName,Vízszivattyú,
