@@ -946,7 +946,7 @@ KeyBinding.DecreaseWorkplacePriority,Munkahely-prioritás csökkentése,Label of
 KeyBinding.DeleteObject,Objektum törlése,Label of the key that deletes the selected object
 KeyBinding.DetonateDynamite,Dinamit felrobbantása,Label of the key that detonates a dynamite
 KeyBinding.DistributionTab,Elosztás ablak,"Label of the key that opens the Settlement Panel and selects the Distribution tab, Distribution should be the same as BatchControl.Distribution"
-KeyBinding.Flip,Megfordítás,Label of the key that flips the selected building (makes the model mirrored)
+KeyBinding.Flip,Tükrözés,Label of the key that flips the selected building (makes the model mirrored)
 KeyBinding.Hold,Nyomva tartva:,Used to describe key binding that turns something on while the key is held.
 KeyBinding.HousingTab,Lakhatás ablak,"Label of the key that opens the Settlement Panel and selects the Housing tab, Housing should be the same as BatchControl.Housing"
 KeyBinding.IncreaseBrushHeight,Ecset magasságának növelése,"Label of the key that increases the vertical level of the brush, 'brush height' should be the same as MapEditor.Brush.Height.Label"
@@ -1254,7 +1254,7 @@ NaturalResource.Eggplant.FlavorDescription,Nincsenek padok benne.,Do not transla
 NaturalResource.Kohlrabi.DisplayName,Karalábé,Should be consistent with Good.Kohlrabi.DisplayName
 NaturalResource.Kohlrabi.FlavorDescription,"Papírízű.","Not a very tasty food, yet consumed raw in large quantities."
 NaturalResource.Mangrove.DisplayName,Mangrove,"A tree that grows in shallow water. This particular name doesn't refer to a specific type, it uses a general name for this group of trees. Produces fruits that can be harvested."
-NaturalResource.Mangrove.FlavorDescription,"Messzi földről érkezett utazók hozták a magokat, olyan vidékekről, ahol sosem szárad ki a folyó.",
+NaturalResource.Mangrove.FlavorDescription,"Messzi földről érkezett utazók hozták a magokat — olyan vidékekről, ahol sosem szárad ki a folyó.",
 NaturalResource.Maple.DisplayName,Juhar,Tree of the genus Sapindaceae
 NaturalResource.Maple.FlavorDescription,"A megcsapolható juharfák szirupot termelnek, de a magas minőségű faanyag még édesebb jutalom.",
 NaturalResource.Oak.DisplayName,Tölgy,Common oak tree.
@@ -1486,7 +1486,7 @@ Status.Buildings.Flooded.Short,Elárasztott épület,Alert that shows up when a 
 Status.Buildings.NeedsWater,Ennek az épületnek mélyebb vízre van szüksége a működéshez.,
 Status.Buildings.NeedsWater.Short,Az épület vízre van szüksége,Please keep short.
 Status.Buildings.Paused,Kikapcsolva.,"Alternative terms: Paused, Switched off"
-Status.Buildings.Unreachable,Ez az épület nincs összekötve semmilyen kerületközponttal útvonalon keresztül.,Shown when a building isn't connected to a District Center.
+Status.Buildings.Unreachable,Ez az épület nem csatlakozik ösvénnyel egyetlen kerületközponthoz sem.,Shown when a building isn't connected to a District Center.
 Status.Buildings.Unreachable.Short,Nem csatlakoztatott épület,Shown when a building isn't connected to a District Center. Please keep short.
 Status.Buildings.VerticalBlocking,Az építkezés az alatta lévő építkezés befejezésére vár.,"Status shown on construction sites, that need to be finished from bottom to top."
 Status.ConstructionSites.NoMaterials,Nem lehet minden szükséges építőanyagot beszerezni.,Shown in the building box when there are no available materials in the nearby storages or no storages nearby
