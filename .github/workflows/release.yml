@@ -84,7 +84,7 @@ jobs:
           cat changelog.txt
           echo '__EOF__'
         } >> "$GITHUB_ENV"
-    - uses: m00nl1ght-dev/steam-workshop-deploy@v3
+    - uses: m00nl1ght-dev/steam-workshop-deploy@v4
       with:
         username: ${{ secrets.STEAM_ACCOUNT_NAME }}
         configVdf: ${{ secrets.STEAM_CONFIG_VDF }}
