@@ -1044,11 +1044,11 @@ MainMenu.WelcomeScreenText,"Üdvözlet telepes!
 
 Most a <i>Timberborn korai hozzáférés</i> verziójával játszol.
 
-Az előtted álló út izgalmas, de ne felejtsd el, hogy a játék még fejlesztés alatt áll. Folyamatosan új tartalmakat adunk hozzá, és sok már létező részlet további munkára szorul. Hibák és összeomlások előfordulhatnak. Kérjük, oszd meg véleményedet a <i>Visszajelzés küldése</i> gombra kattintva, vagy az hivatalos Discord szerveren.
+Az előtted álló út izgalmas, de ne felejtsd el, hogy a játék még fejlesztés alatt áll! Folyamatosan új tartalmakat adunk hozzá, és sok már létező részlet további munkára szorul. Hibák és összeomlások előfordulhatnak. Kérjük, oszd meg véleményedet a <i>Visszajelzés küldése</i> gombra kattintva, vagy az hivatalos Discord szerveren!
 
 Ha korábban játszottál egy régebbi Timberborn verzióval, lehet, hogy érdemes új települést kezdened. A játék minden frissítéssel fejlődik, rendszeresen érkeznek új tartalmak és életminőséget javító funkciók, miközben néhány meglévő mechanizmus áttervezésre kerül és másképp működik.
 
-Sok szerencsét és ne felejts el hidratálni!",
+Sok szerencsét, és ne felejts el hidratálni!",
 MainMenu.WelcomeScreenTitle,Korai Hozzáférés Információk,Header of the welcome screen popup.
 MainMenu.UpdateInfoHeader,7. frissítés - Kötélpálya és Surranócső,"Header of the update info panel that is shown in the main menu."
 MainMenu.UpdateInfoLink,<u>További információk</u>,Label of the link that opens web browser with the update details webpage.
