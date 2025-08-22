@@ -488,7 +488,7 @@ Building.Sluice.Mode.AutoOpen,Automatikus: Nyitva,Label for sluice working in au
 Building.Sluice.Mode.Closed,Zárva,Label of the toggle that sets the sluice to be always closed
 Building.Sluice.Mode.Open,Nyitva,Label of the toggle that sets the sluice to be always open
 Building.Sluice.Synchronize,Szinkronizálás a szomszédos zsilipekkel,
-Building.Sluice.MaximumDepthToggle,{0} alsó vízmélység alatt zárjon be,Label of a toggle that enables automation based on the maximum downstream depth of water
+Building.Sluice.MaximumDepthToggle,{0} alsó vízmélység felett zárjon be,Label of a toggle that enables automation based on the maximum downstream depth of water
 Building.SmallIndustrialPile.DisplayName,Kis ipari halom,
 Building.SmallIndustrialPile.FlavorDescription,"„Na persze, tettek rá egy tetőt és máris iparinak hívják. Tipikus."" — Tobzi",
 Building.SmallPile.Description,Nagyméretű áru (pl. farönkök) tárolására szolgál.,
