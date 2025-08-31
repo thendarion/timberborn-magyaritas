@@ -406,7 +406,7 @@ Building.Numbercruncher.DisplayName,Számdaráló,A machine that's a primitive c
 Building.Numbercruncher.FlavorDescription,Messze felülmúlja a már nyugdíjba vonult Számrágót.,"Suggests that beavers - just like hoomans - create new generations of ""computers"" and retire old ones."
 Building.Observatory.Description,"A csillagok megfigyelésével a hódok többet tanulnak az őket körülvevő világról.","A building where beavers look into the space using telescopes"
 Building.Observatory.DisplayName,Csillagvizsgáló,"A building where beavers look into the space using telescopes"
-Building.Observatory.FlavorDescription,"Régen csak a tábortűz mellett csodáltuk az eget. Ma már megfigyeljük.",
+Building.Observatory.FlavorDescription,"A tábortűz mellett régen csak csodáltuk az eget. Ma már megfigyeljük.",
 Building.OilPress.Description,Repcemagból repceolajat présel.,Oil should be the same as in Building.OilPress.DisplayName
 Building.OilPress.DisplayName,Olajprés,A building that's a giant press that squeezes out oil.
 Building.OilPress.FlavorDescription,A kíváncsi hódkölykök még a sütit és a tobozt is szétlapítják vele.,"The process of squishing things with hydraulic press filmed in slo-mo is oddly fascinating, and makes for popular YT videos."
@@ -416,13 +416,13 @@ Building.Overhang3x1.DisplayName,Kinyúlás 3x1,"An artificial overhang made out
 Building.Overhang4x1.DisplayName,Kinyúlás 4x1,"An artificial overhang made out of wood and metal that allows new buildings to be put on top of it. Numbers at the end denote size X by Y."
 Building.Overhang5x1.DisplayName,Kinyúlás 5x1,"An artificial overhang made out of wood and metal that allows new buildings to be put on top of it. Numbers at the end denote size X by Y."
 Building.Overhang6x1.DisplayName,Kinyúlás 6x1,"An artificial overhang made out of wood and metal that allows new buildings to be put on top of it. Numbers at the end denote size X by Y."
-Building.Overhang.FlavorDescription,"„Nézd már, mintha lépcsőt építenénk a felhőkig! Elgondolkodtat…"" — Tobzi",
+Building.Overhang.FlavorDescription,"„Nézd már, mintha lépcsőt építenénk a felhőkbe! Elgondolkodtat…"" — Tobzi",
 Building.PaperMill.Description,Gépesített papír gyár.,Paper is a resource.
 Building.PaperMill.DisplayName,Papírgyár,
-Building.PaperMill.FlavorDescription,"A papírt először csak rágcsálták a gyűjtögetők, aztán rájöttek: sokkal többre is jó.",
+Building.PaperMill.FlavorDescription,"A papírt először csak a gyűjtögetők rágcsálták, aztán rájöttek, hogy sok más dologra is jó.",
 Building.Path.Description,Ösvényekkel kell összekötni a különböző épületeket.,
 Building.Path.DisplayName,Ösvény,
-Building.Path.FlavorDescription,"„Lépésről lépésre, haza visz az út..."" — népszerű hód dal kezdete","Adapted from ""Take Me Home, Country Roads"" by John Denver"
+Building.Path.FlavorDescription,"„Lépésről-lépésre, haza visz az út..."" — népszerű hód dal kezdete","Adapted from ""Take Me Home, Country Roads"" by John Denver"
 Building.PlankFence.Description,Dekoratív kerítés deszkákból készítve.,
 Building.PlankFence.DisplayName,Deszka kerítés,
 Building.Platform.Description,"Egy emelt állvány, amely szolgálhat hídként, vagy alapként más épületek számára.",
@@ -742,7 +742,7 @@ Mottójuk: <i>Dolgozz keményen, dolgozz keményen!</i>",Description of a beaver
 Faction.IronTeeth.DisplayName,Vasfogak,Name of a faction
 Faction.Folktails.GameOver.Flavor,"Ha nem élsz a természet ajándékaival, a természet visszaveszi azokat.",Flavor text of the game over panel
 Faction.Folktails.GameOver.Message,"Virágvölgyieid emberi elődeik szomorú sorsára jutottak. Ez a vég.",Text of the game over panel
-Faction.Folktails.WonderCompletionFlavor,"Miután hatalmas gazdagságot és tudást gyűjtöttek, hódjaid megosztották munkájuk gyümölcsét a szenvedő bolygóval. Még sok a tennivaló, de a Föld talán ismét virágozhat.","Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
+Faction.Folktails.WonderCompletionFlavor,"Miután hatalmas gazdagságot és tudást gyűjtöttek, hódjaid megosztották munkájuk gyümölcsét a szenvedő bolygóval. Még sok a tennivaló, de a Föld talán ismét kivirágozhat.","Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
 Faction.Folktails.WonderCompletionMessage,"Gratulálunk! Magadévá tetted a Virágvölgyiek természetközpontú életmódját, és a térkép erőforrásait felhasználva felépítetted a frakció csodáját.","A message that is shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
 Faction.IronTeeth.GameOver.Flavor,"„Néha elég egyetlen apró, hibás alkatrész, hogy az egész gép tönkremenjen.",Flavor text of the game over panel
 Faction.IronTeeth.GameOver.Message,"Vasfogaid települése elbukott, nincs esély a helyreállításra. Ez a vég.",Text of the game over panel

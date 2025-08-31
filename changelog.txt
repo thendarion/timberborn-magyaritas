@@ -1,1 +1,5 @@
-
+- javítás a csillagvizsgáló egyik leírásában
+- javítás a kinyúlás egyik leírásában
+- javítás a papírgyár leírásában
+- javítás a virágvölgyi csoda leírásában
+- központozásjavítás
