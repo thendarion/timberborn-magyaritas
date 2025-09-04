@@ -176,11 +176,11 @@ Building.DanceHall.FlavorDescription,"„Ne állj ott, mint egy Vasfog a szabadn
 Building.DecontaminationPod.Description,"Egy gépesített fürdő, amely kivonat használatával megtisztítja a szennyezett hódokat.",Badwater should be the same as Good.Badwater.DisplayName.
 Building.DecontaminationPod.DisplayName,Tisztítófürdő,Ideally the name of the building should refer to the contamination effect on the beaver (Need.BadwaterContamination).
 Building.DecontaminationPod.FlavorDescription,"„Nem, Zsömi, nem ihatsz kivonatot. Beleestél a tartályba még kölyökkorodban!"" — Nóra nagyi","Reference to Obelix from Asterix and Obelix falling into a cauldron. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
-Building.DeepBadwaterPump.DisplayName,Mély Rosszvízszivattyú,"Badwater Pump Must be the same as Building.BadwaterPump.DisplayName, Deep should be the same as in Building.DeepWaterPump.DisplayName"
+Building.DeepBadwaterPump.DisplayName,Mély rosszvízszivattyú,"Badwater Pump Must be the same as Building.BadwaterPump.DisplayName, Deep should be the same as in Building.DeepWaterPump.DisplayName"
 Building.DeepBadwaterPump.FlavorDescription,"A hosszabb cső egyszerre kezeli a szintkülönbséget és a szagot.",
-Building.DeepMechanicalFluidPump.DisplayName,Mély Mechanikus Folyadékszivattyú,
+Building.DeepMechanicalFluidPump.DisplayName,Mély mechanikus folyadékszivattyú,
 Building.DeepWaterPump.Description,Ivóvizet szivattyúz és szűr a hódok számára. A rosszvízszennyezés csökkenti a hatékonyságát.,
-Building.DeepWaterPump.DisplayName,Mély Vízszivattyú,A water pump which can access deeper water than a regular pump.
+Building.DeepWaterPump.DisplayName,Mély vízszivattyú,A water pump which can access deeper water than a regular pump.
 Building.DeepWaterPump.FlavorDescription,"„Lenn a mélyben nádas zúg, víz fakad,
 A hód pumpálja, fárad, de nem szakad.""
  — Vasfog munkásdal","Iron Teeth is a faction name, keep consistent (Faction.IronTeeth.DisplayName)"
