@@ -532,7 +532,7 @@ Building.TeethGrindstone.DisplayName,Fogcsiszoló kő,A grindstone contraption f
 Building.TeethGrindstone.FlavorDescription,"Miért kínoznád magad törött fogakkal, mikor le is csiszolhatod őket?","This building is used by beavers to clear the ""broken teeth"" status. Broken teeth refers to Need.BrokenTeeth.DisplayName."
 Building.TerrainBlock.Description,"Mesterséges föld kocka. Az építés irányát a tetején lévő nyilak mutatják.",Block of terrain refers to Building.TerrainBlock.DisplayName.
 Building.TerrainBlock.DisplayName,Földkocka,"A 1x1x1 chunk of terrain"
-Building.TributeToIngenuity.DisplayName,Hódolat az ügyességnek,Name of a monument
+Building.TributeToIngenuity.DisplayName,Hódolat Az Ügyességnek,Name of a monument
 Building.TributeToIngenuity.FlavorDescription,"„Persze, hogy van célja! Lenyűgöz!"" — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.TripleDynamite.DisplayName,Tripla dinamit,Dynamite that makes 3 blocks deep hole
 Building.TripleFloodgate.DisplayName,Tripla zsilip,
