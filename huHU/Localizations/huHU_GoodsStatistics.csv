@@ -1,0 +1,18 @@
+ID,Text,Comment
+eMka.GoodStatistics.BatchControlKeyBinding,Az árustatisztika fül megnyitása,KeyBinding label
+eMka.GoodStatistics.BatchControlTabName,Árustatisztika,Name of the tab in settlement panel
+eMka.GoodStatistics.DepletionDaysLeft,A készlet kimerülésének becsült ideje: {0},"{0} stands for formatted Time.DaysShort, e.g. ""1d"" for 1 day"
+eMka.GoodStatistics.GoodSampleTime,Mintavétel {0}val ezelőtt,"{0} stands for formatted Time.HoursShort, e.g. ""1h"" for 1 hour"
+eMka.GoodStatistics.GrowingDaysLeft,A kapacitás betelésének becsült ideje: {0},"{0} stands for formatted Time.DaysShort, e.g. ""1d"" for 1 day"
+eMka.GoodStatistics.Settings.AnalyzeGoodsWithoutStockpiles,Tárolókapacitás nélküli áruk bevonása,
+eMka.GoodStatistics.Settings.ConsecutiveMicroChangesThreshold,Egymást követő apró változás küszöb,
+eMka.GoodStatistics.Settings.ConsecutiveMicroChangesThresholdTooltip,"Az egymást követő apró változások száma, ami már trendnek számít, de a lassú napi változás küszöb alatt van","Tooltip for ConsecutiveMicroChangesThreshold setting, text in the brackets should be the same as eMka.GoodStatistics.Settings.SlowChangeThreshold key"
+eMka.GoodStatistics.Settings.EMAAnalyzerHeader,Exponenciális mozgóátlag elemzés,
+eMka.GoodStatistics.Settings.FastChangeThreshold,Gyors napi változás küszöb,
+eMka.GoodStatistics.Settings.IgnoreGoodsWithStorageLessThan,"Azon áruk figyelmen kívül hagyása, amiből kevesebb van, mint",
+eMka.GoodStatistics.Settings.ModerateChangeThreshold,Közepes napi változás küszöb,
+eMka.GoodStatistics.Settings.SamplesPerDay,Napi mintavételszám,
+eMka.GoodStatistics.Settings.SamplesToAnalyze,Periódus szám,
+eMka.GoodStatistics.Settings.BaseSettings,Alapbeállítások,
+eMka.GoodStatistics.Settings.ShowTrendsOnTopBar,A trendek mutatása a felső sorban,
+eMka.GoodStatistics.Settings.SlowChangeThreshold,Lassú napi változás küszöb,

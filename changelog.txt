@@ -1,1 +1,2 @@
 - ragozásjavítás a rövid vízhiányszövegben
+- a Goods Statistics mod fordítása
