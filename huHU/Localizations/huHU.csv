@@ -1484,7 +1484,7 @@ Status.Buildings.DirectionalBlocking,Az építkezés a mögötte lévő építke
 Status.Buildings.Flooded,Elárasztva.,Notification that shows in the selected building's panel when it's flooded.
 Status.Buildings.Flooded.Short,Elárasztott épület,Alert that shows up when a building is flooded. Please keep short.
 Status.Buildings.NeedsWater,Ennek az épületnek mélyebb vízre van szüksége a működéshez.,
-Status.Buildings.NeedsWater.Short,Az épület vízre van szüksége,Please keep short.
+Status.Buildings.NeedsWater.Short,Az épületnek vízre van szüksége,Please keep short.
 Status.Buildings.Paused,Kikapcsolva.,"Alternative terms: Paused, Switched off"
 Status.Buildings.Unreachable,Ez az épület nem csatlakozik ösvénnyel egyetlen kerületközponthoz sem.,Shown when a building isn't connected to a District Center.
 Status.Buildings.Unreachable.Short,Nem csatlakoztatott épület,Shown when a building isn't connected to a District Center. Please keep short.
