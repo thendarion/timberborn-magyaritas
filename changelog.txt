@@ -1,4 +1,0 @@
-- a Moddable Weather mod fordítása
-- a More Topbars mod fordítása
-- a Mod Settings mod fordítása
-- elírásjavítás
