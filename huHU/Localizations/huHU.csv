@@ -1580,7 +1580,7 @@ ToolGroups.Metal,Vas,Buildings that allow to collect and produce with metal
 ToolGroups.Monuments,Emlékművek,Awe-inspiring statues and fantastic contraptions
 ToolGroups.Other,Egyéb,Buildings that don't fit in other categories
 ToolGroups.Paths,Utak és szerkezetek,"Buildings that are made to be built and walked upon or to support other buildings such as paths, stairs and platforms"
-ToolGroups.Power,Energetika,Buildings that produce and transfer power
+ToolGroups.Power,Meghajtás,Buildings that produce and transfer power
 ToolGroups.Priority,Prioritások beállítása,This is in active voice
 ToolGroups.Ruins,Romok,Group for different types of ruin objects
 ToolGroups.Science,Tudomány,Buildings that produce Science points
