@@ -1,3 +1,1 @@
-- ragozásjavítás a rövid vízhiányszövegben
-- a Goods Statistics mod fordítása
 - az Energetika csoport mostantól Meghajtás, ami jobban beleillik a játék világába
