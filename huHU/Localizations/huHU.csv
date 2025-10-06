@@ -732,7 +732,7 @@ A kísérleti mentések külön tárolódnak a fő játék mentéseitől. Az új
 Ebben a Kísérleti módban <RedHighlight>a játék számos része nincs lefordítva, és angolul jelenik meg</RedHighlight>, függetlenül attól, milyen nyelvet választasz. Ez lehetővé teszi, hogy gyorsan adjunk hozzá új tartalmat, és azonnal változtassunk, anélkül, hogy hosszadalmas fordításokra várnánk.
 
 Erősen javasoljuk, hogy csatlakozz a hivatalos Discord szerverünkhöz, és vegyél részt az új tartalmakkal kapcsolatos beszélgetésekben.",Welcome text that is shown to players of the experimental versions of the game.
-Explosions.BlownInExplosionMessage,{0} felrobbant egy robbanás következtében.,{0} stands for character name. Notification that shows when a character (Beaver/Bot) is killed/destroyed by an explosion (another bot or dynamite)
+Explosions.BlownInExplosionMessage,{0} egy robbanás következtében az örök rágcsamezőkre költözött.,{0} stands for character name. Notification that shows when a character (Beaver/Bot) is killed/destroyed by an explosion (another bot or dynamite)
 Faction.Folktails.Description,"Lazák, de szorgalmasak, a Virágvölgyiek gazdálkodás mesterei. Tisztelik a természetet, és az bőséges termést hoz nekik.
 Mottójuk: <i>Kényelem, étel, és erős fa.</i>",Description of a beaver faction
 Faction.Folktails.DisplayName,Virágvölgyiek,Name of a faction
