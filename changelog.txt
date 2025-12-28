@@ -1,1 +1,4 @@
-- új robbanás általi halál üzenet
+- 1.0 támogatás, az új elemek fordítása
+- újragenerált nyelvi fájl az 1.0-s verzió alapján
+- a más modok támogatása megszűnt (ezt valószínűeg később visszateszem valamilyen formában)
+- kísérleti verzió, hibák előfordulhatnak
