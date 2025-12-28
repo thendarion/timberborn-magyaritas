@@ -19,7 +19,7 @@ jobs:
     - name: Extract metadata
       id: metadata
       run: |
-        MOD_VERSION=$(jq -r '.Version' huHU/manifest.json)
+        MOD_VERSION=$(jq -r '.Version' huHU/version-1.0/manifest.json)
         echo "MOD_VERSION=$MOD_VERSION" >> "$GITHUB_OUTPUT"
 
     - name: Create ZIP archive
