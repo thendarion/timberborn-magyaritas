@@ -1238,7 +1238,7 @@ Modding.ActiveMods,Aktív modulok,A label for the list of mods active in the gam
 Modding.BrowseMods,Böngészés a helyi modulok között,Label of the button that opens a file explorer with a directory with mods. Please keep short.
 Modding.CloudSource,{0} modul,"Tooltip with source of the mod. {0} is the name of the cloud platform, for example Steam Workshop."
 Modding.CreateMod,Modkészítés,Label of a button that creates a new mod. Please keep short.
-Modding.CreateNewMod,Új mod készítése,Label of a button that allows to create a new mod and a header of the panel that it opens.
+Modding.CreateNewMod,Új modul készítése,Label of a button that allows to create a new mod and a header of the panel that it opens.
 Modding.DecreasePriority,Betöltési prioritás csökkentése,Label of a button that decreases the loading priority of a mod.
 Modding.DocumentationButton,Segítség,Label of a button that opens modding documentation. Please keep short.
 Modding.DownloadMods,Modulok letöltése,Label of the button that opens some panel where mods can be downloaded. Please keep short.
