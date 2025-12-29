@@ -188,7 +188,7 @@ Building.DeepMechanicalFluidPump.DisplayName,Mély mechanikus folyadékszivatty�
 Building.DeepWaterPump.Description,Ivóvizet szivattyúz és szűr a hódok számára. A rosszvízszennyezés csökkenti a hatékonyságát.,
 Building.DeepWaterPump.DisplayName,Mély vízszivattyú,A water pump which can access deeper water than a regular pump.
 Building.DeepWaterPump.FlavorDescription,"„Lenn a mélyben nádas zúg, víz fakad,
-A hód pumpálja, fárad, de nem szakad.""
+A hód pumpálja, fárad, de nem szakad.”
  — Vasfog munkásdal","Adapted from Men at Work's famous 'Down Under' song ; Iron Teeth is a faction name, keep consistent (Faction.IronTeeth.DisplayName)"
 Building.Detailer.Description,Egyedi mintákat fest a hódok farkára.,This building allows the player to paint beavers' tails.
 Building.Detailer.DisplayName,Farokdíszítő,Detailer references that the tail customisations are details/decorations.
@@ -606,7 +606,7 @@ Building.ZiplineBeam.DisplayName,Kötélpályagerenda,"A horizontal pole with an
 Building.ZiplineBeam.FlavorDescription,"Bevett szokás, hogy mikor két hód elhalad egymás mellett, összecsapják a farkukat.","Reference to the Starcraft warning ""We must construct additional pylons"", but a subversion of expectations since it's not on the pylon building."
 Building.ZiplinePylon.Description,Az állomások közt a kötélpályát tartó függőleges oszlop.,
 Building.ZiplinePylon.DisplayName,Kötélpályaoszlop,"A high pole that serves as a base for connecting zipline networks, which are used by beavers to travel faster around the map. Departure and arrival happens in Building.ZiplineStation.DisplayName, so they should be named similarly."
-Building.ZiplinePylon.FlavorDescription,"""Építened kell még oszlopot!"" — Tobzi",Beaver version of a high five
+Building.ZiplinePylon.FlavorDescription,"„Építened kell még oszlopot!” — Tobzi",Beaver version of a high five
 Building.ZiplineStation.Description,A közlekedés gyors és izgalmas módja.,
 Building.ZiplineStation.DisplayName,Kötélpályaállomás,"A station used for boarding zipline networks. They can be extended further using Building.ZiplinePylon.DisplayName, so they should be named similarly."
 Building.ZiplineStation.FlavorDescription,„Ilyen hosszú kell legyen a farkad a belépéshez!” — Tábla a bejáratnál,"Reference to signs placed at amusement parks in front of the rides, but requiring tail length instead of height."
