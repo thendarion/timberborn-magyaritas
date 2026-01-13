@@ -1643,8 +1643,8 @@ Time.DaysShort,{0} nap,"{0} stands for days, for example 16d. Please keep very s
 TimedComponentActivator.CountdownNotActive,Alvó,Text shown in entity panel when count down is not active for entity.
 TimedComponentActivator.CyclesUntilCountdownActivation,Visszaszámlálást indító ciklus,Label for input field shown in entity panel in editor. Allows to set a cycle number in which count down will start.
 TimedComponentActivator.DaysUntilActivationLoc,Visszaszámlálás hossza napokban,Label for input field shown in entity panel in editor. Allows to set a number of days until activation.
-TimedComponentActivator.DaysUntilActivationProgress,{} nap múlva aktiválódik,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
-TimedComponentActivator.DaysUntilExplosionProgress,{} nap múlva felrobban,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
+TimedComponentActivator.DaysUntilActivationProgress,{0} nap múlva aktiválódik,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
+TimedComponentActivator.DaysUntilExplosionProgress,{0} nap múlva felrobban,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
 TimedComponentActivator.IsEnabledToggle,Késleltetett aktiváció,Label for toggle in entity panel in editor. Allows to enable or disable time activation.
 Time.HourShort,ó,Hour abbreviation
 Time.HoursShort,{0} óra,"{0} stands for hours, for example 16h. Please keep very short. (renamed from Work.WorkingHoursShort)"
