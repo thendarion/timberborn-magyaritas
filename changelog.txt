@@ -1,2 +1,5 @@
-- központozásjavítás
-- hiba javítása a visszaszámlálás szövegében. most már nem fog kilépni a játék, ha kijelölsz egy bombát vagy rosszvízforrást, ami aktiválás alatt van.
+- az új bevezető (tutorial) fordítása
+- az új elemek fordítása
+- konzisztensebb elnevezések
+
+megjegyszés: valószínűleg még sok változtatásra lesz szükség mielőtt kimegy az 1.0-s verzió :D
