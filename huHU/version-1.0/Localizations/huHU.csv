@@ -74,15 +74,19 @@ Building.Agora.Description,"Egy nagy gyülekezőhely, ahol a hódok komoly faké
 Building.Agora.DisplayName,Agóra,
 Building.Agora.FlavorDescription,„A hódoknak joguk van a szabad véleménynyilvánításhoz!” — Kazkó bá,Folktails must be same as faction as Faction.Folktails.DisplayName.
 Building.AncientAquiferDrill.DisplayName,Ősi víztartó réteg fúró,
+Building.AncientAquiferDrill.FlavorDescription,Az emböröknek az elveszett világ megmentésére tett utolsó erőfeszítése.,
 Building.AquaticFarmhouse.Description,<YellowHighlight>Vízi</YellowHighlight> növények termesztésére szakosodott gazdákat alkalmaz.,"Aquatic is a keyword, must be the same as in NaturalResources.Aquatic."
 Building.AquaticFarmhouse.DisplayName,Vízi földművesház,A farmhouse that specializes in water plants.
 Building.AquaticFarmhouse.FlavorDescription,"„Halat enni?! Dejszen mi hódok volnánk, nem vidrák!” — Nóra nagyi","Beavers eating fish is a common misconception. Beavers are 100% herbivores. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Aquifer.Description,Földalatti vízforrás,
 Building.Aquifer.DisplayName,Víztartó réteg forrás,
+Building.Aquifer.FlavorDescription,"Nem nehéz megtalálni, hisz olyan hangos.",
 Building.AquiferDrill.Description,Vizet nyer ki a víztartó rétegből. Víztartó réteg forrásra építhető.,
 Building.AquiferDrill.DisplayName,Víztartó réteg fúró,
+Building.AquiferDrill.FlavorDescription,A legtöbb hód épület a vizet visszatartani hivatott. Ez nem.,
 Building.BadtideDrain.Description,Rosszvízár alatt rosszvíz folyik belőle,
 Building.BadtideDrain.DisplayName,Rosszvízárcsatorna,
+Building.BadtideDrain.FlavorDescription,„Erre használták az embörök a csöveket? Fúj!” — Zsömi,"Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 Building.BadwaterDischarge.Description,Lezár egy Rosszvízforrást. Igény szerint nyitható és zárható. Nyitott állapotban szárazság idején is fenntartja a rosszvíz áramlását.,"Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
 Building.BadwaterDischarge.DisplayName,Rosszvízmélyfúrás,"Name of the building that can either stop flow of badwater or enforce flow with full power. It's a dome shaped, mechanical building that opens and closes like a camera shutter. Badwater must be the same as Good.Badwater.DisplayName."
 Building.BadwaterDischarge.FlavorDescription,Belépés csak RCE minősítéssel rendelkező mérnökök részére. A YouTube-komment nem számít referenciának.,This is a reference to a youtuber called Real Civil Engineer.
@@ -97,6 +101,7 @@ Building.BadwaterRig.DisplayName,Rosszvízkitermelő,Name of the building that s
 Building.BadwaterRig.FlavorDescription,"A rosszvíz bugyog, a munkások feszülnek – nagy a nyomás minden irányból.",Play on words with pressure referring to both water pressure and stress. If possible try to adapt the phrase to fit your language.
 Building.BadwaterSeep.Description,Korlátozott nyomású rosszvízforrás,
 Building.BadwaterSeep.DisplayName,Gyenge rosszvízforrás,"A building that allows badwater to seep through, creating a natural badwater source."
+Building.BadwaterSeep.FlavorDescription,"Korlátozott nyomás, korlátlan pusztítás.",
 Building.BadwaterSource.DisplayName,Rosszvízforrás,A crack or spring in the ground spuming badwater. Badwater should be the same as Good.Badwater.DisplayName.
 Building.BadwaterSource.FlavorDescription,"„Miért nekünk kell eltakarítani az embörök mocskát? Ja, igen, mert mind halottak.” — Tobzi",
 Building.Bakery.Description,Kenyeret és péksüteményeket süt különböző lisztekből.,Pastry being a baked good.
@@ -276,8 +281,10 @@ Building.GearWorkshop.DisplayName,Fogaskerékműhely,Gear is a good
 Building.GearWorkshop.FlavorDescription,„A fa fogaskerék sziklaszilárd!” — hirdette Kazkó bá az iparosítás korszakában.,"Metal Gear Solid is a famous Japanese video game series. Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.GeothermalEngine.Description,"Hatalmas turbina, amely a geotermikus hőforrást hasznosítja.",
 Building.GeothermalEngine.DisplayName,Geotermikus motor,
+Building.GeothermalEngine.FlavorDescription,Munkások nélkül üzemel. Elsősorban a szag miatt.,
 Building.GeothermalField.Description,"Állandó, megújuló energiaforrás, amit a megfelelő szerkezettel hasznosíthatnak a hódok.",
 Building.GeothermalField.DisplayName,Geotermikus hőforrás,
+Building.GeothermalField.FlavorDescription,"Zöld-e az energia, ha sárga?",
 Building.GravityBattery.Description,"A többletenergiát etárolja, és visszatáplálja, amikor a hálózat túlterhelt. Minél magasabbra épül, annál több energiát képes tárolni.",
 Building.GravityBattery.DisplayName,Gravitációs energiatároló,"A battery in the form of a crane, that stores power by raising a heavy weight above the ground."
 Building.GravityBattery.FlavorDescription,"Így néz ki, amikor a hódok saját fizikai törvényeket alkotnak.",Gravity batteries in the real world do not make sense from the physics standpoint.
@@ -330,6 +337,7 @@ Building.LargePile.FlavorDescription,"A rönk bemegy, a rönk kijön. A rönk be
 Building.LargePowerWheel.Description,"Több munkást foglalkoztató, fejlett erőkerék.",
 Building.LargePowerWheel.DisplayName,Nagy erőkerék,
 Building.LargePowerWheel.FlavorDescription,A Vasfogak szerint ez is körhinta… csak kicsit hatékonyabb.,Iron Teeth must be the same as Faction.IronTeeth.DisplayName.
+Building.LargeRelic.FlavorDescription," „Néhány embör akkora volt, hogy ebből ettek.” — Tobzi","Large relic is a ruined radar dish, looks like a bowl. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible."
 Building.LargeRowhouse.DisplayName,Nagy sorház,"A rowhouse is a narrow and tall house that is connected to other homes on both sides, often built in a row. Building.Rowhouse"
 Building.LargeRowhouse.FlavorDescription,Még több hód négyzetméterenként. Ez a haladás.,Referencing 'complex' meaning a group of buildings as well as a psychological behaviour.
 Building.LargeTank.DisplayName,Nagy tartály,
@@ -366,6 +374,7 @@ Building.MechanicalFluidPump.FlavorDescription,"Inkább a gép emelje át, mint 
 Building.MedicalBed.Description,Sérült hódok gyógyulását szolgáló fekvőhely., 
 Building.MedicalBed.DisplayName,Orvosi ágy,A place where injured beavers come to lie down and rest
 Building.MedicalBed.FlavorDescription,„Ez csak egy karcolás! Visszamehetek dolgozni?” — Tobzi,Monty Python reference.
+Building.MediumRelic.FlavorDescription,"„Néha látni lehet, ahogy ezek leesnek az égből.” — Nóra nagyi","Medium Relic is a crashed satellite. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.MediumTank.DisplayName,Közepes tartály,
 Building.MediumTank.FlavorDescription,"A Nagy Aszály után a hódok törvénybe iktatták, hogy mindig legyen belőlük néhány.",The Great Drought should remain capitalized to indicate it's a name of an event.
 Building.MediumWarehouse.DisplayName,Közepes raktár,
@@ -396,6 +405,7 @@ Building.MudPit.DisplayName,Iszapgödör,"This building is a pit filled with mud
 Building.MudPit.FlavorDescription,Itt építik a kölykök az első kis gátjukat.,
 Building.NaturalDam.Description,"Természetes képződmény, amely visszatartja a vizet, de a tetején lévő túlfolyón keresztül egy részét átengedi. Elbontható.",
 Building.NaturalDam.DisplayName,Természetes gát,
+Building.NaturalDam.FlavorDescription,"Hihetetlen, hogy voltak idők, mikor egy kupac sár és ág már gátnak számított!",
 Building.NaturalOverhang.Description,"Egy kinyúló szikla, amely szolgálhat hídként, vagy alapként más formációk és épületek számára. Visszatartja a vizet",
 Building.NaturalOverhang.FlavorDescription,"„Nézd meg, van-e lent víz, mielőtt ugrasz!” — Zsömi",
 Building.NaturalOverhang2x1.DisplayName,Természetes kinyúlás 2x1,This structure is a solid rock overhang. Numbers at the end denote size X by Y.
@@ -430,6 +440,7 @@ Building.Platform.DisplayName,Állvány,
 Building.Platform.FlavorDescription,A lenyűgöző teherbírású hód állványok igazi építészeti mesterművek.,
 Building.PoleBanner.Description,"Magas oszlopon lógó, személyre szabható zászló",
 Building.PoleBanner.DisplayName,Zászló oszloppal,"Tall, hanging banner on a pole."
+Building.PoleBanner.FlavorDescription,"Magasabbra tették, hogy a komisz kölykök ne érjék el.",
 Building.PowerShaft.Description,Kinetikus energiát továbbít.,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.PowerShaft.DisplayName,Hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.PowerShaft.FlavorDescription,Kazkó bá nagy találmányainak egyike.,Flavor text for the Power Shaft building
@@ -445,8 +456,11 @@ Building.Refinery.FlavorDescription,"A maradék csak akkor hulladék, ha nem tud
 Building.Relic.Description,Ősi technológia. Elbontásával a hódok nagyot lépnek előre a tudományban.,
 Building.Relic.DisplayName,Ereklye,Remains of a human structure/device that can be demolished to obtain a certain amount of the Science resource
 Building.ReservePile.DisplayName,Tartalékhalom,
+Building.ReservePile.FlavorDescription,„A régi rönkök a legjobbak! Abban az időben mág máshogy nevelték a fákat!” — Nóra nagyi,"Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.ReserveTank.DisplayName,Tartaléktartály,
+Building.ReserveTank.FlavorDescription,"„Igen, le volt zárva. Igen, iható. Csak utánad!” — Zsömi","Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 Building.ReserveWarehouse.DisplayName,Tartalékraktár,
+Building.ReserveWarehouse.FlavorDescription,Régmúlt generációk ajándéka.,
 Building.Roof.FlavorDescription,"A tető az utolsó rész – és az első, amit mindenki néz.",
 Building.Roof1x1.DisplayName,Tető 1x1,Numbers at the end denote size X by Y
 Building.Roof1x2.DisplayName,Tető 1x2,Numbers at the end denote size X by Y
@@ -497,6 +511,7 @@ Building.SmallIndustrialPile.FlavorDescription,"„Na persze, tettek rá egy tet
 Building.SmallPile.Description,Nagyméretű áru (pl. farönkök) tárolására szolgál.,
 Building.SmallPile.DisplayName,Kis halom,
 Building.SmallPile.FlavorDescription,Egy magára valamit is adó hód nem tesz árut a földre.,
+Building.SmallRelic.FlavorDescription,"„Ne, Tobzi! Ne fordítsd a nap felé!” — Kazkó bá","Small Relic is a telescope. Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.SmallTank.Description,Folyadékok tárolására szolgál.,
 Building.SmallTank.DisplayName,Kis tartály,
 Building.SmallTank.FlavorDescription,"Ki a vizet számolja, aszályban is túlél.",
@@ -507,8 +522,10 @@ Building.Smelter.Description,Hulladékvasból vasrudakat önt.,Scrap metal shoul
 Building.Smelter.DisplayName,Vaskohó,A facility that uses very high temperature to produce metal blocks from iron ore.
 Building.Smelter.FlavorDescription,Az új hód világ verejték és égett szőr szagú.,
 Building.SpiralStairs.DisplayName,Csigalépcső,Name of a building that allows beavers to climb up and down in a spiral manner.
+Building.SpiralStairs.FlavorDescription,"„Ha túl sok ilyen lépcsőn szaladsz fel egyszerre, forogni fog veled a világ.” — Tobzi",Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
 Building.SquareBanner.Description,"Alacsony, négyzet alakú keretre feszített, szemlyre szabható zászló",
 Building.SquareBanner.DisplayName,Négyzetes zászló,"Short, standing banner in a square bracket."
+Building.SquareBanner.FlavorDescription,Ne vessz el a részletekben!,
 Building.Stairs.DisplayName,Lépcső,
 Building.Stairs.FlavorDescription,A lépcső feltalálásával a hódok a következő szintre léptek.,
 Building.StartingLocation.DisplayName,Indulási helyszín,
@@ -544,6 +561,7 @@ Building.TerrainBlock.Description,Mesterséges föld kocka. Az építés irány�
 Building.TerrainBlock.DisplayName,Földkocka,A 1x1x1 chunk of terrain
 Building.Thorns.Description,"Egy áthatolhatatlan akadály, amely a hódokon kívül a vizet és a szennyeződést is visszatartja. Nehéz megközelíteni, ezért elbontása sérülést okozhat.",
 Building.Thorns.DisplayName,Tüskék,
+Building.Thorns.FlavorDescription,A természet ajándéka? Inkább a haragja.,
 Building.TributeToIngenuity.DisplayName,Hódolat Az Ügyességnek,Name of a monument
 Building.TributeToIngenuity.FlavorDescription,"„Persze, hogy van célja! Lenyűgöz!” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.TripleDynamite.DisplayName,Tripla dinamit,Dynamite that makes 3 blocks deep hole
@@ -560,8 +578,8 @@ Building.Tubeway.FlavorDescription,Két hódfej összekoppan a surranócsőben�
 Building.TubewayStation.Description,A surranócső-hálózat ki- és bejárataként szolgál.,
 Building.TubewayStation.DisplayName,Surranóállomás,"Beavers use it to enter Building.Tubeway.DisplayName, so they should be named similarly."
 Building.TubewayStation.FlavorDescription,"Klausztrofóbiás hódok, kérjük, az ösvénynél maradjanak!","Tubeways are very tight corridors, so they wouldn't be accessible for beavers scared of such places."
-Building.Tunnel.Description,"Felállványozott alagutat fúr a hegybe. Használd a Rétegek eszközt, hogy a hegy belsejébe láss!","Platform is a building, same as Building.Platform.DisplayName"
 Building.Tunnel.DisplayName,Alagút,Tunnel is a type of building that - when built - removes a tile of terrain and creates an underground tunnel
+Building.Tunnel.Description,"Alagutat ás a földbe, kicserélve azt egy állványra. Tipp: a látható réteg eszköz használatával benézhetsz az épületek és a föld alá.","Platform is a building, same as Building.Platform.DisplayName"
 Building.UndergroundPile.DisplayName,Földalatti halom,"The underground version of a pile, for reference check Building.SmallPile.DisplayName or Building.LargePile.DisplayName"
 Building.UndergroundPile.FlavorDescription,Az ekkora tárolóhely már megéri a sok lépcsőzést.,
 Building.UndergroundRuins.Description,"Kibányászható hulladékvassal teli, rég eltemetett romok.",
@@ -569,6 +587,7 @@ Building.UndergroundRuins.DisplayName,Eltemetett romok,Buried ruins on top of wh
 Building.UndergroundRuins.FlavorDescription,"Bármit is építettek odalent az embörök, a vasat nem sajnálták.",
 Building.UnstableCore.Description,"Ősi szerkezet, amely idővel felrobban",
 Building.UnstableCore.DisplayName,Instabil mag,An object that can be placed in map editor that explodes after a set time. Name shouldn't suggest strictly military use or radioactive effect.
+Building.UnstableCore.FlavorDescription,"Igen, Zsömi, nagy bumm.",Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
 Building.VerticalPowerShaft.Description,Kinetikus energiát továbbít minden irányban (függőlegesen is).,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.VerticalPowerShaft.DisplayName,Stabil hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.VerticalPowerShaft.FlavorDescription,Mire ez a nagy felhajtás?,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
@@ -580,6 +599,7 @@ Building.WaterPump.DisplayName,Vízszivattyú,
 Building.WaterPump.FlavorDescription,Friss víz – lendület minden kortyban!,"""Pumped"" pun, feel free to adapt."
 Building.WaterSeep.Description,Korlátozott nyomású vízforrás,
 Building.WaterSeep.DisplayName,Gyenge vízforrás,"A building that allows water to seep through, creating a natural water source."
+Building.WaterSeep.FlavorDescription,"Korlátozott nyomás, korlátlan lehetőség.",
 Building.WaterSource.DisplayName,Vízforrás,
 Building.WaterSource.FlavorDescription,„Legyen mindig folyó a folyód!” — Hód üdvözlés,
 Building.WaterWheel.Description,Vízi hajtókerék. Tedd a folyóba és már forog is!,Power is not an electrical but mechanical/kinetic energy.
@@ -627,9 +647,9 @@ Buildings.MissingGroundBelow,Nincs alatta föld.,Warning shown to player when tr
 Buildings.PipeObstructed,Blokkolt cső,Warning that will be shown to player when Water Pump Pipe has zero lenght.
 Buildings.PreviewFlooded,Elárasztva,Warning that will be shown to player when they try to build a building i a flooded area.
 Buildings.Solid,<YellowHighlight>Stabil:</YellowHighlight> Más épületek építhetők a tetejére.,Solid or Stackable — something that tells the player that you can build on top of it
+BuildingSound.PlaySound,Hang lejátszása,Label for toggle to play building sound
 Buildings.TopConstraint,Nem lehet ilyen magasra építeni.,An alert for when someone tries to build forbidden buildings at the max terrain level of the map.
 Buildings.UndergroundDepth,<YellowHighlight>Mélység:</YellowHighlight> {0}, Denotes a building that is built underground. The number tells how many blocks underground it occupies.
-Buildings.UnsuitableBuildingAbove,{0} és {1} nem építhető egymásra.,"Shown when the player tries to place a building on top of another (invalid) building, {0} and {1} stand for buildings DisplayName."
 Buildings.UnsuitableBuildingBelow,Ez az épület {0} tetejére kell építeni,{0} stands for another buildings DisplayName. This is a warning shown to the user during building placing.
 Buildings.WaterAccess,<YellowHighlight>Vízfüggő:</YellowHighlight> Vizet igényel.,
 Buildings.Wonder,<YellowHighlight>Csoda:</YellowHighlight> A hódmérnöki teljesítmény csúcsa.,Wonder is a keyword. Shown after selecting a wonder type building.
@@ -651,11 +671,11 @@ ConstructionSites.Progress,Előrehaladás: {0}%,{0} stands for percentage of con
 Core.BrowseFolder,Mappa tallózása ►,Opens file browser to either save folder or map folder. Please keep the arrow.
 Core.Cancel,Mégse,A button please keep short
 Core.EmptyList,Semmi nincs itt. Még.,A text shown in a list that does not contain any elements.
-Core.GameTip,"Tipp: Ha egy épület <YellowHighlight>Szilárd</YellowHighlight>, mint például egy Kunyhó vagy egy Raktár, akkor mást is építhetsz a tetejére.",Tip that shows up while the game is loading. Solid is a keyword.
 Core.GoodNameAndAmount,{0} ({1}),"Used for example in building material costs, {0} stands for good name, {1} stands for amount"
 Core.GoodNameAndAmountPerHour,{0} (óránként {1}),"Used for example in building good usage, {0} stands for good name, {1} stands for amount"
 Core.Load,Betöltés,A button please keep short
 Core.Loading,BETÖLTÉS,Used in loading screen during loading
+Core.NameWithNumber,{0}. {1},"This is extremely important to get right, if in doubt talk to the dev team. This is used in multiple places for object names followed by a number, for example 'Sensor 1', 'Machine 2' etc. {0} denotes the number (for example '1'), {1} denotes the name (for example 'Sensor'). In some languages you may wish to place the number before the name or remove the space."
 Core.NavigationBack,Vissza,Used in forms to navigate to the previous step.
 Core.NavigationNext,Tovább,Used in forms to navigate to the next step.
 Core.No,Nem,A button please keep short
@@ -742,9 +762,12 @@ EffectProbability.Low,Alacsony,"Text indicating a low chance of an effect occurr
 EffectProbability.Medium,Közepes,"Text indicating a medium chance of an effect occurring, {0} stands for an effect name (same as Need.Injury.DisplayName). For example: 'Medium chance of: Injury'"
 Emptying.Empty,Tároló kiürtése,A command for beavers to empty this storage.
 Enterable.DistanceToDistrict,Távolság a Kerületközpontjától: {0},{0} stands for distance to District Center. District Center must be the same as Building.DistrictCenter.DisplayName
-Enterable.DistanceToDistrictLarge,"Fontold meg az utak optimalizálását, vagy a kerület kisebb részekre bontását!",
+Enterable.DistanceToDistrictLarge,"Fontold meg az ösvények optimalizálását, vagy a kerület kisebb részekre bontását!",
 EntityPanel.ChangeName,Új név:,Shown when renaming a beaver or a district
+EntityPanel.Close,Bezárás,Tooltip for close button on entity panel
+EntityPanel.Focus,Fókuszálás,Tooltip over follow/focus button on entity panel
 EntityPanel.Hide,Leírás elrejtése,Tooltip for a button which hides description
+EntityPanel.Rename,Átnevezés,Common tooltip text for rename beaver / rename district
 EntityPanel.Show,Leírás megjelenítése,Tooltip for a button which shows description
 Experimental.Header,<RedHighlight>Kísérleti mód információ</RedHighlight>,Welcome text that is shown to players of the experimental versions of the game
 Experimental.WelcomeText,"Ez a Timberborn verzió prototípus, befejezetlen funkciókhoz ad hozzáférést, ezért sokkal nagyobb eséllyel tartalmazhat komoly hibákat is. Te igazán bátor hód vagy!
@@ -791,6 +814,7 @@ GameExitPanel.Title,"Köszönjük, hogy játszottál a Timberborn korai hozzáf�
 GameOver.Continue,Még egy utolsó pillantás...,Text on continue button in game over panel
 GameOver.Exit,Kilépés a főmenübe,Text on finish button in game over panel
 GameOver.Header,Vége,Header of the game over panel
+GameUI.ShowDistrictList,Körzetlista megjelenítése/elrejtése,Shown in tooltip over districts in main game hud
 Gathering.Action,Betakarított termények:,"Followed by a list of goods, like Gathers: Berries"
 Gathering.Nothing,Semmi,Nothing is prioritized to be gathered.
 Gathering.Prioritize,Előnyben részesít:,Which resource is prioritized to be gathered.
@@ -956,10 +980,10 @@ KeyBinding.DecreaseWorkers,Munkások számának csökkentése,Label of the key t
 KeyBinding.DecreaseWorkingHours,Munkaidő csökkentése,Label of the key that decreases settlement working hours
 KeyBinding.DecreaseWorkplacePriority,Munkahely-prioritás csökkentése,Label of the key that decreases the priority of the selected workplace
 KeyBinding.DeleteObject,Objektum törlése,Label of the key that deletes the selected object
-KeyBinding.DetonateDynamite,Dinamit felrobbantása,Label of the key that detonates a dynamite
 KeyBinding.DistributionTab,Elosztás ablak,"Label of the key that opens the Settlement Panel and selects the Distribution tab, Distribution should be the same as BatchControl.Distribution"
 KeyBinding.DuplicateObject,Épület másolása,Key binding that duplicates the selected building
 KeyBinding.DuplicateSettings,Beállítások másolása,Key binding that copies settings from one building to another
+KeyBinding.DragVisibleLayer,A látható réteg húzása,Binding for layer tool similar to KeyBinding.PickVisibleLayer
 KeyBinding.Flip,Tükrözés,Label of the key that flips the selected building (makes the model mirrored)
 KeyBinding.Hold,Nyomva tartva:,Used to describe key binding that turns something on while the key is held.
 KeyBinding.HousingTab,Lakhatás ablak,"Label of the key that opens the Settlement Panel and selects the Housing tab, Housing should be the same as BatchControl.Housing"
@@ -972,7 +996,6 @@ KeyBinding.IncreaseWorkers,Munkások számának növelése,Label of the key that
 KeyBinding.IncreaseWorkingHours,Munkaidő növelése,Label of the key that increases settlement working hours
 KeyBinding.IncreaseWorkplacePriority,Munkahely-prioritás növelése,Label of the key that increases the priority of the selected workplace
 KeyBinding.InverseBrushDirection,Ecset irányának megfordítása,
-KeyBinding.LevelVisibilityCursorTool,Látható réteg mutató eszköz,Name of layer tool keybinding
 KeyBinding.LowerVisibleLayer,Látható réteg csökkentése,Label of the key that decreases the max visible vertical level of buildings
 KeyBinding.MechanicalTab,Meghajtás ablak,"Label of the key that opens the Settlement Panel and selects the Mechanical tab, Power should be the same as BatchControl.Mechanical"
 KeyBinding.MigrationTab,Migráció ablak,"Label of the key that opens the Settlement Panel and selects the Migration tab, Migration should be the same as BatchControl.Migration"
@@ -1028,7 +1051,8 @@ KeyBinding.ToggleStockpilePriority,Raktárprioritás váltása,Label of the key 
 KeyBinding.ToggleWaterVisibility,Víz elrejtése/megjelenítése,Label of the key that makes water semi-transparent
 KeyBinding.ToggleWorkerType,Munkástípus állítása,Keybinding for toggling the worker type.
 KeyBinding.UndoChanges,Visszavonás,Key binding for undoing changes in Map editor.
-KeyBinding.UnlockTool,Szerszám feloldása,Label of the key that unlocks the currently selected tool
+KeyBinding.UniqueBuildingAction,Az épület egyedi működésének kapcsolása,"Keybinding for execute main action assigned to selected building, for example detonate dynamite or switch lever state"
+KeyBinding.UnlockTool,Eszköz feloldása,Label of the key that unlocks the currently selected tool
 KeyBinding.WorkplacesTab,Munkahelyek ablak,"Label of the key that opens the Settlement Panel and selects the Workplaces tab, Workplaces should be the same as BatchControl.Workplaces"
 KeyBinding.ZoomIn,Közelítés,Label of the key that zooms camera in
 KeyBinding.ZoomOut,Távolítás,Label of the key that zooms camera out
@@ -1083,8 +1107,8 @@ A Tomberborn 1.0-s kiadása hamarosan megjelenik, és ez a kísérleti kiadás e
 Ez eddigi legfontosabb frissítésünk, és reméljük, megosztod velünk tapasztalataid. Ehhez, kérünk, használd a <i>Visszajelzés</i> gombot, vagy csatlakozz Discord szerverünkhöz!
 
 Sok szerencsét, és ne felejts el hidratálni!",
-Manufactory.CurrentRecipe,Recept:,Text before a dropdown for changing factory recipe - what the factory produces from what ingredients.
 MainMenu.WelcomeScreenTitle,Korai Hozzáférés Információk,Header of the welcome screen popup.
+Manufactory.CurrentRecipe,Recept:,Text before a dropdown for changing factory recipe - what the factory produces from what ingredients.
 Manufactory.NoRecipeOption,Nincs,Text shown in a dropdown when no recipe is selected. Keep below 15 characters.
 Manufactory.Recipe.BiofuelCarrot,Bioüzemanyag (Répa),Recipe for making Biofuel out of Carrots. Keep consistent with Good.Biofuel.DisplayName and Good.Carrot.PluralDisplayName.
 Manufactory.Recipe.BiofuelPotato,Bioüzemanyag (Burgonya),Recipe for making Biofuel out of Potatoes. Keep consistent with Good.Biofuel.DisplayName and Good.Potato.PluralDisplayName.
@@ -1139,7 +1163,6 @@ MapEditor.ThumbnailCapturing.Reset,Visszaállítás,Text on the button in map ed
 MapEditor.ThumbnailCapturing.SelectOverlay,Kiválasztás,Text on the button in map editor that changes the overlay of the thumbnail
 MapEditor.ThumbnailCapturing.Title,Térkép bélyegkép,Title of the map thumbnail panel in map editor
 MapEditor.ThumbnailCapturing.UpdateThumbnail,Frissítés,Text on the button in map editor that changes the position of the thumbnail camera
-MapEditor.Tip,"Tipp: Használd a képernyő tetején található vízsebesség vezérlőket, hogy előre feltöltsd a térképet vízzel.",Tip on the loading screen of the map editor.
 MapEditor.Undo,Visszavonás,Label of a button that undoes changes in Map editor.
 MapEditor.UploadMap,Térkép feltöltése,Label of the button that uploads the map to some kind of online service
 MapMetadata.Beaverome.Description,A legendás metropolisz felépítéséhez a hód ősök hét hatalmas krátert csapoltak le. Még a mai famérnöki technológiával sem kis teljesítmény.,
@@ -1169,6 +1192,8 @@ MapMetadata.Plains.Description,"Olyan lapos, mint a hód farka. Ideális hely ke
 MapMetadata.Plains.Name,Alföld,
 MapMetadata.Pressure.Description,"A kreatív vízelvezetés az első készség, amelyet a sivatagi hódmérnöknek el kell sajátítania.",
 MapMetadata.Pressure.Name,Nyomás,
+MapMetadata.Spillage.Description,"Sok kis, öntözött tisztás vár rád e lejtőn. Ámde vigyázz, rengeteg veszély leselkedik a közelben! Ha nem figyelsz oda, ezek a területek idővel lakhatatlanná válnak!",
+MapMetadata.Spillage.Name,Szivárgás,
 MapMetadata.Terraces.Description,"Az emelkedett területeken egyre több hód telepedik le, hiszen most már a függőleges építés sem akadály számukra.",
 MapMetadata.Terraces.Name,Teraszok,
 MapMetadata.ThousandIslands.Description,Még a természetes úszóknak sem könnyű feladat egy szigetcsoportot virágzó ipari kolóniává alakítani.,
@@ -1292,16 +1317,19 @@ NaturalResource.Eggplant.DisplayName,Padlizsán,Should be consistent with Good.E
 NaturalResource.Eggplant.FlavorDescription,Nincsenek padok benne.,Do not translate literally if this doesn't make sense in a non-English language.
 NaturalResource.Kohlrabi.DisplayName,Karalábé,Should be consistent with Good.Kohlrabi.DisplayName
 NaturalResource.Kohlrabi.FlavorDescription,Papírízű.,"Not a very tasty food, yet consumed raw in large quantities."
+NaturalResources.Leftover,(maradék),This is shown under NaturalResource.DisplayName. Leftover meaning plant that was cut but not yet collected.
 NaturalResource.Mangrove.DisplayName,Mangrove,"A tree that grows in shallow water. This particular name doesn't refer to a specific type, it uses a general name for this group of trees. Produces fruits that can be harvested."
 NaturalResource.Mangrove.FlavorDescription,"Messzi földről érkezett utazók hozták a magokat — olyan vidékekről, ahol sosem szárad ki a folyó.",
 NaturalResource.Maple.DisplayName,Juhar,Tree of the genus Sapindaceae
 NaturalResource.Maple.FlavorDescription,"A megcsapolható juharfák szirupot termelnek, de a magas minőségű faanyag még édesebb jutalom.",
+NaturalResources.Mature,(kifejlett),This is shown under NaturalResource.DisplayName. Fully grown plant.
 NaturalResource.Oak.DisplayName,Tölgy,Common oak tree.
 NaturalResource.Oak.FlavorDescription,A legjobb hód építmények tölgyfa és vas kötésben állnak.,This idiom makes perfect literal sense for the Iron Teeth.
 NaturalResource.Pine.DisplayName,Fenyő,Tree of the genus Pinus
 NaturalResource.Pine.FlavorDescription,"„Figyeld meg, hogyan áll a fenyőfa! Minden egyes tűlevele egy kis 'fenyőcske', ami télen is zöld marad.” — Ismeretlen hód költő","""Pine"" pun, feel free to adapt."
 NaturalResource.Potato.DisplayName,Krumpli,Plant Solanum tuberosum
 NaturalResource.Potato.FlavorDescription,„Van több módja is a krumpli elkészítésének.” — Hód közmondás,
+NaturalResources.Seedling,(palánta),This is shown under NaturalResource.DisplayName. Not fully grown plant.
 NaturalResource.Soybean.DisplayName,Szójabab,Should be consistent with Good.Soybean.DisplayName
 NaturalResource.Soybean.FlavorDescription,"Kemény és vízálló, a magjai tökéletes játékok a kölyköknek.",
 NaturalResource.Spadderdock.DisplayName,Tavirózsa,Plant Nuphar Lutea
@@ -1319,9 +1347,6 @@ NaturalResources.Dried,Kiszáradás miatt pusztult el.,Shown for plants which di
 NaturalResources.DroughtResistance,Aszálytűrés: {0} nap,The number of days a plant can survive in a drought.
 NaturalResources.GenericDied,Elpusztult.,Refers to a plant.
 NaturalResources.Healthy,Jól öntözött és egészséges.,Shown when plant is healthy and has no problems with growth
-NaturalResources.Leftover,{0} (maradék),{0} stands for NaturalResource.DisplayName. Leftover meaning plant that was cut but not yet collected.
-NaturalResources.Mature,{0} (érett),{0} stands for NaturalResource.DisplayName. Fully grown plant.
-NaturalResources.Seedling,{0} (palánta),{0} stands for NaturalResource.DisplayName. Not fully grown plant.
 NaturalResources.Visibility.Hide,Természeti erőforrások elrejtése,Tooltip for button hiding natural resources
 NaturalResources.Visibility.Show,Természeti erőforrások megjelenítése,Tooltip for button showing natural resources
 Need.BadwaterContamination.DisplayName,Szennyezés,Title of an effect that shows up when a beaver is contaminated. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project.
@@ -1461,6 +1486,7 @@ Settings.Accessibility.Header,Kisegítő lehetőségek,Header for accessibility 
 Settings.Analytics.ConsentToggle,Analitika engedélyezve,Selected when giving consent to data collection/analytics.
 Settings.Analytics.Header,Analitika,Header for the data collection/analytics consent section.
 Settings.GameSaving.AutoSavingOn,Automatikus mentés,
+Settings.General.Header,Általános,Header for general settings section
 Settings.Graphics.AnisotropicFiltering,Anizotróp szűrés,Label for anisotropic textures quality option
 Settings.Graphics.AnisotropicTextures,Anizotróp textúrák,Label for anisotropic textures quality option
 Settings.Graphics.AntiAliasing.FXAA,FXAA,Label for FXAA anti-aliasing option in graphics settings panel
@@ -1472,6 +1498,7 @@ Settings.Graphics.AntiAliasing.SMAA,SMAA,Label for SMAA anti-aliasing option in 
 Settings.Graphics.AntiAliasingQuality,Élsimításminőség,Antialiasing dropdown label in graphics settings panel
 Settings.Graphics.Bloom,Ragyogás,Label for bloom effect dropdown in graphics settings panel
 Settings.Graphics.Header,Grafikaminőség,Header for graphics quality section in settings panel
+Settings.Graphics.LightQuality,További fények minősége,Label for additional lights quality dropdown setting
 Settings.Graphics.OverallGraphicsQuality,Grafikai profil,Label for graphics quality dropdown
 Settings.Graphics.Quality.Custom,Egyéni,Label for custom graphics quality option
 Settings.Graphics.Quality.High,Magas,Label for high quality graphics option
@@ -1484,6 +1511,7 @@ Settings.Graphics.ShadowQuality,Árnyékminőség,Label for shadow quality optio
 Settings.Graphics.TextureQuality,Textúraminőség,Label for texture quality option
 Settings.Graphics.WaterQuality,Vízminőség,"Label for water quality dropdown, used in graphics settings panel"
 Settings.Header,Beállítások,
+Settings.Intro.DisableIntro,Bevezető átugrása,Label for setting to skip intro cinematic
 Settings.Input.DragCamera,Kamera húzása,
 Settings.Input.EdgePanCamera,Képernyőszéllel mozgás,"When this option is enabled, player can move camera by moving mouse to screen edge"
 Settings.Input.EdgePanCameraSpeed,Képernyőszéllel mozgás sebessége,
@@ -1493,12 +1521,14 @@ Settings.Input.KeyboardCameraMovementSpeed,Billentyűvel mozgás sebessége,
 Settings.Input.KeyboardCameraRotationSpeed,Billentyűvel forgatás sebessége,
 Settings.Input.KeyboardCameraZoomSpeed,Billentyűvel közelítés/távolítás sebessége,
 Settings.Input.LockCursorInWindow,Egérkurzor rögzítése az ablakhoz,"When this option is enabled, mouse cursor cannot leave game window / display"
+Settings.Input.MouseCameraRotationSpeed,Egér forgatási sebesség,Label in settings.
 Settings.Input.MouseWheelCameraZoomSpeed,Egérgörgővel közelítés/távolítás sebessége,Label of a slider for setting the speed of camera zooming with the mouse wheel.
 Settings.Input.OnScreenKeyboard.Auto,Automatikus,A dropdown item indicating OnScreen Keyboard mode.
 Settings.Input.OnScreenKeyboard.Disabled,Ki,A dropdown item indicating OnScreen Keyboard mode.
 Settings.Input.OnScreenKeyboard.Enabled,Be,A dropdown item indicating OnScreen Keyboard mode.
 Settings.Input.OnscreenKeyboard,Steam nagy kép billentyűzet,Label for dropdown indicating OnScreen Keyboard mode
 Settings.Input.SwapMouseCameraMovementWithRotation,Kamera gombok cseréje,"When this option is enabled, the middle mouse button is swapped with the right mouse button"
+Settings.Input.UnlockZoom,Korlátlan közelítés/nagyítás,Label for setting to unlock zoom limits
 Settings.Language.Change,Változtatás,Please keep short
 Settings.Language.Current,Nyelv:,
 Settings.Language.Restart,Újraindítás,Please keep short
@@ -1641,11 +1671,20 @@ TimedComponentActivator.DaysUntilActivationLoc,Visszaszámlálás hossza napokba
 TimedComponentActivator.DaysUntilActivationProgress,{0} nap múlva aktiválódik,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
 TimedComponentActivator.DaysUntilExplosionProgress,{0} nap múlva felrobban,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
 TimedComponentActivator.IsEnabledToggle,Késleltetett aktiváció,Label for toggle in entity panel in editor. Allows to enable or disable time activation.
+Tip.Common.KeyBindings,"Tipp: gyorsbillentyűk használatával gyorsabban elérhetsz olyan funkciókat, mint az épületek lebontása, vagy duplikálása. A beállításokban megtalálhatod a teljes listát.",Tip on the loading screen.
+Tip.Common.LayerTool,Tipp: a <YellowHighlight>látható</YellowHighlight> réteg eszköz segítségével a terep és az epületek alá láthatsz.,Tip on the loading screen.
+Tip.Game.Duplicate,Tipp: a <YellowHighlight>másolás</YellowHighlight> és <YellowHighlight>duplikálás</YellowHighlight> eszközök meggyorsítják az egyforma épületek telepítését.,Tip on the loading screen.
+Tip.Game.Flip,Tipp: a <YellowHighlight>tükrözés</YellowHighlight> hasznos lehet az épületek lehelyezésekor.,Tip on the loading screen.
+Tip.Game.Solid,"Tipp: ha egy épület <YellowHighlight>szilárd</YellowHighlight>, mint például egy kunyhó vagy egy raktár, akkor mást is építhetsz a tetejére.",Tip on the loading screen. Solid is a keyword.
+Tip.MapEditor.SeasonControls,Tipp: a képernyő tetején található időjárásgombokkal szimulálhatod az aszályt és a rosszvízárat is.,Tip on the loading screen.
+Tip.MapEditor.SpeedControls,Tipp: a képernyő tetején található vízsebesség-gombokkal előre felöltheted vízzel a térképedet.,Tip on the loading screen.
 Toggle.Selected,(kiválasztva),Indication in tooltip about selected item. Fore example: 'Planting (selected)'
 Toggle.State.Closed,Zárva,Indication in tooltip about toggle state. For example 'Status: Closed'
 Toggle.State.Off,ki,Indication in tooltip about toggle state. For example 'Prioritize building by haulers: off'
 Toggle.State.On,be,Indication in tooltip about toggle state. For example 'Prioritize building by haulers: on'
 Toggle.State.Open,Nyitva,Indication in tooltip about toggle state. For example 'Status: Open'
+Tool.Cursor.Tooltip,Kijelölés,Tooltip for cursor on bottom bar
+Tool.Options.Tooltip,Beállítások,Tooltip for options on bottom bar
 ToolGroups.Decoration,Dekoráció,Buildings and objects that are for decoration
 ToolGroups.Demolishing,Épületek és erőforrások lerombolása,
 ToolGroups.DistrictManagement,Kerületkezelés,"Toolbar category for buildings used for district management - that includes builders, moving goods and making new districts"
@@ -1682,6 +1721,12 @@ TreeCuttingSelectionTool.Description,"Kijelöli a területeket, ahol a hódok f�
 TreeCuttingSelectionTool.Title,Fakivágási terület kijelölése,
 TreeCuttingUnselectionTool.Description,Eltávolítja a kijelölést a fakivágási területről.,Doesn't have to use a personal verb
 TreeCuttingUnselectionTool.Title,Fakivágási kijelölés visszavonása,
+Tutorial.Badtides,Rosszvízár,"Tutorial title, Badtides refers to Weather.Badtide"
+Tutorial.Badtides.Description,"Gratulálunk, a településed túlélte első rosszvízárját!
+
+Az időjárásciklusokban mindig jön egy aszáj vagy egy rosszvízár.
+
+Vigyázz, a következő rosszvízár súlyosabb lesz!",Badtide refers to Weather.Badtide
 Tutorial.Basics,Alapok,Header of the tutorial section that covers the basic concepts
 Tutorial.Basics.ManagePause,"A játékot bármikor megállíthatod, hogy felmérd a helyzetet és megtervezd a következő lépéseket.",
 Tutorial.Basics.ManageSpeed,"Felgyorsíthatod a játékot, hogy csökkentsd a holtidőt, amíg a hódjaid alszanak vagy dolgoznak.",
@@ -1704,10 +1749,18 @@ Tutorial.Basics.ZoomCameraOut,Távolítás,
 Tutorial.Building,Építs {0}-t! ({1}/{2}),"{0} stands for building name {1} stands for number of built buildings {2} stands for number of buildings to build. This is used in a goal description with the verb in active voice, for example 'Build: Warehouse (0/5)'."
 Tutorial.ConnectBuilding,Csatlakoztasd a(z) {0}-t úttal! ({1}/{2}),"{0} stands for building name {1} stands for number of buildings connected with paths {2} stands for number of buildings to connect. This is used in a goal description with the verb in active voice, for example 'Connect: Lumberjack Flag (0/2)'."
 Tutorial.Continue,Folytatás,
+Tutorial.Dams,Gátak,"Tutorial title, Dams refers to Building.Dam.DisplayName"
+Tutorial.Dams.BuildDam,"A tartályokban tárolt víz megmenti a hódokat a kiszáradástól, de hosszú távon a vízfolyás megzabolázása a túlélés záloga.
+
+Építs gátakat a legközelebbi folyóba, parttól partig, és figyeld, mi történik!",Dam refers to Building.Dam.DisplayName
+Tutorial.DecreaseWorkplacePriority,Csökkentsd a prioritást a(z) {0}-ban/ben!,{0} stands for building name
 Tutorial.Disable,Útmutató kikapcsolása,
 Tutorial.DisablePrompt,"Biztosan ki akarod kapcsolni az útmutatót?
 Később vissza tudod kapcsolni a beállításokban.",
-Tutorial.Finish,Befejezés,
+Tutorial.Droughts,Aszály,"Tutorial title, Droughts refers to Weather.Drought"
+Tutorial.Droughts.Description,"Gratulálunk, a településed túlélte első aszályát! 
+
+Az aszályok az időjárásciklus részei. Az ismétlődő aszályok az idő elteltével súlyosbodnak (egy bizonyos határig).",Drought refers to Weather.Drought
 Tutorial.Forestry,Erdészet,
 Tutorial.Forestry.Forester,"A hódoknak nyilván stabil faforrásra van szükségük.
 
@@ -1723,20 +1776,51 @@ Tutorial.GoodLuck.Description,"Remek munka! Minden adott a településed felvir�
 Építsd meg első gátad! Fedezz fel új technológiákat! Szaporítsd hódjaid, és tartsd életben őket!
 
 Ha sikerrel jársz, ez az üres pusztaság valódi hódparadicsommá válik. Ha nem, az embörök sorsára jutsz te is.",Dam refers to Building.Dam.DisplayName
-Tutorial.HousingAndPopulation,Lakhatás és népesség,
-Tutorial.HousingAndPopulation.BeaverBirth,Legyen egy hódkölyköd!,If there's no special name for beaver children in your language use 'have a child'.
-Tutorial.HousingAndPopulation.GrowPopulation,"A virágvölgyi hódok nem szaporodnak, hacsak nincs üres ágy. Egy házban két felnőttnek és egy üres ágynak kell lennie, hogy megtörténhessen a varázslat.","The Tip is optional if there's no special name for beaver children in your language. If that's the case, remove this part."
-Tutorial.HousingAndPopulation.Lodges,"Két hód jobb, mint egy! A házak növelik a hódok jóllétét, és lehetővé teszik a virágvölgyiek szaporodását.
+Tutorial.HaulersAndWorkforce,Szállítók és munkások,Tutorial title
+Tutorial.HaulersAndWorkforce.BuildHaulingPost,"Ahogy a településed méretével a termelésed is egyre nő. Az áruk szállítása viszont a munkásaid hasznos idejét foglalja le.
+
+Ezt a problémát a szállítók oldhatják meg, akik a körzetük teljes területén az igényeknek megfelelően mozgatják az árukat.
+
+Próbáld ki!",Hauling Post refers to Building.HaulingPost.DisplayName
+Tutorial.HaulersAndWorkforce.ChangeWorkforce,"Néhány munkahely, mint például a szállító állomás, nem indulnak teljes kapacitáson. Beállíthatod a munkások számát igényeid szerint az épület ablakában.
+
+A munkások eloosztásának további finomhangolására ad lehetőséget a munkahelyi prioritások beállítása. A szállító állomás példának okáért általában alacsonyabb prioritásra állítható.
+
+Próbáld ki!",
+Tutorial.HaulersAndWorkforce.PauseHaulingPost,"Szüneteltetheted az építkezést, vagy az épületek működését, irányítva a hódok tevékenységét.
+
+Példának okáért, a leállított munkahelyek automatikusan kiürülnek, és a felszabadult munkások más elérhető munkahely után néznek.
+
+Jelöld ki a szállító állomást, és klikkelj a Szünet gombra az ablakában, hogy leállítsd!",Hauling Post refers to Building.HaulingPost.DisplayName
+Tutorial.Housing,Lakhatás,"Tutorial title, housing should be the same as ToolGroups.Housing"
+Tutorial.Housing.Lodges,"Két hód jobb, mint egy hód! A házak növelik a hódok jóllétét, és utat nyitnak a virágvölgyiek szaporodásának.
 
 A hódok automatikusan elfoglalják az üres ágyakat.",Folktails is the same as faction as Faction.Folktails.DisplayName
+Tutorial.IncreaseDesiredWorkers,Növeld a kívánt munkások számát! {0},{0} stands for building name
 Tutorial.Introduction.Description,"Üdv a Timberborn világában!
 Ez az útmutató segít, hogy betedd tappancsod a pusztaságba, és túléld az első napokat. 
 
 Megmutatujuk, hogyan használd a rendelkezésedre álló alapvető eszközöket hódjaid javára.
 
 A következő lépések és leírások is itt jelennek meg.",
+Tutorial.LayerTool.ChangeUsingUI,"Ahogy a településed függőlegesen is nő, az épületek és a föld alatti munka nehézkessé válhat.
+
+A látható réteg eszköz ebben segíthet, mivel mindent elrejt az aktuális réteg felett.
+
+Kattints a kijelölt gombokra, és állítsd át a látható réteget!",
+Tutorial.LayerTool.ChangeUsingMouse,"Gyorsbillentyűkkel klikkelés nélkül is változtathatod a látható réteget.
+
+A beállításokban személyre szabhatod ezt és sok más gyorsbillentyűt is.",Keybindings refers to Menu.KeyBindings
+Tutorial.LayerTool.Decrease,Csökkentds a látható réteget 0-ra!,
+Tutorial.LayerTool.Increase,Növeld a látható réteget!,
+Tutorial.LayerTool,A látható réteg,"Tutorial title, Layer tool naming must be consistent with the usage in the rest of the game"
+Tutorial.LayerTool.Reset,Állítsd vissza a látható réteget!,
 Tutorial.MarkPlantables,Ültesd: {0} ({1}/{2}),"{0} stands for resource name {1} stands for number of marked resource tiles {2} stands for number of tiles to mark with resource. This is used in a goal description with the verb in active voice, for example 'Plant: Carrot (0/5)'."
 Tutorial.MarkTrees,Jelöld ki a fákat vágásra.,
+Tutorial.MoreBeavers,Hódszaporítás,Tutorial title
+Tutorial.MoreBeavers.BeaverBirth,Legyen egy új kölyköd!,If there's no special name for beaver children in your language use 'have a child'.
+Tutorial.MoreBeavers.GrowPopulation,"A hódok nem szaporodnak, hacsak nincs a házakban elérhető üres ágy. A virágvölgyieknek két felnőttre és egy szabad helyre van szükségük, hogy megtörténjék a varázs.","The Tip is optional if there's no special name for beaver children in your language. If that's the case, remove this part."
+Tutorial.PauseBuilding,Állítsd le a(z) {0}-t!,{0} stands for building name
 Tutorial.PlaceBuilding,Helyezd el: {0} ({1}/{2}),"{0} stands for building name {1} stands for number of built buildings {2} stands for number of buildings to build. This is used in a goal description with the verb in active voice, for example 'Place: Warehouse (0/5)'."
 Tutorial.PowerAndPlanks,Meghajtás és deszkák,
 Tutorial.PowerAndPlanks.LumberMill,"Itt az idő deszkákat gyártani!
@@ -1759,6 +1843,7 @@ Tutorial.Science.SciencePoints,"Most hagyd a feltalálót dolgozni!
 Amint összegyűlik elég tudománypont, el fogjuk költeni fejlettebb épületek feloldására.","Inventor is the same as Building.Inventor.DisplayName, Science Points is the same as Science.SciencePoints"
 Tutorial.Science.Unlock,Oldd fel ezt az épületetet: {0}!,{0} stands for the name of the building to unlock
 Tutorial.SelectGood,Állítsd be: {0} erre: {1} {2},{0} stands for building name {1} stands for good name {2} stands for Tutorial.Progress. This is used in a goal description with the verb in active voice. for example 'Set: Warehouse to Bread (0/5)'.
+Tutorial.SetWorkingHours,Állítsd {0}-ra a munkaidőt!,{0} is the number of working hours to set
 Tutorial.Storage,Raktározás,
 Tutorial.Storage.Pile,"Sok épületnek van belső raktára, de az hamar megtelik.
 
@@ -1770,6 +1855,13 @@ Tutorial.Storage.Warehouses,"Végül készítsünk tárolóhelyet az áfonyabogy
 
 A hódok az élelmet a többi dobozolt áruhoz hasonlóan raktárakban tárolják.","Berries is the same as Good.Berries.PluralDisplayName, Carrot is the same as in Good.Carrot.DisplayName"
 Tutorial.Tutorial,Bevezető,
+Tutorial.UnpauseBuilding,Indítsd el a(z) {0}-t!,{0} stands for building name
+Tutorial.VerticalArchitecture,Függőleges építkezés,Tutorial title
+Tutorial.VerticalArchitecture.BuildRooftopTerrace,"A pusztaságban fontos a helykihasználás. A hódok ezt úgy érik el, hogy városaikat felfelé építik.
+
+Néhány épület, például a ház, lapos tetővel rendelkezik, amelyre újból építkezhetsz.
+
+Építs egy tetőteraszt! Szükséged lehet lépcsőkre, hogy elérd.","Lodges refers to Building.Lodge.DisplayName, Rooftop Terrace refers to Building.RooftopTerrace.DisplayName"
 Tutorial.WaterAndFood,Víz és élelem,
 Tutorial.WaterAndFood.Farmhouse,"Hosszú távon szükségünk lesz valami táplálóbbra is. Építs egy földművesházat haszonnövények termesztéséhez és betakarításához!
 
@@ -1800,6 +1892,11 @@ Tutorial.Wellbeing.Campfire,"A jóllét egy mérőszám, ami azt mutatja meg, me
 A hódok jólléte biztosításának egyik fő módja a szórakoztatás. A szórakozóhelyek olyan épületek, amiket a hódok munkaidőn kívül látogatnak.","Well-being is the same as Wellbeing.DisplayName, working speed is the same Bonus.WorkingSpeed, movement speed is the same as Bonus.MovementSpeed, lifespan refers to Bonus.LifeExpectancy"
 Tutorial.Wellbeing.OpenWellbeingPanel,Nyisd meg a jóllét ablakot!,Keep similar to KeyBinding.OpenWellbeingPanel
 Tutorial.Wellbeing.SelectBeaver,Jelölj ki egy hódot és nézd meg a szükségleteit!,
+Tutorial.Wellbeing.SetWorkingHours,"Ne feledd, hogy a hódoknak szükségük van időre, hogy egyenek, igyanak, aludjanak, és éljenek a szórakozási lehetőségekkel a településeden.
+
+A termelés optimalizálásához egyensúlyt kell találnod a hódok jólléte és munkával töltött ideje közt.
+
+Egyelőre állítsd vissza a kezdeti munkaidőt!",Working hours refers to Work.WorkingHoursTooltip
 Tutorial.Wellbeing.Shrub,"A jóllét szintén növekszik dekorációk szomszédságában. A hódok nem látogatják őket szándékosan, ezért olyan helyek mellé építsd őket, amiket a telepesek sokszor látogatnak!
 
 A legegyszerűbb dekoráció a cserje. A hódok minden zöldséget értékelnek!","Well-being is the same as Wellbeing.DisplayName, Shrub is the same as Building.Shrub.DisplayName"
@@ -1809,10 +1906,10 @@ Kattints rá, hogy lásd az összes szükséglet aktuális állapotát! Sokféle
 Tutorial.Wood,Fa,
 Tutorial.Wood.ConnectLumberjacks,"Minden épületnek, aminek bejárata van, csatlakoznia kell úttal egy kerületközponthoz. Mikor kijelölsz egy épületet, a bejáratot nyíl jelöli.
 
-Építs utakat, hogy összekösd a favágókat a kerületközponttal!","Lumberjack Flag is the same as Building.LumberjackFlag.DisplayName, District Center is the same as Building.DistrictCenter.DisplayName, Paths refers to Building.Path.DisplayName"
+Jelölj ki ösvényeket, hogy összekösd a favágókat a kerületközponttal!","Lumberjack Flag is the same as Building.LumberjackFlag.DisplayName, District Center is the same as Building.DistrictCenter.DisplayName, Paths refers to Building.Path.DisplayName"
 Tutorial.Wood.FinishLumberjacks,"A hódok nem tudják megépíteni a zászlókat, hacsak nincsenek a kerületközpont hatósugarában.
 
-Jelöld ki a kerületközpontot, hogy lásd az építési hatósugarat! Ezt a hatósugarat a kerületközpont bejáratához csatlakozó utak építésével kiterjeszheted.","Flags referers to Lumberjack Flag as in Building.LumberjackFlag.DisplayName, District Center is the same as Building.DistrictCenter.DisplayName, Paths refers to Building.Path.DisplayName"
+Jelöld ki a kerületközpontot, hogy lásd az építési hatósugarat! Ezt a hatósugarat a kerületközpont bejáratához csatlakozó ösvények építésével kiterjeszheted.","Flags referers to Lumberjack Flag as in Building.LumberjackFlag.DisplayName, District Center is the same as Building.DistrictCenter.DisplayName, Paths refers to Building.Path.DisplayName"
 Tutorial.Wood.MarkTrees,"A favágók csak vágásra kijelölt területeken dolgoznak.
 
 A fáknak a favágózászló hatósugarában kell lenniük. Jelölj ki egy zászlót, hogy lásd a hatósugarát!
@@ -1821,6 +1918,12 @@ Használd a Fakivágási terület kijelölése eszközt! Tartsd lenyomva az egé
 Tutorial.Wood.PlaceLumberjacks,"Minden hódtelepülésnek szüksége van fára. Nem is kevésre! Viszont csak a favágók vágnak fát.
 
 Építs egy favágózászlót a közeli fák mellé!","Logs is same as Good.Log.PluralDisplayName, Lumberjack Flag is the same as Building.LumberjackFlag.DisplayName"
+Tutorial.WorkingHours,Munkaidő,"Tutorial title, Working hours refers to Work.WorkingHoursTooltip"
+Tutorial.WorkingHours.SetWorkingHours,"A munkaidő beállítása a település irányításának egy módja.
+
+A hosszabb munkanapok gyorsabb előrehaladást jelenthetnek, de a hódoknak szükségük van pihenésre is minden nap. Ne hajszold túl őket túl sokáig!
+
+Egyelőre állítsd kicsit hosszabbra a munkaidőt!","Working hours refers to Work.WorkingHoursTooltip, Starvation refers to Status.Need.Hunger, dehydration refers to Status.Need.Thirst"
 UnstableCore.ExplosionRadius,Robbanási sugár,Label of a field that allows to set explosion radius of an unstable core.
 Water.Strength,Erősség,Followed by a number which tells how much water a water source produces
 WaterInputCoordinates.Depth,Mélység,Depth reached by the water input building (e.g. a water pump).
@@ -1844,7 +1947,7 @@ Weather.Notification.DroughtInProgress,Aszály folyamatban,Tooltip of weather pa
 Weather.Temperate,Mérsékelt időjárás,
 Wellbeing.AverageWellbeing,Átlagos jóllét:,Please keep short. Well-being is how good the beavers feel in general. Could also be welfare or prosperity
 Wellbeing.DisplayName,Jóllét,How good the beavers feel. Could also be welfare or prosperity
-Wellbeing.HighscoreReached,"A hódok boldogabbak, mint valaha! Elértél egy új jóllét csúcsot:",A congratulation message when a settlement reaches a new well-being record
+Wellbeing.HighscoreReached,"A hódjaid boldogabbak, mint valaha!",A congratulation message when a settlement reaches a new well-being record
 Wellbeing.HighscoreReached.Short,Új jóllétcsúcs:,A congratulation message when a settlement reaches a new well-being record
 Wellbeing.NextTier,Következő szint,Shown on character bonus tooltip with information about next bonus level (each bonus has several tiers with raising values)
 Wellbeing.PopulationWellbeing,A népesség jólléte,Please keep short. How good the beavers feel. Could also be welfare or prosperity
