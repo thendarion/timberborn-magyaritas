@@ -237,7 +237,7 @@ Building.EarthRepopulator.IronTeeth.Description,Úttörőket indít távoli vid�
 Building.EarthRepopulator.IronTeeth.DisplayName,Föld-benépesítő,Earth meaning planet Earth and Repopulator meaning starting new colonies or restoring the population.
 Building.EarthRepopulator.IronTeeth.FlavorDescription,Néhány – ma már titkosított – katapultos teszt után inkább ezt a megoldást választották.,"This building looks like a plane runway, so this jokingly references a more primitive idea."
 Building.EfficientFarmhouse.Description,"Földműveseket alkalmaz, akik ültetnek és aratnak. Az új, kibővített Virágvölgyi dizájn több munkást képes foglalkoztatni.",Farmhouse should be the same as in Building.Farmhouse.DisplayName
-Building.EfficientFarmhouse.DisplayName,Hatékony Földművesház,Farmhouse should be the same as in Building.Farmhouse.DisplayName
+Building.EfficientFarmhouse.DisplayName,Hatékony földművesház,Farmhouse should be the same as in Building.Farmhouse.DisplayName
 Building.EfficientFarmhouse.FlavorDescription,"A hatékonyság nagyban függ attól, hogy a hódok esznek-e munkaidőben.",
 Building.EfficientMine.Description,"Bányászokat alkalmaz, akik hulladékvasat termelnek ki a föld alatti romokból. Innovatív kialakítása maximalizálja a bányászat hatékonyságát.","Underground Ruins is a building, same as Building.Underground Ruins.DisplayName"
 Building.EfficientMine.DisplayName,Hatékony bánya,An extracting facility which can be placed on underground ruins.
