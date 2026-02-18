@@ -1,1 +1,2 @@
-- eszköznevek javítása a tippekben
+- konzisztens kis- és nagybetű használat
+- konzisztens bevezető szövegek
