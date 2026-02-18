@@ -293,7 +293,7 @@ Building.GreaseFactory.DisplayName,Kenőanyaggyár,Grease should be the same as 
 Building.GreaseFactory.FlavorDescription,„A jó munka olajozottan megy!” — Kazkó bá,"Reference to the song ""Greased Lightning"" from the movie ""Grease"" (1978). Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Grill.Description,Zöldségeket grillez.,
 Building.Grill.DisplayName,Grill,A place that grills
-Building.Grill.FlavorDescription,"„Rács, vaslap, tepsi, serpenyő – a krumpli mindenhol működik!” — Nóra nagyi: Az 500 legjobb krumpliétel","Adapted quote from Lord of the Rings paired with a nod to an infamous Soviet-era cookbook ""500 potato dishes"". Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.Grill.FlavorDescription,"„Rács, vaslap, tepsi, serpenyő – a krumpli mindenhogy működik!” — Nóra nagyi: Az 500 legjobb krumpliétel","Adapted quote from Lord of the Rings paired with a nod to an infamous Soviet-era cookbook ""500 potato dishes"". Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Gristmill.Description,Növényeket őröl lisztté.,"Plant matter meaning different parts of plants, such as roots or flowers."
 Building.Gristmill.DisplayName,Őrlőmalom,
 Building.Gristmill.FlavorDescription,A bonyolultabb étrenddel jött a többlépcsős feldolgozás igénye is.,
@@ -1327,7 +1327,7 @@ NaturalResource.Oak.DisplayName,Tölgy,Common oak tree.
 NaturalResource.Oak.FlavorDescription,A legjobb hód építmények tölgyfa és vas kötésben állnak.,This idiom makes perfect literal sense for the Iron Teeth.
 NaturalResource.Pine.DisplayName,Fenyő,Tree of the genus Pinus
 NaturalResource.Pine.FlavorDescription,"„Figyeld meg, hogyan áll a fenyőfa! Minden egyes tűlevele egy kis 'fenyőcske', ami télen is zöld marad.” — Ismeretlen hód költő","""Pine"" pun, feel free to adapt."
-NaturalResource.Potato.DisplayName,Krumpli,Plant Solanum tuberosum
+NaturalResource.Potato.DisplayName,Burgonya,Plant Solanum tuberosum
 NaturalResource.Potato.FlavorDescription,„Van több módja is a krumpli elkészítésének.” — Hód közmondás,
 NaturalResources.Seedling,(palánta),This is shown under NaturalResource.DisplayName. Not fully grown plant.
 NaturalResource.Soybean.DisplayName,Szójabab,Should be consistent with Good.Soybean.DisplayName

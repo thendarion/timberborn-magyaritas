@@ -1,3 +1,4 @@
 - konzisztens kis- és nagybetű használat
 - konzisztens bevezető szövegek
 - új elnevezés: rosszvízcsatorna
+- a krumpli növény mostantól burgonya (a termés eddig is az volt)
