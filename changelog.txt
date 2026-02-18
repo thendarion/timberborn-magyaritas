@@ -1,6 +1,1 @@
-- hozzáadtam a 2026. 02. 12. előtt a kísérleti ágon bekövetkezett változásokat, mint például:
-  - az új tanuló/bevezető szövegeket
-  - az új beállításokat
-  - az új objektumleírásokat
-- egységesítettem néhány leírást
-- változtattam pár szövegen, hogy jobban illjen az eredetihez
+- eszköznevek javítása a tippekben

@@ -1672,8 +1672,8 @@ TimedComponentActivator.DaysUntilActivationProgress,{0} nap múlva aktiválódik
 TimedComponentActivator.DaysUntilExplosionProgress,{0} nap múlva felrobban,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
 TimedComponentActivator.IsEnabledToggle,Késleltetett aktiváció,Label for toggle in entity panel in editor. Allows to enable or disable time activation.
 Tip.Common.KeyBindings,"Tipp: gyorsbillentyűk használatával gyorsabban elérhetsz olyan funkciókat, mint az épületek lebontása, vagy duplikálása. A beállításokban megtalálhatod a teljes listát.",Tip on the loading screen.
-Tip.Common.LayerTool,Tipp: a <YellowHighlight>látható</YellowHighlight> réteg eszköz segítségével a terep és az epületek alá láthatsz.,Tip on the loading screen.
-Tip.Game.Duplicate,Tipp: a <YellowHighlight>másolás</YellowHighlight> és <YellowHighlight>duplikálás</YellowHighlight> eszközök meggyorsítják az egyforma épületek telepítését.,Tip on the loading screen.
+Tip.Common.LayerTool,Tipp: a <YellowHighlight>látható réteg</YellowHighlight> eszköz segítségével a terep és az epületek alá láthatsz.,Tip on the loading screen.
+Tip.Game.Duplicate,Tipp: a <YellowHighlight>beállítások másolása</YellowHighlight> és az <YellowHighlight>épület másolása</YellowHighlight> eszközök meggyorsítják az egyforma épületek telepítését.,Tip on the loading screen.
 Tip.Game.Flip,Tipp: a <YellowHighlight>tükrözés</YellowHighlight> hasznos lehet az épületek lehelyezésekor.,Tip on the loading screen.
 Tip.Game.Solid,"Tipp: ha egy épület <YellowHighlight>szilárd</YellowHighlight>, mint például egy kunyhó vagy egy raktár, akkor mást is építhetsz a tetejére.",Tip on the loading screen. Solid is a keyword.
 Tip.MapEditor.SeasonControls,Tipp: a képernyő tetején található időjárásgombokkal szimulálhatod az aszályt és a rosszvízárat is.,Tip on the loading screen.
