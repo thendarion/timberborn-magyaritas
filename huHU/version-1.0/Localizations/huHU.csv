@@ -1842,7 +1842,7 @@ Tutorial.Science.SciencePoints,"Most hagyd a feltalálót dolgozni!
 
 Amint összegyűlik elég tudománypont, el fogjuk költeni fejlettebb épületek feloldására.","Inventor is the same as Building.Inventor.DisplayName, Science Points is the same as Science.SciencePoints"
 Tutorial.Science.Unlock,Oldd fel ezt az épületetet: {0}!,{0} stands for the name of the building to unlock
-Tutorial.SelectGood,Állítsd be: {0} erre: {1} {2},{0} stands for building name {1} stands for good name {2} stands for Tutorial.Progress. This is used in a goal description with the verb in active voice. for example 'Set: Warehouse to Bread (0/5)'.
+Tutorial.SelectGood,Állítsd be a {0}-t {1}-ra/re {2},{0} stands for building name {1} stands for good name {2} stands for Tutorial.Progress. This is used in a goal description with the verb in active voice. for example 'Set: Warehouse to Bread (0/5)'.
 Tutorial.SetWorkingHours,Állítsd {0}-ra a munkaidőt!,{0} is the number of working hours to set
 Tutorial.Storage,Raktározás,
 Tutorial.Storage.Pile,"Sok épületnek van belső raktára, de az hamar megtelik.
