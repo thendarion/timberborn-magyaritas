@@ -85,7 +85,7 @@ Building.AquiferDrill.Description,Vizet nyer ki a víztartó rétegből. Víztar
 Building.AquiferDrill.DisplayName,Víztartó réteg fúró,
 Building.AquiferDrill.FlavorDescription,A legtöbb hód épület a vizet visszatartani hivatott. Ez nem.,
 Building.BadtideDrain.Description,Rosszvízár alatt rosszvíz folyik belőle,
-Building.BadtideDrain.DisplayName,Rosszvízárcsatorna,
+Building.BadtideDrain.DisplayName,Rosszvízcsatorna,
 Building.BadtideDrain.FlavorDescription,„Erre használták az embörök a csöveket? Fúj!” — Zsömi,"Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 Building.BadwaterDischarge.Description,Lezár egy Rosszvízforrást. Igény szerint nyitható és zárható. Nyitott állapotban szárazság idején is fenntartja a rosszvíz áramlását.,"Badwater Source must be the same as Building.BadwaterSource.DisplayName, Badwater must be the same as Good.Badwater.DisplayName."
 Building.BadwaterDischarge.DisplayName,Rosszvízmélyfúrás,"Name of the building that can either stop flow of badwater or enforce flow with full power. It's a dome shaped, mechanical building that opens and closes like a camera shutter. Badwater must be the same as Good.Badwater.DisplayName."
