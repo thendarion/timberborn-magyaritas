@@ -2,3 +2,5 @@
 - konzisztens bevezető szövegek
 - új elnevezés: rosszvízcsatorna
 - a krumpli növény mostantól burgonya (a termés eddig is az volt)
+- konzisztens lakhatás elnevezés
+- javított frakció feloldás szövegek

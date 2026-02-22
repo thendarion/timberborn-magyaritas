@@ -818,9 +818,9 @@ GameUI.ShowDistrictList,Körzetlista megjelenítése/elrejtése,Shown in tooltip
 Gathering.Action,Betakarított termények:,"Followed by a list of goods, like Gathers: Berries"
 Gathering.Nothing,Semmi,Nothing is prioritized to be gathered.
 Gathering.Prioritize,Előnyben részesít:,Which resource is prioritized to be gathered.
-Goals.NotEligible,nem érvényes ezen frakcióval játszva!,Preceded by Goals.Progress
-Goals.Progress,Haladás:,
-Goals.Unlocked,Feloldva!,Preceded by Goals.Progress
+Goals.NotEligible,(nem érvényes ezen frakcióval játszva),Preceded by Goals.Progress
+Goals.Progress,Állapot:,
+Goals.Unlocked,feloldva,Preceded by Goals.Progress
 Good.Algae.DisplayName,Alga,"Algae that's been cultivated in the Hydroponic Garden, it's processed into an edible ration. It doesn't specifically represent any specific algae kind."
 Good.Algae.PluralDisplayName,Alga,"Algae that's been cultivated in the Hydroponic Garden, it's processed into an edible ration. It doesn't specifically represent any specific algae kind."
 Good.AlgaeRation.DisplayName,Algafejadag,"Algae should be the same as in Good.Algae.DisplayName. Ration should be consistent between Good.AlgaeRation.DisplayName, Good.CornRation.DisplayName, Good.EggplantRation.DisplayName and Building.FoodFactory.Description"
@@ -1357,7 +1357,7 @@ Need.Hunger.DisplayName,Éhség,Title of a beaver need related to its hunger
 Need.Injury.DisplayName,Sérülés,Title of an effect that shows up when a beaver has been injured
 Need.Power.DisplayName,Meghajtás,A need satisfied when a bot recharges.
 Need.Roof.DisplayName,Tető,"Same as Building.Roof2x2.DisplayName without the size. It refers to roofs as one of the available decorations, do not confuse with Shelter which is a separate need."
-Need.Shelter.DisplayName,Menedék,A need that is fulfilled when a beaver has a house.
+Need.Shelter.DisplayName,Lakhatás,A need that is fulfilled when a beaver has a house.
 Need.Sleep.DisplayName,Alvás,A need satisfied when a beaver sleeps.
 Need.Thirst.DeathMessage,szomjan halt,Preceded by beaver name
 Need.Thirst.DisplayName,Szomjúság,A need satisfied by providing water.
