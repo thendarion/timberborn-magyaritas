@@ -1617,7 +1617,7 @@ Status.Need.Power.Short,A robot óraszerkezete lejárt.,This shows up when a bot
 Status.Need.Sleep,Kimerült,
 Status.Need.Thirst,Kiszáradt,This shows up on the entity panel when a beaver is extremely thirsty
 Status.Object.UnreachableObject,"Túl messze van minden kerülettől, és a hódok nem érik el. Építs még ösvényt, vagy egy új kerületet!","Shown when a building, construction site, demolishable object or rubble is out of a district's range."
-Status.RecoveredGoodStack.NoStorage,Nincs elérhető tárolóhely. Építs több tárolót.,Shown on Rubble's panel when there is no storage space for goods. Storage should be translated similar to ToolGroups.Storage
+Status.RecoveredGoodStack.NoStorage,Nincs elérhető tárolóhely. Építs több tárolót!,Shown on Rubble's panel when there is no storage space for goods. Storage should be translated similar to ToolGroups.Storage
 Status.Science.NotEnoughScience,Nincs elég Tudománypont az üzemeltetéshez.,Shown when the player doesn't have enough Science Points to power a building. Science Points should be the same as Science.SciencePoints
 Status.Science.NotEnoughScience.Short,Nincs elég Tudománypont,Prompt when player doesn't have enough science points to unlock something. Please keep short. Science Points should be the same as Science.SciencePoints
 Status.TimedActivationWarning,Hamarosan aktiválódik.,Text shown in entity panel when count down is active for a water source.
