@@ -1,3 +1,4 @@
 - konzisztens lakhatás elnevezés
 - javított frakció feloldás szövegek
 - központozásjavítás
+- beállítások: új szöveg a kezdővideó kikapcsolása elemhez

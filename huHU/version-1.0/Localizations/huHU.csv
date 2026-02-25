@@ -1511,7 +1511,7 @@ Settings.Graphics.ShadowQuality,Árnyékminőség,Label for shadow quality optio
 Settings.Graphics.TextureQuality,Textúraminőség,Label for texture quality option
 Settings.Graphics.WaterQuality,Vízminőség,"Label for water quality dropdown, used in graphics settings panel"
 Settings.Header,Beállítások,
-Settings.Intro.DisableIntro,Bevezető átugrása,Label for setting to skip intro cinematic
+Settings.Intro.DisableIntro,Kezdővideó kikapcsolása,Label for setting to skip intro cinematic
 Settings.Input.DragCamera,Kamera húzása,
 Settings.Input.EdgePanCamera,Képernyőszéllel mozgás,"When this option is enabled, player can move camera by moving mouse to screen edge"
 Settings.Input.EdgePanCameraSpeed,Képernyőszéllel mozgás sebessége,
