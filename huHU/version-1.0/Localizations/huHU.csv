@@ -1612,8 +1612,8 @@ Status.Need.ChippedTeeth.Short,Letört fog,This shows up when a beaver has broke
 Status.Need.Hunger,Éhezik,This shows up when a beaver's hunger reaches critical levels. Please keep short.
 Status.Need.Injury,A hód munka közben megsérült.,This shows up in the selected beaver's panel when it has an injury.
 Status.Need.Injury.Short,Sérült hód,This shows up as an alert when a beaver has an injury. Please keep short.
-Status.Need.Power,Lejárt robot,This shows up when a bot runs out of power.
-Status.Need.Power.Short,A robot óraszerkezete lejárt.,This shows up when a bot runs out of power. Please keep short. Bot should be the same as Bot.TemplateName.
+Status.Need.Power,A robot óraszerkezete lejárt.,This shows up when a bot runs out of power.
+Status.Need.Power.Short,Lejárt robot,This shows up when a bot runs out of power. Please keep short. Bot should be the same as Bot.TemplateName.
 Status.Need.Sleep,Kimerült,
 Status.Need.Thirst,Kiszáradt,This shows up on the entity panel when a beaver is extremely thirsty
 Status.Object.UnreachableObject,"Túl messze van minden kerülettől, és a hódok nem érik el. Építs még ösvényt, vagy egy új kerületet!","Shown when a building, construction site, demolishable object or rubble is out of a district's range."
