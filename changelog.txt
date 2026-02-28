@@ -1,1 +1,1 @@
-- a lejárt robotok hosszú és rövid állapotszövegei most már a jó helyen jelennek meg
+- a robotok mostantól széthullanak, amikor meghalnak

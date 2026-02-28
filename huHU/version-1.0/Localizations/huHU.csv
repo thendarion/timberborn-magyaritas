@@ -56,7 +56,7 @@ Egykor mindenük megvolt: friss levegő, kristálytiszta víz.
 Ma már csak árnyak az idő peremén.","Text for a game over state, when all beavers have perished."
 Bot.Created,{0} elkészült!,{0} stands for bot name. Notification that shows when production of a new bot finishes.
 Bot.DeadNameSuffix,(megsemmisült),Preceded by bot name and age
-Bot.DeathMessage,{0} lerobbant.,{0} stands for bot name. Notification that shows when a bot breaks down completely (it's destroyed)
+Bot.DeathMessage,{0} széthullott.,{0} stands for bot name. Notification that shows when a bot breaks down completely (it's destroyed)
 Bot.DisplayName.Folktails,{0}.sz. fa robot,{0} stands for a bot serial number. Name of bots from the Folktails faction. Named after the fact they are visibly made from wood.
 Bot.DisplayName.IronTeeth,{0}.sz. vas robot,{0} stands for a bot serial number. Name of bots from the Iron Teeth faction. Named after the fact they are visibly made from metal.
 Bot.Durability,Tartósság,Label before a progress bar showing amount of durability left
