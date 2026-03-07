@@ -1,1 +1,8 @@
 - a robotok mostantól széthullanak, amikor meghalnak
+- központozásjavítás
+- új figyelmeztetés a vaskerítésen
+- az automatizációk magyarítása
+- az új bevezetőelemek magyarítása
+- apróbb javítások
+
+megjegyzés: gyorsan változnak a dolgok így egy héttel a kiadás előtt :D
