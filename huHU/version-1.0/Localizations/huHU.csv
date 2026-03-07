@@ -782,7 +782,7 @@ Building.WaterSource.FlavorDescription,„Legyen mindig folyó a folyód!” —
 Building.WaterWheel.Description,Vízi hajtókerék. Tedd a folyóba és már forog is!,Power is not an electrical but mechanical/kinetic energy.
 Building.WaterWheel.DisplayName,Vízkerék,
 Building.WaterWheel.FlavorDescription,Kazkó bá mesterműve.,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
-Building.WeatherStation.Description,Az aktuális időjárásnak megfelelően jelet küld.,
+Building.WeatherStation.Description,Az időjárásnak megfelelően jelet küld.,
 Building.WeatherStation.DisplayName,Meteorológiai állomás,A building which checks the current weather condition (does not make forecasts).
 Building.WeatherStation.Header,"Aktív, amíg az aktuális időjárás","Header for weather station building settings. After this header, there are checkboxes for each weather type that can be enabled or disabled."
 Building.Weathervane.Description,Méri a szél sebességét és mutatja az irányát.,
