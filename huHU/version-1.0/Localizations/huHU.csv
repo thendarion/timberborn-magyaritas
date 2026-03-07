@@ -303,7 +303,12 @@ Building.Farmhouse.FlavorDescription,A mezőgazdaság ma is a hódtársadalom eg
 Building.Fermenter.Description,Tápláló élelmiszereket állít elő növényekből erjesztéssel.,Ferments should be the same as in Building.Fermenter.DisplayName
 Building.Fermenter.DisplayName,Erjesztő,A building that ferments plants to make food.
 Building.Fermenter.FlavorDescription,Néhány baleset után korlátozták a fermentációra engedélyezett áruk listáját.,Referrencing fermentation used to produce alcoholic beverages.
-Building.FireworkLauncher.Description,Shoots out celebratory fireworks.,"Fireworks should be consistent with Good.Fireworks.DisplayName"
+Building.FillValve.Description,"Egyirányú vízkifolyó, szabályozható alsó vízmélységgel.",
+Building.FillValve.DisplayName,Töltőzsilip,A building which works like a valve which opens and closes to maintain the level of water in a reservoir/tank that it fills (refills).
+Building.FillValve.TargetHeight,Célmélység: {0},Label for a slider which sets the desired water depth.
+Building.FillValve.TargetHeightUnlimited,Korlátlan,Label for a slider which sets the desired water depth when set to Unlimited.
+Building.FillValve.Synchronize,Szinkronizálás a szomszédos töltőzsilipekkel,Label for a toggle which makes this fill valve synchronize its configuration with adjacent fill valves.
+Building.FireworkLauncher.Description,Ünnepi tűzijátékot lő ki.,"Fireworks should be consistent with Good.Fireworks.DisplayName"
 Building.FireworkLauncher.DisplayName,Tűzijáték kilövő,Name of a building which launches fireworks into the sky.
 Building.FireworkLauncher.FlightDistance,Repülési távolság: {0},"Label for firework flight distance value. {0} stands for a number."
 Building.FireworkLauncher.Heading,Elforgatás: {0},"Label for firework heading value."
@@ -471,7 +476,7 @@ jelet, amíg a <YellowHighlight>{1}</YellowHighlight> jel be van kapcsolva.",Thi
 Building.Memory.Mode.SetReset,Beállító/törlő kapcsoló,An electronic component mode which flips between zero and one in response to specific input signals. 'Set-Reset' is a popular term in electronics.
 Building.Memory.Mode.SetReset.Description,"Elkapja az <YellowHighlight>{0}</YellowHighlight> jelet.", This describes a mode of an electronic component. {0} and {2} are input names such as A or B but styled like keywords so do not worry about articles.
 Building.Memory.Mode.Toggle,Billenőkapcsoló,An electronic component mode which flips state every time it receives a signal. 'Toggle' is a popular term in electronics.
-Building.Memory.Mode.Toggle.Description,"Átbillen, amikor az <YellowHighlight>{0}</YellowHighlight> jel bekapcsol".,This describes a mode of an electronic component. {0} is an input name such as A or B but styled like a keyword so do not worry about articles. Notice the subtles difference with other modes between 'is on' (meaning something happens for the whole duration when a signal is On) VS 'switches on' (meaning something happens the moment a signal changes from Off to On). 'Flips' here means that it inverts its state - from zero to one or from one to zero.
+Building.Memory.Mode.Toggle.Description,"Átbillen, amikor az <YellowHighlight>{0}</YellowHighlight> jel bekapcsol.","This describes a mode of an electronic component. {0} is an input name such as A or B but styled like a keyword so do not worry about articles. Notice the subtles difference with other modes between 'is on' (meaning something happens for the whole duration when a signal is On) VS 'switches on' (meaning something happens the moment a signal changes from Off to On). 'Flips' here means that it inverts its state - from zero to one or from one to zero."
 Building.MetalFence.Description,Dekoratív kerítés vasból készítve.,
 Building.MetalFence.DisplayName,Vas kerítés,
 Building.MetalFence.FlavorDescription,"Vigyázat, vassal dolgozó hódok!","Reference to ""beware the dog"" often written on fences."
@@ -599,9 +604,10 @@ Building.ReserveWarehouse.DisplayName,Tartalékraktár,
 Building.ReserveWarehouse.FlavorDescription,Régmúlt generációk ajándéka.,
 Building.ResourceCounter.Description,Egy áru aktuális mennyisége vagy raktárai feltöltési sebessége alapján küld jelet.,
 Building.ResourceCounter.DisplayName,Áruszámláló,
-Building.ResourceCounter.MeasurementPercent,Sebesség: {0}%,"Fill rate of choosen good, please keep short."
-Building.ResourceCounter.Mode.StockLevel,Mennyiség,
-Building.ResourceCounter.Mode.FillRate,Feltöltési sebesség,
+Building.ResourceCounter.IncludeInputs,A bemeneteket is számolja,Toggle on Resource Counter building - switches between counting available or all goods
+Building.ResourceCounter.MeasurementPercent,Mért érték: {0}%,"Fill rate of choosen good, please keep short."
+Building.ResourceCounter.Mode.Percent,Százazlék (%),Mode for resource counter building - percent of storage spaces filled with goods
+Building.ResourceCounter.Mode.Quantity,Mennyiség,Mode for Resource Counter building - quantity of goods
 Building.Roof.FlavorDescription,"A tető az utolsó rész – és az első, amit mindenki néz.",
 Building.Roof1x1.DisplayName,Tető 1x1,Numbers at the end denote size X by Y
 Building.Roof1x2.DisplayName,Tető 1x2,Numbers at the end denote size X by Y
@@ -756,15 +762,15 @@ Building.UndergroundRuins.FlavorDescription,"Bármit is építettek odalent az e
 Building.UnstableCore.Description,"Ősi szerkezet, amely idővel felrobban",
 Building.UnstableCore.DisplayName,Instabil mag,An object that can be placed in map editor that explodes after a set time. Name shouldn't suggest strictly military use or radioactive effect.
 Building.UnstableCore.FlavorDescription,"Igen, Zsömi, nagy bumm.",Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
-Building.Valve.Description,Egyirányú vízkifolyó, szabályozható átfolyással.,
-Building.Valve.DisplayName,Kifolyó,
-Building.Valve.OutflowLimit,Átfolyási limit: {0},Label for flow limit setting in valve building
+Building.Valve.Description,"Egyirányú vízkifolyó, szabályozható átfolyással.",
+Building.Valve.DisplayName,Fojtott zsilip,
+Building.Valve.OutflowLimit,Átfolyási korlát: {0},Label for flow limit setting in valve building
 Building.Valve.OutflowUnlimited,Korlátlan átfolyás,Label for flow limit setting when it is set to unlimited
 Building.Valve.ReactionSpeed,Reakciósebesség: {0},Label for a slider which controls how fast this valve reacts to changes in throughput. {0} is 0-100%.
 Building.Valve.State.Closing,Záródik,"Gender should be consistent with Automation.Mode. Please keep short, at most the width of 11 latin characters."
 Building.Valve.State.Idle,Készenlét,"Gender should be consistent with Automation.Mode. Please keep short, at most the width of 11 latin characters. This is the state of a valve that is not moving - not closing or opening."
 Building.Valve.State.Opening,Nyilik,"Gender should be consistent with Automation.Mode. Please keep short, at most the width of 11 latin characters."
-Building.Valve.Synchronize,Szinkronizálás a szomszédos kifolyókkal,Label for a toggle which makes this valve synchronize its flow rate with adjacent valves.
+Building.Valve.Synchronize,Szinkronizálás a szomszédos fojtott zsilipekkel,Label for a toggle which makes this valve synchronize its flow rate with adjacent valves.
 Building.VerticalPowerShaft.Description,Kinetikus energiát továbbít minden irányban (függőlegesen is).,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.VerticalPowerShaft.DisplayName,Stabil hajtótengely,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
 Building.VerticalPowerShaft.FlavorDescription,Mire ez a nagy felhajtás?,"Power being mechanical/kinetic, not electricity. Alternative name: axle."
@@ -784,6 +790,7 @@ Building.WaterWheel.DisplayName,Vízkerék,
 Building.WaterWheel.FlavorDescription,Kazkó bá mesterműve.,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.WeatherStation.Description,Az időjárásnak megfelelően jelet küld.,
 Building.WeatherStation.DisplayName,Meteorológiai állomás,A building which checks the current weather condition (does not make forecasts).
+Building.WeatherStation.EarlyActivation,Korábban kapcsoljon be,A label for a checkbox which makes the weather station activate a specified number of hours before the season starts
 Building.WeatherStation.Header,"Aktív, amíg az aktuális időjárás","Header for weather station building settings. After this header, there are checkboxes for each weather type that can be enabled or disabled."
 Building.Weathervane.Description,Méri a szél sebességét és mutatja az irányát.,
 Building.Weathervane.DisplayName,Szélkakas,A decoration that turns towards the wind
@@ -1426,6 +1433,7 @@ Erősen javasoljuk, hogy frissítsd a térképet, hogy kihasználhasd az új fun
 
 Biztosan be akarod tölteni ezt a térképet?","{0} is the map version (e.g. 0.1.15.1), {1} is the game version (in the same format). This message is shown after a player tries to start game on an incompatible map."
 MapSelection.Unconventional,Rendhagyó,"Label of the maps that have some special, different, unconventional mechanics"
+Mechanical.BatteryCharge,{0} / {1},"Current and total value of battery charge. {0} is current value, {1} is total value."
 Mechanical.Charge,Töltöttség,Current battery charge (how much power a battery has left)
 Mechanical.Efficiency,Hatékonyság: {0}%,{0} stands for efficiency percentage number. How efficient workshop is at using the power.\
 Mechanical.NetworkPower,A hálózat teljesítménye / terhelése: {0} / {1},{0} stands for supply amount {1} stands for demand amount followed by PowerSymbol
@@ -1927,6 +1935,9 @@ ToolGroups.Water,Víz,Buildings that gather and store water.
 ToolGroups.Wood,Fa,Buildings that allow gathering and producing using wood
 TopBar.Badwater,Rosszvíz,A group of goods. Please keep short.
 TopBar.Food,Élelmiszerek,A group of goods. Please keep short.
+TopBar.GoodStockpileTooltip.Inputs,Bemenet,Label in topbar tooltip - for goods keeped in input directories - please keep short
+TopBar.GoodStockpileTooltip.Outputs,Kimenet,Label in topbar tooltip - for goods ready to use - please keep short
+TopBar.GoodStockpileTooltip.Stockpiles,Tárhely,Label in topbar tooltip - for goods keeped in stockpiles warehouses etc - please keep short
 TopBar.Ingredients,Összetevők,Please keep short.
 TopBar.Logs,Farönkök,A group of goods. Please keep short.
 TopBar.Materials,Nyersanyagok,A group of goods. Please keep short.
@@ -1986,12 +1997,6 @@ Tutorial.Forestry.MarkBirchesForPlanting,"Használd a Fák és bokrok ültetése
 A haszonnövényekhez hasonlóan a fák csak jól öntözött, zöld területeken nőnek.
 
 Ne felejtsd el kijelölni az ültetési területet vágásra is!","Plant Trees and Bushes is the same as ToolGroups.ForestryPlanting, Birches is the same as NaturalResource.Birch.DisplayName"
-Tutorial.GoodLuck,Sok sikert!,
-Tutorial.GoodLuck.Description,"Remek munka! Minden adott a településed felvirágoztatásához, de a valódi kihívás csak most kezdődik!
-
-Építsd meg első gátad! Fedezz fel új technológiákat! Szaporítsd hódjaid, és tartsd életben őket!
-
-Ha sikerrel jársz, ez az üres pusztaság valódi hódparadicsommá válik. Ha nem, az embörök sorsára jutsz te is.",Dam refers to Building.Dam.DisplayName
 Tutorial.HaulersAndWorkforce,Szállítók és munkások,Tutorial title
 Tutorial.HaulersAndWorkforce.BuildHaulingPost,"Ahogy a településed méretével a termelésed is egyre nő. Az áruk szállítása viszont a munkásaid hasznos idejét foglalja le.
 
@@ -2151,7 +2156,7 @@ Unit.HorsePower.UnitOnly,kW,Abbreviation for horse power unit - a unit of engine
 Unit.HorsePowerHour.NumberAndUnit,{0} kWh,"Abbreviation for horse power hour with numeric value. {0} stands for the number. Should be consistent with Unit.HorsePowerHour.UnitOnly. Please keep very short."
 Unit.HorsePowerHour.UnitOnly,kWh,"Abbreviation for horse power hour unit - a unit of energy. hp and h should be consistent with Unit.HorsePower.UnitOnly and Unit.Hour.UnitOnly. Please keep very short."
 Unit.HorsePowerHourPerMeter.NumberAndUnit,{0} kWh/m,"Abbreviation for horse power hour per meter with numeric value. {0} stands for the number. Should be consistent with Unit.HorsePowerHourPerMeter.UnitOnly." Please keep very short.
-Unit.HorsePowerHourPerMeter.UnitOnly,kWh/m,"Stands for horse power hour per meter - used to describe battery capacity. hph should be consistent with Unit.HorsePowerHour.UnitOnly, m should be consistent with Unit.Meter.UnitOnly." Please keep very short.
+Unit.HorsePowerHourPerMeter.UnitOnly,kWh/m,"Stands for horse power hour per meter - used to describe battery capacity. hph should be consistent with Unit.HorsePowerHour.UnitOnly, m should be consistent with Unit.Meter.UnitOnly. Please keep very short."
 Unit.HorsePowerPerCubicMeterPerSecond.NumberAndUnit,{0} kW/m³/s,Abbreviation for horse power per cubic meter per second with numeric value. {0} stands for the number. It should be consistent with Unit.HorsePowerPerCubicMeterPerSecond.UnitOnly. Please keep very short.
 Unit.HorsePowerPerCubicMeterPerSecond.UnitOnly,kW/m³/s,Abbreviation for horse power per cubic meter per second. It should be consistent with Unit.HorsePower.UnitOnly and Unit.CubicMeterPerSecond.UnitOnly. Please keep very short.
 Unit.Hour.NumberAndUnit,{0} óra,Abbreviation for hour/hours with numeric value. {0} stands for the number. Should be consistent with Unit.Hour.UnitOnly. Please keep very short.
