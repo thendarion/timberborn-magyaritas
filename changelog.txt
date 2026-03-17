@@ -1,6 +1,2 @@
 - apróbb javítások
-- formátumjavítások
-- hiányzó fordítások pótlása
-
-megjegyzés: gyorsan változnak a dolgok így egy héttel a kiadás előtt :D
-
+- formai javítások

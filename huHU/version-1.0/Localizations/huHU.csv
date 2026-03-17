@@ -35,14 +35,15 @@ Automation.PinnedAlways,Mindig legyen kitűzve,Must be consistent with Automatio
 Automation.PinnedWhenOn,"Legyen kitűzve, ha be van kapcsolva",Must be consistent with Automation.Pinned. This mode means that something is pinned to the HUD only when in the ON state.
 Automation.ResetButton,Alaphelyzet,A text for a button which resets the logic memory of the selected element to zero. It's likely that 'Reset' is a good option in many languages.
 Automation.ResetCircuitButton,Logikai alaphelyzet,A text for a button which resets the logic memory of all elements in this circuit to zero.
-Automation.ResetsWhenResetInput,"Alaphelyzetbe áll, amikor <YellowHighlight>{0}</YellowHighlight>.","A text appended to some of the other mode descriptions such as Timer.Mode.* or Memory.Mode.*. {0} is Automation.Input.ResetInput. This text is meant to explain that the RST input resets this element."
+Automation.ResetsWhenResetInput,"Alaphelyzetbe áll, amikor <YellowHighlight>{0}</YellowHighlight> jelet kap.","A text appended to some of the other mode descriptions such as Timer.Mode.* or Memory.Mode.*. {0} is Automation.Input.ResetInput. This text is meant to explain that the RST input resets this element."
 Automation.SelectTransmitter,Jelfeladó kijelölése,A description of a tool which allows player to select a building which sends an automation signal (a transmitter).
 Automation.State.Error,Hiba,A state label when a signal has an error. Keep very short because the other states are 'On' and 'Off'.
 Automation.State.Off,Ki,A state label when a signal is switched off which is shown next to lightbulb icon.
 Automation.State.On,Be,A state label when a signal is switched on which is shown next to lightbulb icon.
 Automation.State.Processing,Feldolgozás alatt...,A state label when a signal is switched on which is shown next to lightbulb icon. This state indicates that the element is in the middle of processing new data.
 Automation.Threshold,Küszöbérték: {0},"Label for the threshold value in the automation panel. {0} is a value being a threshold."
-Automation.Usages,{0} helyen felhasználva,As in the number of usages - how many objects use this one.
+Automation.Usages,"{0} helyen
+   felhasználva",As in the number of usages - how many objects use this one.
 Autosave.Failure,Az automatikus mentés nem sikertült,Notification on top of the window when autosave failed. It disappears after 10 seconds
 Autosave.FailureDueToFullDisk,"Az automatikus mentés nem sikerült, mert nincs elegendő lemezterület",Notification on top of the window when autosave failed. It disappears after 10 seconds
 Autosave.Success,Automatikus mentés,"Notification on top of the window when autosave succeeded. Keep short, it disappears after 2 seconds"
@@ -391,7 +392,7 @@ Building.HydroponicGarden.FlavorDescription,"Az ötlet egy gyorsan növő gombá
 Building.ImpermeableFloor.Description,"Olyan padlólap, amely megakadályozza a víz átszivárgását.",
 Building.ImpermeableFloor.DisplayName,Vízálló padló,"It's a metal floor tile that doesn't let any water through, hence Impermeable."
 Building.ImpermeableFloor.FlavorDescription,"Az egész akkor kezdődött, amikor egy hódnak elege lett a csöpögő tető hangjából.",
-Building.Indicator.Description,"An indicator light with alerting capabilities.",An API URL which switches on this object.
+Building.Indicator.Description,"Visszajelző lámpa riasztási képességekkel.",An API URL which switches on this object.
 Building.Indicator.DisplayName,Visszajelző,"An building which is an indicator light - when it receives a signal it lights up and optionally raises an alarm. Alternative names: Alarm, Annunciator, Signal, Beacon."
 Building.Indicator.JournalEntryWhenSwitchedOn,Bekapcsoláskor adjon hozzá naplóbejegyzést,"A label for a toggle which makes this indicator add a journal entry when its input signal is switched on."
 Building.Indicator.ReplicateInputColor,Kövesse a bejövő jel színét,"A label for a toggle which makes this indicator set its color to its input signal color."
@@ -466,7 +467,7 @@ Building.MediumTank.FlavorDescription,"A Nagy Aszály után a hódok törvénybe
 Building.MediumWarehouse.DisplayName,Közepes raktár,
 Building.MediumWarehouse.FlavorDescription,"A termékek megfelelő tárolása létfontosságú, tekintve a posztapokaliptikus világ összes veszélyét.",
 Building.MemorialToFamily.DisplayName,Családi emlékmű,A large brazier surrounded by statues of a beaver family
-Building.Memory.Description,"Megváltoztatja és tartja az állapotát, válaszul a bejövő jelekre. A fejlett automatizáció alapköve.",
+Building.Memory.Description,"Megváltoztatja és tartja az állapotát válaszul a bejövő jelekre. A fejlett automatizáció alapköve.",
 Building.Memory.DisplayName,Memória,A structure in game which can remember data.
 Building.Memory.Mode.FlipFlop,Élvezérelt kapcsoló,An electronic component mode which flips between zero and one in response to specific input signals. 'Flip-flop' is a popular term in electronics.
 Building.Memory.Mode.FlipFlop.Description,"Elkapja az <YellowHighlight>{0}</YellowHighlight> jelet, amikor a <YellowHighlight>{1}</YellowHighlight> jel bekapcsol.",This describes a mode of an electronic component. {0} and {1} are input names such as A or B but styled like keywords so do not worry about articles. Notice the subtles difference with other modes between 'is on' (meaning something happens for the whole duration when a signal is On) VS 'switches on' (meaning something happens the moment a signal changes from Off to On).
@@ -788,7 +789,7 @@ Building.WaterSource.FlavorDescription,„Legyen mindig folyó a folyód!” —
 Building.WaterWheel.Description,Vízi hajtókerék. Tedd a folyóba és már forog is!,Power is not an electrical but mechanical/kinetic energy.
 Building.WaterWheel.DisplayName,Vízkerék,
 Building.WaterWheel.FlavorDescription,Kazkó bá mesterműve.,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
-Building.WeatherStation.Description,Az időjárásnak megfelelően jelet küld.,
+Building.WeatherStation.Description,Az időjárás alapján küld jelet.,
 Building.WeatherStation.DisplayName,Meteorológiai állomás,A building which checks the current weather condition (does not make forecasts).
 Building.WeatherStation.EarlyActivation,Korábban kapcsoljon be,A label for a checkbox which makes the weather station activate a specified number of hours before the season starts
 Building.WeatherStation.Header,"Aktív, amíg az aktuális időjárás","Header for weather station building settings. After this header, there are checkboxes for each weather type that can be enabled or disabled."
@@ -1015,7 +1016,7 @@ FlexibleStart.Unlocked,Rugalmas kezdés feloldva,Flexible start means that playe
 GameExitPanel.Exit,Kilépés,A button please keep short
 GameExitPanel.Message,"Mielőtt elmész, segíts nekünk jobbá tenni a játékot a visszajelzésed megosztásával!",
 GameExitPanel.ShareFeedback,Mondd el véleményed!,A button please keep short
-GameExitPanel.Title,"Köszönjük, hogy játszottál a Timberborn korai hozzáférésével!",
+GameExitPanel.Title,"Köszönjük, hogy játszottál a Timberbornnal!",
 GameOver.Continue,Még egy utolsó pillantás...,Text on continue button in game over panel
 GameOver.Exit,Kilépés a főmenübe,Text on finish button in game over panel
 GameOver.Header,Vége,Header of the game over panel
@@ -1318,7 +1319,7 @@ MainMenu.SteamUpdateInfoText,"• Új, interaktív térképelemek
 • Frissített kinézet, javított bevezető, épületek másolása
 • Steam teljesítmények","Text shown in the update info panel with the latest update summary. Sensor, Relay, Timer, Spiral Stairs, Gate, Banner and duplication naming must be consistent with the usage of those terms in the rest of the game."
 MainMenu.UpdateInfoHeader,1.0,Header of the update info panel that is shown in the main menu.
-MainMenu.UpdateInfoHeaderExperimental,Update 1.0 – kísérleti verzió,"Header of the update info panel that is shown in the main menu of the experimental version, 1.0 is the current game version number. Keep consistent with MainMenu.UpdateInfoHeader."
+MainMenu.UpdateInfoHeaderExperimental,1.0 – kísérleti verzió,"Header of the update info panel that is shown in the main menu of the experimental version, 1.0 is the current game version number. Keep consistent with MainMenu.UpdateInfoHeader."
 MainMenu.UpdateInfoLink,<u>További információk</u>,Label of the link that opens web browser with the update details webpage.
 MainMenu.UpdateInfoText,"• Új, interaktív térképelemek 
 • Automatizáció: mérőegységek, jelfogók, időzítők, és még sok más
