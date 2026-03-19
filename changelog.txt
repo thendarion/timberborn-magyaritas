@@ -1,2 +1,1 @@
-- apróbb javítások
-- formai javítások
+- javított virágvölgyi-leírás
