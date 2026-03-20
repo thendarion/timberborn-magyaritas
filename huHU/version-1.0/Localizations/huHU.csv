@@ -1513,11 +1513,11 @@ Mouse.ScrollUp,Görgetés ↑,Label of the mouse scroll up input
 NaturalResource.Birch.DisplayName,Bükk,Tree of the genus Betula.
 NaturalResource.Birch.FlavorDescription,"„Kölykök, csak óvatosan a kéreggel! Ha túl sokat hántotok le, megsínyli a fa.” — Nóra nagyi","Peeling stripes of birch bark is oddly satisfying. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 NaturalResource.Blueberry.DisplayName,Áfonya,Plant of the genus Vaccinium
-NaturalResource.Blueberry.FlavorDescription,"„Majd kuncsorogtok az áfonyáért, ha jön az aszály.” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+NaturalResource.Blueberry.FlavorDescription,"„Majd kuncsorogtok az áfonyáért, ha jön az aszály!” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 NaturalResource.Canola.DisplayName,Repce,Should be consistent with Good.CanolaSeeds.DisplayName
 NaturalResource.Canola.FlavorDescription,Az egyetlen Vasfogak által megtűrt virág.,"The Iron Teeth are down-to-earth workers focused on work and work only, they wouldn't care enough to grow flowers - unless it has its practical use, as is the case here."
 NaturalResource.Carrot.DisplayName,Répa,Daucus carota subspecies sativus
-NaturalResource.Carrot.FlavorDescription,"A nyers répa segít a hódoknak kiegyensúlyozni étrendjüket anélkül, hogy feladnák a ropogás örömét.",
+NaturalResource.Carrot.FlavorDescription,"A nyers répa segít a hódoknak kiegyensúlyozni étrendjüket anélkül, hogy feladnák a ropogtatás örömét.",
 NaturalResource.Cassava.DisplayName,Manióka,Should be consistent with Good.Cassava.DisplayName
 NaturalResource.Cassava.FlavorDescription,"Mivel nyersen mérgező, a manióka a Vasfogakat az erjesztés elsajátítására ösztönözte.",Raw cassava and its leaves contain cyanide.
 NaturalResource.Cattail.DisplayName,Gyékény,Plant of a genus Typha
@@ -1527,7 +1527,7 @@ NaturalResource.ChestnutTree.FlavorDescription,„Lépj gesztenyére!” — A h
 NaturalResource.Coffee.DisplayName,Kávébokor,Plant that produces coffee beans.
 NaturalResource.Coffee.FlavorDescription,"Az ősi hódok a babokat rágcsálták az energialökésért, az Vasfogak viszont kifőztek egy jobb tervet.","According to a legend, coffee was discovered thanks to goats eating beans and becoming energectic. Also, ""distilling"" refers to the fact it's a liquid."
 NaturalResource.Corn.DisplayName,Kukorica,Should be consistent with Good.Corn.DisplayName
-NaturalResource.Corn.FlavorDescription,"„Semmi jó nem származik abból, ha a kölykök kukoricásban játszanak.” — Nóra nagyi","""Children of the corn"" reference. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+NaturalResource.Corn.FlavorDescription,"„Semmi jó nem származik abból, ha a kölykök kukoricásban játszanak!” — Nóra nagyi","""Children of the corn"" reference. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 NaturalResource.Dandelion.DisplayName,Pitypang,A flower used as an antidote ingredient. It looks like a yellow flower dandelion. Must be the same as Good.Dandelion.DisplayName
 NaturalResource.Dandelion.FlavorDescription,A hód mesékben a pitypangok dallamos hangjukról híresek.,"In Timberborn's lore, fairy tales feature talking plants (similar to human tales being about talking animals). Also, this references ""The Witcher"" - Dandelion (Jaskier) is a bard. Dandelion must be the same as Good.Dandelion.PluralDisplayName"
 NaturalResource.Eggplant.DisplayName,Padlizsán,Should be consistent with Good.Eggplant.DisplayName
@@ -1541,20 +1541,20 @@ NaturalResource.Maple.DisplayName,Juhar,Tree of the genus Sapindaceae
 NaturalResource.Maple.FlavorDescription,"A megcsapolható juharfák szirupot termelnek, de a magas minőségű faanyag még édesebb jutalom.",
 NaturalResources.Mature,(kifejlett),This is shown under NaturalResource.DisplayName. Fully grown plant.
 NaturalResource.Oak.DisplayName,Tölgy,Common oak tree.
-NaturalResource.Oak.FlavorDescription,A legjobb hód építmények tölgyfa és vas kötésben állnak.,This idiom makes perfect literal sense for the Iron Teeth.
+NaturalResource.Oak.FlavorDescription,A legfejlettebb hód építményekben tölgyfa és vas egységet alkot.,This idiom makes perfect literal sense for the Iron Teeth.
 NaturalResource.Pine.DisplayName,Fenyő,Tree of the genus Pinus
-NaturalResource.Pine.FlavorDescription,"„Figyeld meg, hogyan áll a fenyőfa! Minden egyes tűlevele egy kis 'fenyőcske', ami télen is zöld marad.” — Ismeretlen hód költő","""Pine"" pun, feel free to adapt."
+NaturalResource.Pine.FlavorDescription,"„Nézd, mily csodás a fenyő! Minden egyes tűlevele egy kis 'fenyőcske', mely télen is zöld marad!” — Ismeretlen hód költő","""Pine"" pun, feel free to adapt."
 NaturalResource.Potato.DisplayName,Burgonya,Plant Solanum tuberosum
-NaturalResource.Potato.FlavorDescription,„Van több módja is a krumpli elkészítésének.” — Hód közmondás,
+NaturalResource.Potato.FlavorDescription,„A krumplit bárhogy elkészítheted!” — Hód közmondás,
 NaturalResources.Seedling,(palánta),This is shown under NaturalResource.DisplayName. Not fully grown plant.
 NaturalResource.Soybean.DisplayName,Szójabab,Should be consistent with Good.Soybean.DisplayName
 NaturalResource.Soybean.FlavorDescription,"Kemény és vízálló, a magjai tökéletes játékok a kölyköknek.",
 NaturalResource.Spadderdock.DisplayName,Tavirózsa,Plant Nuphar Lutea
-NaturalResource.Spadderdock.FlavorDescription,A természet leveleket küld a leveleken.,"Spadderdock has heart-shaped leaves, and it can be seen in the game."
+NaturalResource.Spadderdock.FlavorDescription,A természet a levelek formáján keresztül üzen.,"Spadderdock has heart-shaped leaves, and it can be seen in the game."
 NaturalResource.Sunflower.DisplayName,Napraforgó,
 NaturalResource.Sunflower.FlavorDescription,"Hódok ezeket termesztik, hogy megmutassák, nem félnek a tűző naptól.",It's a reference to drought being the main threat in the game.
 NaturalResource.Wheat.DisplayName,Búza,Plant Triticum aestivum
-NaturalResource.Wheat.FlavorDescription,„Megfeledkezel majd a napról az irigy égen / Mikor az arany mezőkön sétálunk.” — Hód ballada,"Adapted from ""Fields of Gold"" by Sting."
+NaturalResource.Wheat.FlavorDescription,„Megfeledkezel majd a napról a felhőtlen égen / Mikor az arany mezőkön sétálunk.” — Hód ballada,"Adapted from ""Fields of Gold"" by Sting."
 NaturalResources.Aquatic,<YellowHighlight>Vízi</YellowHighlight>: ez a növény részben víz alatt kell legyen.,Aquatic is a keyword. Shown after selecting an aquatic plant. Examples of aquatic plants include spadderdock or water lilies.
 NaturalResources.DaysToDie,{0} nap múlva elpusztul,"Shown when natural resource is dying (from any reason), {0} stands for number of days left to die"
 NaturalResources.DiedFromContamination,Szennyeződés miatt pusztult el.,Shown when a plant died after being contaminated for too long. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project. Please keep short.
@@ -1593,7 +1593,7 @@ Needs.Beaver.DeathWarning,A hód hamarosan meghal.,
 Needs.HeatProtection,Védelmet nyújt: {0},"Shown on a tooltip, when need protects from heat effects. {0} stands for heat effect name."
 Needs.InRange,{0} csempén belül,"{0} stands for radius size (area of effect), text is shown after Need.DisplayName to indicate its radius"
 Needs.SatisfiesInRange,Kielégíti a(z) {0} igényt {1} csempén belül,{0} stands for Need.DisplayName {1} stands for radius size (area of effect)
-NewGame.Notification,Vizet és élelmet találtunk! Ez egy új kezdet!,Notification when a new game is started
+NewGame.Notification,Vizet és élelmet találtunk! Új esélyt kaptunk!,Notification when a new game is started
 NewGameConfigurationPanel.Aged,", kor: ","Describing age of beavers, between text fields, example: 'Starting beavers: [20] aged [10]'"
 NewGameConfigurationPanel.BadtideDuration,Rosszvízár időtartama,"Label of a setting, how long badtide season could be. Badtide should be the same as Weather.Badtide"
 NewGameConfigurationPanel.BadtideDurationHandicap,Rosszvízár időtartam csökkentése,"Label of a setting, makes badtide season shorter during a game, example usage: 'Badtide duration handicap: 50%. Badtide should be the same as Weather.Badtide"
@@ -1642,8 +1642,8 @@ NewGameConfigurationPanel.SubHeader,Játékmód,
 NewGameConfigurationPanel.TemperateWeatherDuration,Mérsékelt időjárás időtartama,"Label of a setting, how long temperate weather is during each cycle."
 NewGameConfigurationPanel.To,–,"Describes a range of numbers, example usage: '20 to 50%'"
 NewGameConfigurationPanel.WaterConsumption,Vízfogyasztás,"Label of a setting, how much water beavers consume during a game, for example 'Water consumption: 60%'."
-NewGameFactionPanel.SubHeader,Válassz Frakciót!,
-NewGameMapPanel.SubHeader,Válassz Térképet!,
+NewGameFactionPanel.SubHeader,Válassz frakciót!,
+NewGameMapPanel.SubHeader,Válassz térképet!,
 NewMapPanel.Header,Új térkép létrehozása,
 Planting.NoPriorityOption,Nincs,No resource is prioritized
 Planting.Prioritize,Előnyben részesített növény:,Which resource to prioritize when planting.

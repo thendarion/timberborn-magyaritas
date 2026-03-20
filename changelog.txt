@@ -1,1 +1,4 @@
-- javított virágvölgyi-leírás
+- kis- és nagybetűk javítása
+- központozásjavítás
+- elírásjavítás
+- magyartalanságok javítása
