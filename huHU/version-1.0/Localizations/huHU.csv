@@ -290,7 +290,7 @@ Building.EfficientFarmhouse.DisplayName,Hatékony földművesház,Farmhouse shou
 Building.EfficientFarmhouse.FlavorDescription,"A hatékonyság nagyban függ attól, hogy a hódok esznek-e munkaidőben.",
 Building.EfficientMine.Description,"Bányászokat alkalmaz, akik hulladékvasat termelnek ki a föld alatti romokból. Innovatív kialakítása maximalizálja a bányászat hatékonyságát.","Underground Ruins is a building, same as Building.Underground Ruins.DisplayName"
 Building.EfficientMine.DisplayName,Hatékony bánya,An extracting facility which can be placed on underground ruins.
-Building.EfficientMine.FlavorDescription,A Vasfogúak elszántan kutatják az elfeledett mélységeket. Számukra minden rom értékes nyersanyagforrás.,"Reference to the ""upper hand"" phrase. The mine is built on top of underground human ruins."
+Building.EfficientMine.FlavorDescription,A Vasfogak elszántan kutatják az elfeledett mélységeket. Számukra minden rom értékes nyersanyagforrás.,"Reference to the ""upper hand"" phrase. The mine is built on top of underground human ruins."
 Building.ExercisePlaza.Description,Itt a hódok csoportos gyakorlatokat végezhetnek.,
 Building.ExercisePlaza.DisplayName,Gyakorlótér,
 Building.ExercisePlaza.FlavorDescription,"A Vasfogak szeretnének olyanok lenni, mint teremtményeik - mindig keményebbek, jobbak, gyorsabbak, erősebbek.","Reference to the Daft Punk song ""Harder, Better, Faster, Stronger""."
@@ -754,7 +754,8 @@ Building.TubewayStation.Description,A surranócső-hálózat ki- és bejáratak�
 Building.TubewayStation.DisplayName,Surranóállomás,"Beavers use it to enter Building.Tubeway.DisplayName, so they should be named similarly."
 Building.TubewayStation.FlavorDescription,"Klausztrofóbiás hódok, kérjük, az ösvénynél maradjanak!","Tubeways are very tight corridors, so they wouldn't be accessible for beavers scared of such places."
 Building.Tunnel.DisplayName,Alagút,Tunnel is a type of building that - when built - removes a tile of terrain and creates an underground tunnel
-Building.Tunnel.Description,"Alagutat ás a földbe, kicserélve azt egy állványra. Tipp: a látható réteg eszköz használatával benézhetsz az épületek és a föld alá.","Platform is a building, same as Building.Platform.DisplayName"
+Building.Tunnel.Description,"Alagutat ás a földbe, kicserélve azt egy állványra.
+Tipp: a látható réteg eszköz használatával benézhetsz az épületek és a föld alá.","Platform is a building, same as Building.Platform.DisplayName"
 Building.UndergroundPile.DisplayName,Földalatti halom,"The underground version of a pile, for reference check Building.SmallPile.DisplayName or Building.LargePile.DisplayName"
 Building.UndergroundPile.FlavorDescription,Az ekkora tárolóhely már megéri a sok lépcsőzést.,
 Building.UndergroundRuins.Description,"Kibányászható hulladékvassal teli, rég eltemetett romok.",
