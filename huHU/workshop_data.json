@@ -5,7 +5,7 @@
   "UpdateDescription": true,
   "UpdateVisibility": false,
   "UpdatePreview": false,
-  "UpdateTags": true,
+  "UpdateTags": false,
   "Tags": [
     "Update 1.0",
     "Update 0.7",
