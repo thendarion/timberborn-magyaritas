@@ -946,9 +946,9 @@ Dwelling.NoBeaverCanReach,Egy hód sem érheti el ezt a lakást.,Information tha
 Dwelling.NoUnemployedCanReach,Egy munkanélküli hód sem érheti el ezt a lakást.,Information that this building is unreachable for any unemployed beavers.
 Dwellings.FreeBeds,Szabad ágyak,Label before number of unoccupied beds
 Dwellings.OccupiedBeds,Elfoglalt ágyak,Label before number of occupied beds
-EffectProbability.High,Magas,"Text indicating a high chance of an effect occurring, {0} stands for an effect name (same as Need.Injury.DisplayName). For example: 'High chance of: Injury'"
-EffectProbability.Low,Alacsony,"Text indicating a low chance of an effect occurring, {0} stands for an effect name (same as Need.Injury.DisplayName). For example: 'Low chance of: Injury'"
-EffectProbability.Medium,Közepes,"Text indicating a medium chance of an effect occurring, {0} stands for an effect name (same as Need.Injury.DisplayName). For example: 'Medium chance of: Injury'"
+EffectProbability.High,Magas {0} esély,"Text indicating a high chance of an effect occurring, {0} stands for an effect name (same as Need.Injury.DisplayName). For example: 'High chance of: Injury'"
+EffectProbability.Low,Alacsony {0} esély,"Text indicating a low chance of an effect occurring, {0} stands for an effect name (same as Need.Injury.DisplayName). For example: 'Low chance of: Injury'"
+EffectProbability.Medium,Közepes {0} esély,"Text indicating a medium chance of an effect occurring, {0} stands for an effect name (same as Need.Injury.DisplayName). For example: 'Medium chance of: Injury'"
 Emptying.Empty,Tároló kiürtése,A command for beavers to empty this storage.
 Enterable.DistanceToDistrict,Távolság a Kerületközpontjától: {0},{0} stands for distance to District Center. District Center must be the same as Building.DistrictCenter.DisplayName
 Enterable.DistanceToDistrictLarge,"Fontold meg az ösvények optimalizálását, vagy a kerület kisebb részekre bontását!",
