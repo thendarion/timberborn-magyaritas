@@ -1,3 +1,4 @@
 - új modul: Mod Settings
 - új modul: Minimap
 - új modul: Goods Statistics
+- nyelvi javítások

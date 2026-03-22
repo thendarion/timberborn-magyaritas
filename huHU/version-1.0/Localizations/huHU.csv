@@ -1156,7 +1156,7 @@ GoodConsuming.SupplyRemaining,A készlet {0} óráig tart ki,"{0} stands for hou
 Goods.Amount,Mennyiség,Header of a dropdown that allows to select a good. Please keep short.
 Goods.EatableRaw,Nyersen is ehető.,Shown on a tooltip of goods that can be eaten raw.
 Goods.Nothing,Semmi,
-Goods.StoredIn,Tárolva itt:,Header above a list of buildings that store selected good
+Goods.StoredIn,Itt tárolható:,Header above a list of buildings that store selected good
 GridRendering.Visibility.Hide,Építési rács elrejtése,Shows construction guidelines when button is pressed.
 GridRendering.Visibility.Show,Építési rács megjelenítése,Shows construction guidelines when button is pressed.
 Growing.GrowsWhenMature,Érett korban nő,"Information about fruits and other resources, that grows when plant is mature and not when it is in seedling stage"
