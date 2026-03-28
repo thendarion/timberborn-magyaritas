@@ -91,7 +91,7 @@ Bot.DeadNameSuffix,(megsemmisült),Preceded by bot name and age
 Bot.DeathMessage,{0} széthullott.,{0} stands for bot name. Notification that shows when a bot breaks down completely (it's destroyed)
 Bot.DisplayName.Folktails,{0}.sz. fa robot,{0} stands for a bot serial number. Name of bots from the Folktails faction. Named after the fact they are visibly made from wood.
 Bot.DisplayName.IronTeeth,{0}.sz. vas robot,{0} stands for a bot serial number. Name of bots from the Iron Teeth faction. Named after the fact they are visibly made from metal.
-Bot.Durability,Tartósság,Label before a progress bar showing amount of durability left
+Bot.Durability,Élettartam,Label before a progress bar showing amount of durability left
 Bot.PluralDisplayName,Robotok,"Bots are autonomous robots, who assist beavers in their everyday tasks. They are constructed in factories."
 Bot.TemplateName,Robot,A bot is an animated anthropomorphic being which is created from inanimate matter. Timberborn bots are depicting beavers and are made of wood and metal.
 Breeding.NutrientBringing,"A szállítók, a munkanélküliek, és a munkások (munka után) hozzák a tápanyagokat.","Haulers are the same as in Building.HaulingPost.Description, unemployed as in Beaver.UnemployedPlural, workers as in Work.WorkersLabel"
@@ -104,12 +104,12 @@ Building.AdvancedBreedingPod.DisplayName,Fejlett inkubátor,
 Building.AdvancedBreedingPod.FlavorDescription,"A legenda szerint egy hódkölyök beleesett egy kivonatos tartályba, és másnap már három fát rágott át.","Extract must be the same as Good.Extract.DisplayName, kit is a young beaver."
 Building.Agora.Description,"Egy nagy gyülekezőhely, ahol a hódok komoly fakérdéseket vitathatnak meg.",
 Building.Agora.DisplayName,Agóra,
-Building.Agora.FlavorDescription,„A hódoknak joguk van a szabad véleménynyilvánításhoz!” — Kazkó bá,Folktails must be same as faction as Faction.Folktails.DisplayName.
+Building.Agora.FlavorDescription,„A hódoknak joguk van a szabad véleménynyilvánításhoz!” — Kazkó bá,Folktails must be same as faction as Faction.Folktails.DisplayName.
 Building.AncientAquiferDrill.DisplayName,Ősi víztartó réteg fúró,
 Building.AncientAquiferDrill.FlavorDescription,Az emböröknek az elveszett világ megmentésére tett utolsó erőfeszítése.,
 Building.AquaticFarmhouse.Description,<YellowHighlight>Vízi</YellowHighlight> növények termesztésére szakosodott gazdákat alkalmaz.,"Aquatic is a keyword, must be the same as in NaturalResources.Aquatic."
 Building.AquaticFarmhouse.DisplayName,Vízi földművesház,A farmhouse that specializes in water plants.
-Building.AquaticFarmhouse.FlavorDescription,"„Halat enni?! Dejszen mi hódok volnánk, nem vidrák!” — Nóra nagyi","Beavers eating fish is a common misconception. Beavers are 100% herbivores. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.AquaticFarmhouse.FlavorDescription,"„Halat enni?! Dejszen mi hódok volnánk, nem vidrák!” — Nóra nagyi","Beavers eating fish is a common misconception. Beavers are 100% herbivores. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Aquifer.Description,Földalatti vízforrás,
 Building.Aquifer.DisplayName,Víztartó réteg forrás,
 Building.Aquifer.FlavorDescription,"Nem nehéz megtalálni, hisz olyan hangos.",
@@ -138,7 +138,7 @@ Building.BadwaterSource.DisplayName,Rosszvízforrás,A crack or spring in the gr
 Building.BadwaterSource.FlavorDescription,"„Miért nekünk kell eltakarítani az embörök mocskát? Ja, igen, mert mind halottak.” — Tobzi",
 Building.Bakery.Description,Kenyeret és péksüteményeket süt különböző lisztekből.,Pastry being a baked good.
 Building.Bakery.DisplayName,Pékség,Building that bakes bread
-Building.Bakery.FlavorDescription,"„Nincs is jobb, mint egy forró, faforgáccsal szórt zsemle!” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.Bakery.FlavorDescription,"„Nincs is jobb, mint egy forró, faforgáccsal szórt zsemle!” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Barrack.Description,"Praktikus, közös szállás.",
 Building.Barrack.DisplayName,Laktanya,Barracks are cramped homes for beavers. Not related to soldiers.
 Building.Barrack.FlavorDescription,„Két Virágvölgyi belép egy laktanyába.” — Vasfogak vicc,"Reference to 'walk into a bar' jokes; only Iron Teeth use Barracks, as Folktails prefer different lodges and are less work-focused than Iron Teeth"
@@ -152,10 +152,10 @@ Building.BeaverStatue.FlavorDescription.Folktails,"Látványától büszkeség t
 Building.BeaverStatue.FlavorDescription.IronTeeth,"A sarlót levették, mert túl virágvölgyinek ítélték.",This metal statue depicts a beaver worker with a raised hammer. Hammer and sickle is an emblem of Soviet Russia. Folktails must be same as faction name (Faction.Folktails.DisplayName).
 Building.Beehive.Description,Fokozza a közeli növények növekedését.,
 Building.Beehive.DisplayName,Méhkas,
-Building.Beehive.FlavorDescription,„Idővel megszokja a hód zümmögést.” — Nóra nagyi,"Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.Beehive.FlavorDescription,„Idővel megszokja a hód zümmögést.” — Nóra nagyi,"Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Bell.Description,Hangjával jelzi a munkanap kezdetét és végét.,This is a large metal bell that rings twice a day.
 Building.Bell.DisplayName,Harang,A large metal bell
-Building.Bell.FlavorDescription,„A nap legjobb része a reggeli harangszó!” — Kazkó bá,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.Bell.FlavorDescription,„A nap legjobb része a reggeli harangszó!” — Kazkó bá,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Bench.DisplayName,Pad,
 Building.Bench.FlavorDescription,"Néha akad egy-egy rongáló, aki megeszi a közvagyont.",
 Building.Blockage.Description,"Természetes akadály, mely elállja a víz útját. Elbontható.",Demolished meaning removed by a worker.
@@ -171,10 +171,10 @@ Building.Brazier.Description,Tűz díszes dobozban.,
 Building.Brazier.DisplayName,Parázstartó,
 Building.Brazier.FlavorDescription,„Ez most komolyan lángol. Meg a hangulat is.” — Zsömi,Play on words with lit meaning both lit up and cool. If possible try to adapt the phrase to fit your language. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
 Building.BrazierOfBonding.DisplayName,Az Ősszetartozás Parázstartója,A large brazier surrounded by statues of a beaver family
-Building.BrazierOfBonding.FlavorDescription,"„Ha nem miértünk, akkor a jövő nemzedékeiért.” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.BrazierOfBonding.FlavorDescription,"„Ha nem miértünk, akkor a jövő nemzedékeiért.” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.BreedingPod.Description,A Vasfogak szaporodásának legnépszerűbb (és egyben egyetlen) módja.,Iron Teeth must be the same as the faction name (Faction.IronTeeth.DisplayName).
 Building.BreedingPod.DisplayName,Inkubátor,
-Building.BreedingPod.FlavorDescription,„A kölykök jelentik a jövőt. Tizenkettőt kérek jövő hónapra!” — Kazkó bá,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.BreedingPod.FlavorDescription,„A kölykök jelentik a jövőt. Tizenkettőt kérek jövő hónapra!” — Kazkó bá,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.BuildersHut.Description,További építőket alkalmaz.,
 Building.BuildersHut.DisplayName,Építők kunyhója,
 Building.BuildersHut.FlavorDescription,Hódvára sem egy nap alatt épült. A legenda szerint hat óra elég volt.,Beaverome is a mythical beaver city built by beavers of many different factions who banded together to work on timbertech for the greater good of all beavers.
@@ -186,7 +186,7 @@ Building.Campfire.DisplayName,Tábortűz,
 Building.Campfire.FlavorDescription,Néha a tűz és a fa jó párost alkotnak.,
 Building.Carousel.Description,"Fa körhinta, hódok minden korosztálya számára.",
 Building.Carousel.DisplayName,Körhinta,Alternative name: Merry-Go-Round
-Building.Carousel.FlavorDescription,"„Mit gondolsz, hova mész, kölyök? Ezek a ágak nem fogják lehántolni magukat!” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.Carousel.FlavorDescription,"„Mit gondolsz, hova mész, kölyök? Ezek a ágak nem fogják lehántolni magukat!” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Centrifuge.Description,"Masszív gépezet, amely a veszélyes rosszvizet használható kivonattá alakítja.",Badwater should be the same as Good.Badwater.DisplayName. Extract should be the same as Good.Extract.DisplayName.
 Building.Centrifuge.DisplayName,Centrifuga,
 Building.Centrifuge.FlavorDescription,"Az első centrifuga akkor született, amikor egy virágvölgyi körhinta túlpörgött.","Folktails must be the same as Faction.Folktails.DisplayName, carousel should be the same as Building.Carousel.DisplayName."
@@ -229,7 +229,7 @@ Building.DanceHall.DisplayName,Táncterem,
 Building.DanceHall.FlavorDescription,"„Ne állj ott, mint egy Vasfog a szabadnapján – gyere táncolni!” — Zsömi",Iron Teeth must be the same as Faction.IronTeeth.DisplayName. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
 Building.DecontaminationPod.Description,"Egy gépesített fürdő, amely kivonat használatával megtisztítja a szennyezett hódokat.",Badwater should be the same as Good.Badwater.DisplayName.
 Building.DecontaminationPod.DisplayName,Tisztítófürdő,Ideally the name of the building should refer to the contamination effect on the beaver (Need.BadwaterContamination).
-Building.DecontaminationPod.FlavorDescription,"„Nem, Zsömi, nem ihatsz kivonatot. Beleestél a tartályba még kölyökkorodban!” — Nóra nagyi","Reference to Obelix from Asterix and Obelix falling into a cauldron. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.DecontaminationPod.FlavorDescription,"„Nem, Zsömi, nem ihatsz kivonatot. Beleestél a tartályba még kölyökkorodban!” — Nóra nagyi","Reference to Obelix from Asterix and Obelix falling into a cauldron. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.DecorativeClock.Description,Egy díszes időmérő szerkezet, mely méltóságteljesen mutatja az időt minden hód megelégedésére.,
 Building.DecorativeClock.DisplayName,Díszes óra,
 Building.DecorativeClock.FlavorDescription,"Ki hinné, hogy hajdanán a hódok klepszüdrával mérték az időt?",Clepsydra is an ancient water clock.
@@ -303,7 +303,7 @@ Building.Farmhouse.DisplayName,Földművesház,
 Building.Farmhouse.FlavorDescription,A mezőgazdaság ma is a hódtársadalom egyik pillére.,
 Building.Fermenter.Description,Tápláló élelmiszereket állít elő növényekből erjesztéssel.,Ferments should be the same as in Building.Fermenter.DisplayName
 Building.Fermenter.DisplayName,Erjesztő,A building that ferments plants to make food.
-Building.Fermenter.FlavorDescription,Néhány baleset után korlátozták a fermentációra engedélyezett áruk listáját.,Referrencing fermentation used to produce alcoholic beverages.
+Building.Fermenter.FlavorDescription,Néhány baleset után korlátozták az erjesztésre engedélyezett áruk listáját.,Referrencing fermentation used to produce alcoholic beverages.
 Building.FillValve.Description,"Egyirányú vízkifolyó, szabályozható alsó vízmélységgel.",
 Building.FillValve.DisplayName,Töltőzsilip,A building which works like a valve which opens and closes to maintain the level of water in a reservoir/tank that it fills (refills).
 Building.FillValve.TargetHeight,Célmélység: {0},Label for a slider which sets the desired water depth.
@@ -316,7 +316,7 @@ Building.FireworkLauncher.Heading,Elforgatás: {0},"Label for firework heading v
 Building.FireworkLauncher.IsContinuous,Folyamatos kilövés,Label for a toggle which makes the firework launcher launch fireworks continuously while activated.
 Building.FireworkLauncher.Pitch,Dőlésszög: {0},"Label for firework pitch value."
 Building.FlameOfUnity.DisplayName,Az Egység Lángja,A large beacon held by four beaver statues.
-Building.FlameOfUnity.FlavorDescription,"„Semmi sem kovácsolja úgy össze a csapatot, mint a termelési kvóta.” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.FlameOfUnity.FlavorDescription,"„Semmi sem kovácsolja úgy össze a csapatot, mint a termelési kvóta.” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Floodgate.Description,Állítható magasságban visszatartja a vizet.,
 Building.Floodgate.DisplayName,Zsilip,
 Building.Floodgate.FlavorDescription,"Mindenki azt hitte, a gát a csúcs… amíg Kazkó bá elő nem állt az első zsilippel.",
@@ -354,10 +354,10 @@ Building.GravityBattery.DisplayName,Gravitációs energiatároló,"A battery in 
 Building.GravityBattery.FlavorDescription,"Így néz ki, amikor a hódok saját fizikai törvényeket alkotnak.",Gravity batteries in the real world do not make sense from the physics standpoint.
 Building.GreaseFactory.Description,"Kenőanyagot állít elő kivonatból és repceolajból, hogy fokozza a robotok hatékonyságát.",Bots should be the same as in Bot.TemplateName. Grease should be the same as Good.Grease.DisplayName.
 Building.GreaseFactory.DisplayName,Kenőanyaggyár,Grease should be the same as Good.Grease.DisplayName.
-Building.GreaseFactory.FlavorDescription,„A jó munka olajozottan megy!” — Kazkó bá,"Reference to the song ""Greased Lightning"" from the movie ""Grease"" (1978). Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.GreaseFactory.FlavorDescription,„A jó munka olajozottan megy!” — Kazkó bá,"Reference to the song ""Greased Lightning"" from the movie ""Grease"" (1978). Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Grill.Description,Zöldségeket grillez.,
 Building.Grill.DisplayName,Grill,A place that grills
-Building.Grill.FlavorDescription,"„Rács, vaslap, tepsi, serpenyő – a krumpli mindenhogy működik!” — Nóra nagyi: Az 500 legjobb krumpliétel","Adapted quote from Lord of the Rings paired with a nod to an infamous Soviet-era cookbook ""500 potato dishes"". Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.Grill.FlavorDescription,"„Rács, vaslap, tepsi, serpenyő – a krumpli mindenhogy működik!” — Nóra nagyi: Az 500 legjobb krumpliétel","Adapted quote from Lord of the Rings paired with a nod to an infamous Soviet-era cookbook ""500 potato dishes"". Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Gristmill.Description,Növényeket őröl lisztté.,"Plant matter meaning different parts of plants, such as roots or flowers."
 Building.Gristmill.DisplayName,Őrlőmalom,
 Building.Gristmill.FlavorDescription,A bonyolultabb étrenddel jött a többlépcsős feldolgozás igénye is.,
@@ -431,7 +431,7 @@ Building.LargeWaterPump.DisplayName,Nagy vízszivattyú,A large variant of the n
 Building.LargeWaterPump.FlavorDescription,"A nagy vízszivattyú nemcsak vizet ad – hitet is abban, hogy átvészeljük.","""The Shores of Beaver Bay"" is a song composed by the Timberborn community."
 Building.LargeWaterWheel.Description,"Nagyobb, hatékonyabb vízkerék. Oldalról felfüggesztett.",
 Building.LargeWaterWheel.DisplayName,Nagy vízkerék,A water wheel that's bigger than other versions.
-Building.LargeWaterWheel.FlavorDescription,„Ehhez egy nagyobb kerék kéne.” — Kazkó bá,"Reference to a famous one-liner from ""Jaws"" (""you're gonna need a bigger boat"")"
+Building.LargeWaterWheel.FlavorDescription,„Ehhez egy nagyobb kerék kéne.” — Kazkó bá,"Reference to a famous one-liner from ""Jaws"" (""you're gonna need a bigger boat"")"
 Building.LargeWindTurbine.Description,A nagyobb lapátok több energia előállítását teszik lehetővé.,
 Building.LargeWindTurbine.DisplayName,Nagy szélkerék,Advanced wind turbine that can rotate.
 Building.LargeWindTurbine.FlavorDescription,A legjobb szél a hátszél.,"Tailwind being a wind blowing from behind, a pun since beavers have tails."
@@ -448,7 +448,7 @@ Building.Lido.DisplayName,Strandfürdő,Lido as in a swimming pool. Built on a r
 Building.Lido.FlavorDescription,A kölykök első úszásának megünneplésére a hódok medencés partit rendeznek.,Kits are young beavers.
 Building.Lodge.Description,Ahol a hód lehajthatja fejét.,
 Building.Lodge.DisplayName,Kunyhó,Type of housing; named after the beaver lodges
-Building.Lodge.FlavorDescription,"„Emlékszem, mikor még egy kunyhó az csak egy rakás rönk volt. Ma már van ablak is!” — Nóra nagyi",
+Building.Lodge.FlavorDescription,"„Emlékszem, mikor még egy kunyhó az csak egy rakás rönk volt. Ma már van ablak is!” — Nóra nagyi",
 Building.LumberMill.Description,Deszkákat készít farönkökből.,Planks and Logs are resources so this needs to be consistent with their name
 Building.LumberMill.DisplayName,Fűrészmalom,
 Building.LumberMill.FlavorDescription,"Az idősebb hódok csikorgatták a fogukat, amikor Kazkó bá elhozta a gépesített fafeldolgozást.","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
@@ -461,7 +461,7 @@ Building.MechanicalFluidPump.FlavorDescription,"Inkább a gép emelje át, mint 
 Building.MedicalBed.Description,Sérült hódok gyógyulását szolgáló fekvőhely., 
 Building.MedicalBed.DisplayName,Orvosi ágy,A place where injured beavers come to lie down and rest
 Building.MedicalBed.FlavorDescription,„Ez csak egy karcolás! Visszamehetek dolgozni?” — Tobzi,Monty Python reference.
-Building.MediumRelic.FlavorDescription,"„Néha látni lehet, ahogy ezek leesnek az égből.” — Nóra nagyi","Medium Relic is a crashed satellite. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.MediumRelic.FlavorDescription,"„Néha látni lehet, ahogy ezek leesnek az égből.” — Nóra nagyi","Medium Relic is a crashed satellite. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.MediumTank.DisplayName,Közepes tartály,
 Building.MediumTank.FlavorDescription,"A Nagy Aszály után a hódok törvénybe iktatták, hogy mindig legyen belőlük néhány.",The Great Drought should remain capitalized to indicate it's a name of an event.
 Building.MediumWarehouse.DisplayName,Közepes raktár,
@@ -481,14 +481,14 @@ Building.Memory.Mode.Toggle.Description,"Átbillen, amikor az <YellowHighlight>{
 Building.MetalFence.Description,Dekoratív kerítés vasból készítve.,
 Building.MetalFence.DisplayName,Vas kerítés,
 Building.MetalFence.FlavorDescription,"Vigyázat, vassal dolgozó hódok!","Reference to ""beware the dog"" often written on fences."
-Building.MetalPlatform.FlavorDescription,„Ez kisebbnek tűnt a katalógusban.” — Nóra nagyi,"This platform looks like an enormours metal table, and Ma' Ngnonel is an older beaver. Please keep her name the same as in other localized flavor texts."
+Building.MetalPlatform.FlavorDescription,„Ez kisebbnek tűnt a katalógusban.” — Nóra nagyi,"This platform looks like an enormours metal table, and Ma' Ngnonel is an older beaver. Please keep her name the same as in other localized flavor texts."
 Building.MetalPlatform3x3.Description,"Egy vas állvány, amit egy erős központi oszlop tart.",
 Building.MetalPlatform3x3.DisplayName,Vas állvány 3x3,Numbers at the end denote size X by Y.
 Building.MetalPlatform5x5.Description,"Egy nagy vas állvány, amit egy erős központi oszlop tart fönn.",
 Building.MetalPlatform5x5.DisplayName,Vas állvány 5x5,Numbers at the end denote size X by Y.
 Building.Metalsmith.Description,Egyszerű vas alkatrészeket kovácsol hulladékvasból.,
 Building.Metalsmith.DisplayName,Kovács,
-Building.Metalsmith.FlavorDescription,"""If you want it to last, make it metal. That's one thing hoomans did well."" —Ol' Kazko","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.Metalsmith.FlavorDescription,"„Ha azt akarod, hogy tartós legyen, használj vasat! Ezt az egyet az embörök is tudták.” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Mine.Description,"Bányászokat alkalmaz, akik hulladékvasat termelnek ki a föld alatti romokból.","Underground Ruins is a building, same as Building.Underground Ruins.DisplayName"
 Building.Mine.DisplayName,Bánya,An extracting facility which can be placed on underground ruins.
 Building.Mine.FlavorDescription,"Túl mohón, és túl mélyre ásni? Ugyan már!","The mine provides an endless supply of scrap metal. Reference to 'they delved too greedily and too deep, and disturbed that from which they fled, Durin's Bane' from LOTR"
@@ -497,7 +497,7 @@ Building.MiniLodge.DisplayName,Remetelak,A small lodge for only one beaver
 Building.MiniLodge.FlavorDescription,Néha egyedül is megy.,Referencing 'Two Beavers Are Better Than One' meme-song from 'How I Met Your Mother' TV show.
 Building.Motivatorium.Description,"Gépesített színház, ahol a Vasfog eszmék életre kelnek.",Iron Teeth must be the same as Faction.IronTeeth.DisplayName.
 Building.Motivatorium.DisplayName,Motivatórium,
-Building.Motivatorium.FlavorDescription,"„Együtt dolgozunk, éjjel és nappal – így születik a haladás szépsége!” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.Motivatorium.FlavorDescription,"„Együtt dolgozunk, éjjel és nappal – így születik a haladás szépsége!” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.MudBath.Description,"Iszapfürdő, ipari buborékadagolóval felszerelve.",
 Building.MudBath.DisplayName,Iszapfürdő,"A mud bath infused with bubbles, basically a jacuzzi but that word is too human."
 Building.MudBath.FlavorDescription,Honnan jött ez a sok buborék?,Fart joke but it's easy to see it as bubbles all appear in the middle of the bath where the visitors' tails are directed.
@@ -598,7 +598,7 @@ Building.Relay.Mode.Xor.Description,"<YellowHighlight>Igaz</YellowHighlight>, ha
 Building.Relic.Description,Ősi technológia. Elbontásával a hódok nagyot lépnek előre a tudományban.,
 Building.Relic.DisplayName,Ereklye,Remains of a human structure/device that can be demolished to obtain a certain amount of the Science resource
 Building.ReservePile.DisplayName,Tartalékhalom,
-Building.ReservePile.FlavorDescription,„A régi rönkök a legjobbak! Abban az időben mág máshogy nevelték a fákat!” — Nóra nagyi,"Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+Building.ReservePile.FlavorDescription,„A régi rönkök a legjobbak! Abban az időben mág máshogy nevelték a fákat!” — Nóra nagyi,"Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.ReserveTank.DisplayName,Tartaléktartály,
 Building.ReserveTank.FlavorDescription,"„Igen, le volt zárva. Igen, iható. Csak utánad!” — Zsömi","Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 Building.ReserveWarehouse.DisplayName,Tartalékraktár,
@@ -648,7 +648,7 @@ Building.Sluice.Contamination,Szennyezés: {0},"Level of the water contamination
 Building.Sluice.Description,"Egyirányúsított, automatizált zsilipkapu.",
 Building.Sluice.DisplayName,Zsilipkapu,Also known as a sluice gate. Different than Building.Floodgate.DisplayName.
 Building.Sluice.DownstreamDepth,Alsó vízmélység: {0},{0} stands for chosen downstream depth maintained by the building.
-Building.Sluice.FlavorDescription,"„Zsömi, megint elfelejtetted leereszteni a rosszvizet, igaz?” — Nóra nagyi",Badwater has to be consistent with Good.Badwater.DisplayName
+Building.Sluice.FlavorDescription,"„Zsömi, megint elfelejtetted leereszteni a rosszvizet, igaz?” — Nóra nagyi",Badwater has to be consistent with Good.Badwater.DisplayName
 Building.Sluice.MaximumDepthToggle,{0} alsó vízmélység felett zárjon be,Label of a toggle that enables automation based on the maximum downstream depth of water
 Building.Sluice.Mode.Auto,Automatikus,Label of the toggle that sets the sluice to work in automatic mode
 Building.Sluice.Mode.AutoClosed,Automatikus: Zárva,Label for sluice working in automatic mode and is closed
@@ -661,13 +661,13 @@ Building.SmallIndustrialPile.FlavorDescription,"„Na persze, tettek rá egy tet
 Building.SmallPile.Description,Nagyméretű áru (pl. farönkök) tárolására szolgál.,
 Building.SmallPile.DisplayName,Kis halom,
 Building.SmallPile.FlavorDescription,Egy magára valamit is adó hód nem tesz árut a földre.,
-Building.SmallRelic.FlavorDescription,"„Ne, Tobzi! Ne fordítsd a nap felé!” — Kazkó bá","Small Relic is a telescope. Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.SmallRelic.FlavorDescription,"„Ne, Tobzi! Ne fordítsd a nap felé!” — Kazkó bá","Small Relic is a telescope. Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.SmallTank.Description,Folyadékok tárolására szolgál.,
 Building.SmallTank.DisplayName,Kis tartály,
 Building.SmallTank.FlavorDescription,"Ki a vizet számolja, aszályban is túlél.",
 Building.SmallWarehouse.Description,Áru tárolására szolgál.,
 Building.SmallWarehouse.DisplayName,Kis raktár,
-Building.SmallWarehouse.FlavorDescription,„Hányszor mondjam még el? Dinamit a spájzba nem való!” — Nóra nagyi,
+Building.SmallWarehouse.FlavorDescription,„Hányszor mondjam még el? Dinamit a spájzba nem való!” — Nóra nagyi,
 Building.Smelter.Description,Hulladékvasból vasrudakat önt.,Scrap metal should be the same as Good.ScrapMetal.DisplayName and metal blocks should be the same as Good.MetalBlock.DisplayName
 Building.Smelter.DisplayName,Vaskohó,A facility that uses very high temperature to produce metal blocks from iron ore.
 Building.Smelter.FlavorDescription,Az új hód világ verejték és égett szőr szagú.,
@@ -738,7 +738,7 @@ Building.Timer.Mode.Pulse.Description,"<YellowHighlight>{1}</YellowHighlight> id
 Building.Timer.TimeA,T1,"This must be at most two characters. Label for a time setting in Timer building in which users can enter number of hours or days. It's likely that you want to keep T1 and T2 in many languages because those are internationally used in electronics and schematics."
 Building.Timer.TimeB,T2,"This must be at most two characters. Label for a time setting in Timer building in which users can enter number of hours or days. It's likely that you want to keep T1 and T2 in many languages because those are internationally used in electronics and schematics."
 Building.TributeToIngenuity.DisplayName,Hódolat Az Ügyességnek,Name of a monument
-Building.TributeToIngenuity.FlavorDescription,"„Persze, hogy van célja! Lenyűgöz!” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.TributeToIngenuity.FlavorDescription,"„Persze, hogy van célja! Lenyűgöz!” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.TripleDynamite.DisplayName,Tripla dinamit,Dynamite that makes 3 blocks deep hole
 Building.TripleFloodgate.DisplayName,Tripla zsilip,
 Building.TripleFloodgate.FlavorDescription,"Ha ennél magasabb lenne, már nem tudná megtartani a víz súlyát.",
@@ -800,7 +800,7 @@ Building.Weathervane.FlavorDescription,„Egyszer a testvéreimmel rászereltün
 Building.Weathervane.WindStrength,Szélerősség: {0}%,This tells how strong the wind is in percent between 0 and 100
 Building.WindTunnel.Description,"Minden hódnak szárnyakat ad! Extrém szórakozás, csak itt!",
 Building.WindTunnel.DisplayName,Szélcsatorna,
-Building.WindTunnel.FlavorDescription,"„Hiszem, hogy tudok repülni. Csak ki kell számolni a szökési sebességet.” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.WindTunnel.FlavorDescription,"„Hiszem, hogy tudok repülni. Csak ki kell számolni a szökési sebességet.” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.WindTurbine.Description,A változó szélenergiát hasznosítja.,
 Building.WindTurbine.DisplayName,Szélkerék,
 Building.WindTurbine.FlavorDescription,„Mi csak forgácsok vagyunk a szélben!” — Virágvölgyi dal,"Reference to ""Dust in the Wind"" by Kansas."
@@ -1512,9 +1512,9 @@ Mouse.ScrollLeft,Görgetés ←,Label of the mouse scroll left input
 Mouse.ScrollRight,Görgetés →,Label of the mouse scroll right input
 Mouse.ScrollUp,Görgetés ↑,Label of the mouse scroll up input
 NaturalResource.Birch.DisplayName,Bükk,Tree of the genus Betula.
-NaturalResource.Birch.FlavorDescription,"„Kölykök, csak óvatosan a kéreggel! Ha túl sokat hántotok le, megsínyli a fa.” — Nóra nagyi","Peeling stripes of birch bark is oddly satisfying. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+NaturalResource.Birch.FlavorDescription,"„Kölykök, csak óvatosan a kéreggel! Ha túl sokat hántotok le, megsínyli a fa.” — Nóra nagyi","Peeling stripes of birch bark is oddly satisfying. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 NaturalResource.Blueberry.DisplayName,Áfonya,Plant of the genus Vaccinium
-NaturalResource.Blueberry.FlavorDescription,"„Majd kuncsorogtok az áfonyáért, ha jön az aszály!” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+NaturalResource.Blueberry.FlavorDescription,"„Majd kuncsorogtok az áfonyáért, ha jön az aszály!” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 NaturalResource.Canola.DisplayName,Repce,Should be consistent with Good.CanolaSeeds.DisplayName
 NaturalResource.Canola.FlavorDescription,Az egyetlen Vasfogak által megtűrt virág.,"The Iron Teeth are down-to-earth workers focused on work and work only, they wouldn't care enough to grow flowers - unless it has its practical use, as is the case here."
 NaturalResource.Carrot.DisplayName,Répa,Daucus carota subspecies sativus
@@ -1528,7 +1528,7 @@ NaturalResource.ChestnutTree.FlavorDescription,„Lépj gesztenyére!” — A h
 NaturalResource.Coffee.DisplayName,Kávébokor,Plant that produces coffee beans.
 NaturalResource.Coffee.FlavorDescription,"Az ősi hódok a babokat rágcsálták az energialökésért, az Vasfogak viszont kifőztek egy jobb tervet.","According to a legend, coffee was discovered thanks to goats eating beans and becoming energectic. Also, ""distilling"" refers to the fact it's a liquid."
 NaturalResource.Corn.DisplayName,Kukorica,Should be consistent with Good.Corn.DisplayName
-NaturalResource.Corn.FlavorDescription,"„Semmi jó nem származik abból, ha a kölykök kukoricásban játszanak!” — Nóra nagyi","""Children of the corn"" reference. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
+NaturalResource.Corn.FlavorDescription,"„Semmi jó nem származik abból, ha a kölykök kukoricásban játszanak!” — Nóra nagyi","""Children of the corn"" reference. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 NaturalResource.Dandelion.DisplayName,Pitypang,A flower used as an antidote ingredient. It looks like a yellow flower dandelion. Must be the same as Good.Dandelion.DisplayName
 NaturalResource.Dandelion.FlavorDescription,A hód mesékben a pitypangok dallamos hangjukról híresek.,"In Timberborn's lore, fairy tales feature talking plants (similar to human tales being about talking animals). Also, this references ""The Witcher"" - Dandelion (Jaskier) is a bard. Dandelion must be the same as Good.Dandelion.PluralDisplayName"
 NaturalResource.Eggplant.DisplayName,Padlizsán,Should be consistent with Good.Eggplant.DisplayName

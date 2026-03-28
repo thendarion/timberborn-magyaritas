@@ -1,1 +1,4 @@
 - új modul: More TopBars
+- nyelvi javítások
+- tördelési javítások
+- hiányzó fordítások javítása
