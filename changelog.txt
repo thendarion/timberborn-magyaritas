@@ -1,2 +1,4 @@
 - 1.0.12.7 támogatás
 - nyelvi javítások
+
+megj.: a kísérleti ágon még van egy-két porbléma, reméljük, a fejlesztők hamar megoldják :)
