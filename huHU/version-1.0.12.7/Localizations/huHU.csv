@@ -855,7 +855,9 @@ Camera.StateSaved,Kamerahelyzet mentve,"Notification on top of the window when c
 CancelPlantingTool.Description,"Használd, hogy megszüntesd a telepítési területek megjelölését.",Description of a tool that removes fields.
 CancelPlantingTool.Title,Telepítési terület törlése,Tool that removes fields so the beavers won't plant there.
 Carrying.Carry,Szállít: {0},"Label indicating what good the beaver is carrying. {0} will be either filled with the name of the good along with its current weight and the beaver lifting capacity (consistent with Carrying.Good), or will have Carrying.Nothing set if the beaver is not carrying anything."
-Carrying.Good,{0} ({2} kg-ból {1} kg),"Label used to tell player what good beaver is carrying and how much it weights in comparison to the beaver's strength. {0} stands for Good.DisplayName, {1} stands for carried good weight and {2} stands for a character lifting capacity. Used together with Carrying.Carry."
+Carrying.Good,"{0}
+Teher: {1} kg
+Teherbírás: {2}","Label used to tell player what good beaver is carrying and how much it weights in comparison to the beaver's strength. {0} stands for Good.DisplayName, {1} stands for carried good weight and {2} stands for a character lifting capacity. Used together with Carrying.Carry."
 Carrying.Nothing,semmi,When beaver is carrying nothing.
 Condition.DisplayName,Állapot,"Bot equivalent of wellbeing (how good they are taken care of, how good their mechanical condition is)"
 Console.CloseButton,Bezár,Label of the button that closes the console
@@ -1448,7 +1450,7 @@ Mechanical.Efficiency,Hatékonyság: {0}%,{0} stands for efficiency percentage n
 Mechanical.NetworkPower,A hálózat teljesítménye / terhelése: {0} / {1},{0} stands for supply amount {1} stands for demand amount followed by PowerSymbol
 Mechanical.PowerCapacity,Kapacitás,Stands for battery capacity.
 Mechanical.PowerInput,Teljesítménybemenet: {0},{0} stands for power amount followed by PowerSymbol
-Mechanical.PowerInputMaximum,Teljesítménybemenet / maximum: {0} / {1} ({2}%),{0} stands for input amount {1} stands for maximum amount followed by PowerSymbol {2} stands for efficency ratio in percent
+Mechanical.PowerInputMaximum,Teljesítménybemenet / igény: {0} / {1} ({2}%),{0} stands for input amount {1} stands for maximum amount followed by PowerSymbol {2} stands for efficency ratio in percent
 Mechanical.PowerOutput,Teljesítménykimenet: {0},{0} stands for power amount
 Menu.Continue,Folytatás,A button in main menu which opens the previously played game. Please keep short
 Menu.Credits,Készítők,A button please keep short

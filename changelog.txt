@@ -1,4 +1,7 @@
-- 1.0.12.7 támogatás
 - nyelvi javítások
+- tördelési javítások
+- jobban átlátható információ a szállított árukról
 
-megj.: a kísérleti ágon még van egy-két porbléma, reméljük, a fejlesztők hamar megoldják :)
+megj.: 
+- a kísérleti ágon még van egy-két porbléma, reméljük, a fejlesztők hamar megoldják :)
+- 1.0.12.7 szükséges az új változtatásokhoz
