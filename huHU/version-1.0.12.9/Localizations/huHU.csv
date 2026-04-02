@@ -1595,7 +1595,6 @@ NeedGroup.BasicNeeds.DisplayName,Alapvető szükségletek,"A group of needs whic
 NeedGroup.Boosts.DisplayName,Fokozza,Name of a group containing boosting effects for bots
 NeedGroup.Fun.DisplayName,Szórakozás,"Name of a need group where needs are satisfied by building attractions for the beavers, previously Need.Fun.DisplayName"
 NeedGroup.Happiness.DisplayName,Boldogság,General happiness of the populace
-NeedGroup.Knowledge.DisplayName,Tudás,"Name of a need group where needs are satisfied when beavers learn new stuff, previously Need.Knowledge.DisplayName"
 NeedGroup.Nutrition.DisplayName,Táplálkozás,Same as the need named Nutrition
 NeedGroup.SocialLife.DisplayName,Társas élet,"Name of a need group where needs are satisfied by letting beavers be social and chat with other beavers, previously Need.SocialLife.DisplayName"
 NeedGroup.Temporary.DisplayName,Átmeneti hatások,"Name of a need group containing temporary effects, both positive and negative."

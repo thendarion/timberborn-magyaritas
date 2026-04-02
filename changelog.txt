@@ -1,7 +1,8 @@
 - nyelvi javítások
 - tördelési javítások
 - jobban átlátható információ a szállított árukról
+- az 1.0.12.9-ben jött változtatások lekövetése
+
 
 megj.: 
-- a kísérleti ágon még van egy-két porbléma, reméljük, a fejlesztők hamar megoldják :)
-- 1.0.12.7 szükséges az új változtatásokhoz
+- 1.0.12.9 szükséges az új változtatásokhoz
