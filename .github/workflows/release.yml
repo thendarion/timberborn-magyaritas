@@ -57,7 +57,7 @@ jobs:
       with:
         name: release-artifacts
         path: .
-    - uses: nickelc/upload-to-modio@v2
+    - uses: nickelc/upload-to-modio@v3
       with:
         token: ${{ secrets.MODIO_TOKEN }}
         game: 3659
