@@ -1,8 +1,2 @@
-- nyelvi javítások
-- tördelési javítások
-- jobban átlátható információ a szállított árukról
-- az 1.0.12.9-ben jött változtatások lekövetése
-
-
-megj.: 
-- 1.0.12.9 szükséges az új változtatásokhoz
+- verziószámjavítás
+- a mod.io feltötlés javítása

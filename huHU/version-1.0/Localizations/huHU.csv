@@ -91,12 +91,12 @@ Bot.DeadNameSuffix,(megsemmisült),Preceded by bot name and age
 Bot.DeathMessage,{0} széthullott.,{0} stands for bot name. Notification that shows when a bot breaks down completely (it's destroyed)
 Bot.DisplayName.Folktails,{0}.sz. fa robot,{0} stands for a bot serial number. Name of bots from the Folktails faction. Named after the fact they are visibly made from wood.
 Bot.DisplayName.IronTeeth,{0}.sz. vas robot,{0} stands for a bot serial number. Name of bots from the Iron Teeth faction. Named after the fact they are visibly made from metal.
-Bot.Durability,Élettartam,Label before a progress bar showing amount of durability left
+Bot.Durability,Élettartam: {0},Label before a progress bar showing amount of durability left
 Bot.PluralDisplayName,Robotok,"Bots are autonomous robots, who assist beavers in their everyday tasks. They are constructed in factories."
 Bot.TemplateName,Robot,A bot is an animated anthropomorphic being which is created from inanimate matter. Timberborn bots are depicting beavers and are made of wood and metal.
 Breeding.NutrientBringing,"A szállítók, a munkanélküliek, és a munkások (munka után) hozzák a tápanyagokat.","Haulers are the same as in Building.HaulingPost.Description, unemployed as in Beaver.UnemployedPlural, workers as in Work.WorkersLabel"
 Breeding.NutrientsNeeded,Szükséges tápanyagok:,Followed by a list of nutrients needed to produce a new beaver in breeding facility
-Breeding.Progress,Inkubációs folyamat,Label inside a progress bar describing production progress of new beaver in breeding facility
+Breeding.Progress,Inkubációs folyamat: {0},Label inside a progress bar describing production progress of new beaver in breeding facility
 BuilderPriorityTool.Description,"Használd ezt az eszközt az építési, bontási, valamint a törmelékek begyűjtési prioritásának beállításához.",Rubble should be plural version of RecoveredGoodStack.DisplayName
 BuilderPriorityTool.Tip,"Kattints egy elemre a prioritás beállításához, vagy tartsd lenyomva a gombot egy nagyobb terület kiválasztásához.",
 Building.AdvancedBreedingPod.Description,"Fejlett inkubációs folyamatot alkalmaz felnőtt hódok előállításához, akik azonnal nekivágnak a munkának.",Breeding should be the same as Building.BreedingPod.DisplayName
@@ -252,6 +252,7 @@ Building.Detonator.DisplayName,Detonátor,A building which arms a dynamite.
 Building.DirtExcavator.Description,Nehézgépes bányaberendezés föld kitermelésére. A maximális mélység elérése után is tovább működik.,Dirt must the same as Good.Dirt.DisplayName.
 Building.DirtExcavator.DisplayName,Földkitermelő,"A machine used to gather dirt, leaving a giant hole. Dirt must be the same as Good.Dirt.DisplayName."
 Building.DirtExcavator.FlavorDescription,"Nincs hegy túl magas, nincs völgy túl mély – csak megmunkálandó föld",It's literally not a drill. It's a different kind of mining equipment. ;)
+Building.Discharge.FlavorDescription,"„Arrébb visszük a tavat is, csak legyen elég vödör!” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.DistrictCenter.Description,"Létrehoz egy kerületet saját lakossággal, erőforrásokkal és elszigetelt úthálózattal. Építőket alkalmaz. ",
 Building.DistrictCenter.DisplayName,Kerületközpont,
 Building.DistrictCenter.FlavorDescription.Folktails,"„Kényelem, élelem és kemény fa.”
@@ -260,8 +261,9 @@ Building.DistrictCenter.FlavorDescription.IronTeeth,"„Dolgozz keményen, dolgo
  — A Vasfogak jelszava",The motto must be the same as in Faction.IronTeeth.Description
 Building.DistrictCrossing.Description,Árukat oszt el a két összekötött kerület között. Mindkét oldalon külön munkások hordják-viszik az árukat a Kerülethatár és a kerület többi része között.,Districts should be the same as in Building.DistrictCenter.DisplayName
 Building.DistrictCrossing.DisplayName,Kerülethatár,District should be the same as in Building.DistrictCenter.DisplayName
-Building.DistrictCrossing.FlavorDescription,Miért ment át a hód a kerület határán?,"Referencing ""Why did a chicken cross a road"" jokes"
+Building.DistrictCrossing.FlavorDescription,Miért ment át a hód a kerülethatár másik oldalára?,"Referencing ""Why did a chicken cross a road"" jokes"
 Building.DoubleDynamite.DisplayName,Dupla dinamit,Dynamite that makes 2 blocks deep hole
+Building.DoubleDynamite.FlavorDescription,"Arra az esetre, ha a radikálisnál radikálisabb megoldásra lenne szükség.","References extreme measures mentioned in Building.Dynamite.FlavorDescription. It's part of a set."
 Building.DoubleFloodgate.DisplayName,Dupla zsilip,
 Building.DoubleFloodgate.FlavorDescription,Hogyan lehet tökéletesíteni a tökéleteset? Meg kell magasítani.,
 Building.DoubleLodge.Description,"Több hódot befogadni képes, nagyobb kunyhó.",
@@ -278,7 +280,7 @@ Building.Dynamite.Description,"Felrobbantja az alatta lévő földet, és berobb
 Building.Dynamite.Detonate,Élesít,A button.
 Building.Dynamite.DisplayName,Dinamit,There's a good called Explosives so they need to have different names
 Building.Dynamite.ExplosionDepth,Robbanásmélység: {0},"Explains how deep the dynamite explosion is, {0} stands for the vertical number of blocks"
-Building.Dynamite.FlavorDescription,Az új világ formálásához néha előbb le kell rombolni a régit.,
+Building.Dynamite.FlavorDescription,A posztapokaliptikus világ problémái néha radikális megoldásokért kiáltanak.,
 Building.EarthRecultivator.Folktails.Description,Famagokat szór szét a Földön. Indításkor boldogabbá teszi a közeli hódokat.,
 Building.EarthRecultivator.Folktails.DisplayName,Földújjáélesztő,Earth meaning planet Earth and Recultivator meaning regenerating the planet.
 Building.EarthRecultivator.Folktails.FlavorDescription,Minden elvetett maggal új remény születik.,
@@ -296,6 +298,7 @@ Building.ExercisePlaza.DisplayName,Gyakorlótér,
 Building.ExercisePlaza.FlavorDescription,"A Vasfogak szeretnének olyanok lenni, mint teremtményeik - mindig keményebbek, jobbak, gyorsabbak, erősebbek.","Reference to the Daft Punk song ""Harder, Better, Faster, Stronger""."
 Building.ExplosivesFactory.Description,Robbanóanyagot gyárt rosszvízből.,Explosives and badwater being goods names. Badwater should be the same as Good.Badwater.DisplayName.
 Building.ExplosivesFactory.DisplayName,Robbanóanyaggyár,Explosives is name of a good.Explosives should be the same as Good.Explosives.PluralDisplayName
+Building.ExplosivesFactory.FlavorDescription,"Mintha az nem lett volna elég, hogy az egész település fából épült...",
 Building.FarmerMonument.DisplayName,Földműves Emlékmű,A large statue of a farmer carrying a bundle of wheat.
 Building.FarmerMonument.FlavorDescription,"Megzabolázzuk a pusztaságot, tápláljuk a népet.",
 Building.Farmhouse.Description,"Földműveseket alkalmaz, akik ültetnek és aratnak.",
@@ -478,7 +481,7 @@ Building.Memory.Mode.SetReset,Beállító/törlő kapcsoló,An electronic compon
 Building.Memory.Mode.SetReset.Description,"Elkapja az <YellowHighlight>{0}</YellowHighlight> jelet.", This describes a mode of an electronic component. {0} and {2} are input names such as A or B but styled like keywords so do not worry about articles.
 Building.Memory.Mode.Toggle,Billenőkapcsoló,An electronic component mode which flips state every time it receives a signal. 'Toggle' is a popular term in electronics.
 Building.Memory.Mode.Toggle.Description,"Átbillen, amikor az <YellowHighlight>{0}</YellowHighlight> jel bekapcsol.","This describes a mode of an electronic component. {0} is an input name such as A or B but styled like a keyword so do not worry about articles. Notice the subtles difference with other modes between 'is on' (meaning something happens for the whole duration when a signal is On) VS 'switches on' (meaning something happens the moment a signal changes from Off to On). 'Flips' here means that it inverts its state - from zero to one or from one to zero."
-Building.MetalFence.Description,Dekoratív kerítés vasból készítve.,
+Building.MetalFence.Description,Dekoratív kerítés vasból.,
 Building.MetalFence.DisplayName,Vas kerítés,
 Building.MetalFence.FlavorDescription,"Vigyázat, vassal dolgozó hódok!","Reference to ""beware the dog"" often written on fences."
 Building.MetalPlatform.FlavorDescription,„Ez kisebbnek tűnt a katalógusban.” — Nóra nagyi,"This platform looks like an enormours metal table, and Ma' Ngnonel is an older beaver. Please keep her name the same as in other localized flavor texts."
@@ -603,7 +606,7 @@ Building.ReserveTank.DisplayName,Tartaléktartály,
 Building.ReserveTank.FlavorDescription,"„Igen, le volt zárva. Igen, iható. Csak utánad!” — Zsömi","Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 Building.ReserveWarehouse.DisplayName,Tartalékraktár,
 Building.ReserveWarehouse.FlavorDescription,Régmúlt generációk ajándéka.,
-Building.ResourceCounter.Description,Egy áru aktuális mennyisége vagy raktárai feltöltési sebessége alapján küld jelet.,
+Building.ResourceCounter.Description,A kijelölt áru aktuális mennyisége alapján küld jelet.,
 Building.ResourceCounter.DisplayName,Áruszámláló,
 Building.ResourceCounter.IncludeInputs,A bemeneteket is számolja,Toggle on Resource Counter building - switches between counting available or all goods
 Building.ResourceCounter.MeasurementPercent,Mért érték: {0}%,"Fill rate of choosen good, please keep short."
@@ -735,11 +738,14 @@ Building.Timer.Mode.Oscillator,Oszcillátor,"One of the modes of the Timer, whic
 Building.Timer.Mode.Oscillator.Description,"Folyamatosan ugrál a be és ki állapotok között, amíg <YellowHighlight>{0}</YellowHighlight> be van kapcsolva.",This describes a mode of the Timer. {0} is Automation.Input.InputA but styled like keywords so do not worry about articles. Notice the subtles difference with other modes between 'is on' (meaning something happens for the whole duration when a signal is On) VS 'switches on' (meaning something happens the moment a signal changes from Off to On).
 Building.Timer.Mode.Pulse,Impulzus,"One of the modes of the Timer, which sends an output signal for a certain duration when it receives an input signal."
 Building.Timer.Mode.Pulse.Description,"<YellowHighlight>{1}</YellowHighlight> időegység hosszan bekapcsol, amikor <YellowHighlight>{0}</YellowHighlight> bekapcsol.",This describes a mode of the Timer. {0} is Automation.Input.InputA and {1} is Building.Timer.Time1 but styled like keywords so do not worry about articles. Notice the subtles difference with other modes between 'is on' (meaning something happens for the whole duration when a signal is On) VS 'switches on' (meaning something happens the moment a signal changes from Off to On).
+Building.Timer.Mode.Random,Véletlenszerű,"One of the modes of the Timer, which randomly changes its output to on and off at specified interval."
+Building.Timer.Mode.Random.Description,"<YellowHighlight>{1}</YellowHighlight> időegységenként véletlenszerűen új értéket választ, amíg <YellowHighlight>{0}</YellowHighlight> be van kapcsolva.",This describes a mode of the Timer. {0} is Automation.Input.InputA and {1} is Building.Timer.Time1 but styled like keywords so do not worry about articles. Notice the subtles difference with other modes between 'is on' (meaning something happens for the whole duration when a signal is On) VS 'switches on' (meaning something happens the moment a signal changes from Off to On).
 Building.Timer.TimeA,T1,"This must be at most two characters. Label for a time setting in Timer building in which users can enter number of hours or days. It's likely that you want to keep T1 and T2 in many languages because those are internationally used in electronics and schematics."
 Building.Timer.TimeB,T2,"This must be at most two characters. Label for a time setting in Timer building in which users can enter number of hours or days. It's likely that you want to keep T1 and T2 in many languages because those are internationally used in electronics and schematics."
 Building.TributeToIngenuity.DisplayName,Hódolat Az Ügyességnek,Name of a monument
 Building.TributeToIngenuity.FlavorDescription,"„Persze, hogy van célja! Lenyűgöz!” — Kazkó bá","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.TripleDynamite.DisplayName,Tripla dinamit,Dynamite that makes 3 blocks deep hole
+Building.TripleDynamite.FlavorDescription,"Arra az esetre, ha a radikálisabb radikális megoldás sem lenne elég radikális.","References extreme measures mentioned in Building.Dynamite.FlavorDescription and Building.DoubleDynamite.FlavorDescription. It's part of a set."
 Building.TripleFloodgate.DisplayName,Tripla zsilip,
 Building.TripleFloodgate.FlavorDescription,"Ha ennél magasabb lenne, már nem tudná megtartani a víz súlyát.",
 Building.TripleLodge.Description,Sok hód lakik benne.,Houses thrice the amounts of beavers as normal lodge
@@ -804,7 +810,7 @@ Building.WindTunnel.FlavorDescription,"„Hiszem, hogy tudok repülni. Csak ki k
 Building.WindTurbine.Description,A változó szélenergiát hasznosítja.,
 Building.WindTurbine.DisplayName,Szélkerék,
 Building.WindTurbine.FlavorDescription,„Mi csak forgácsok vagyunk a szélben!” — Virágvölgyi dal,"Reference to ""Dust in the Wind"" by Kansas."
-Building.WoodFence.Description,Dekoratív kerítés fából készítve.,
+Building.WoodFence.Description,Dekoratív kerítés fából.,
 Building.WoodFence.DisplayName,Fa kerítés,
 Building.WoodFence.FlavorDescription,"Mint egy gát, csak nem a víznek, hanem a hódoknak. Hódgát.",
 Building.WoodWorkshop.Description,Gyantával átitatva erősíti a deszkákat.,It produces treated / impregnated planks. The resin used is a pine resin.
@@ -848,7 +854,10 @@ Button.Refresh,Frissítés,Label of a button that refreshes/reloads custom files
 Camera.StateSaved,Kamerahelyzet mentve,"Notification on top of the window when camera state(location, rotation) is saved by player."
 CancelPlantingTool.Description,"Használd, hogy megszüntesd a telepítési területek megjelölését.",Description of a tool that removes fields.
 CancelPlantingTool.Title,Telepítési terület törlése,Tool that removes fields so the beavers won't plant there.
-Carrying.Carry,Szállít: {0} ({2} kg-ból {1} kg),{0} stands for Good.DisplayName {1} stands for carried good weight {2} stands for beaver lifting capacity. Tells player what the beaver is carrying and how much it weighs in comparison to the beaver's strength
+Carrying.Carry,Szállít: {0},"Label indicating what good the beaver is carrying. {0} will be either filled with the name of the good along with its current weight and the beaver lifting capacity (consistent with Carrying.Good), or will have Carrying.Nothing set if the beaver is not carrying anything."
+Carrying.Good,"{0}
+Teher: {1} kg
+Teherbírás: {2}","Label used to tell player what good beaver is carrying and how much it weights in comparison to the beaver's strength. {0} stands for Good.DisplayName, {1} stands for carried good weight and {2} stands for a character lifting capacity. Used together with Carrying.Carry."
 Carrying.Nothing,semmi,When beaver is carrying nothing.
 Condition.DisplayName,Állapot,"Bot equivalent of wellbeing (how good they are taken care of, how good their mechanical condition is)"
 Console.CloseButton,Bezár,Label of the button that closes the console
@@ -1441,7 +1450,7 @@ Mechanical.Efficiency,Hatékonyság: {0}%,{0} stands for efficiency percentage n
 Mechanical.NetworkPower,A hálózat teljesítménye / terhelése: {0} / {1},{0} stands for supply amount {1} stands for demand amount followed by PowerSymbol
 Mechanical.PowerCapacity,Kapacitás,Stands for battery capacity.
 Mechanical.PowerInput,Teljesítménybemenet: {0},{0} stands for power amount followed by PowerSymbol
-Mechanical.PowerInputMaximum,Teljesítménybemenet / maximum: {0} / {1} ({2}%),{0} stands for input amount {1} stands for maximum amount followed by PowerSymbol {2} stands for efficency ratio in percent
+Mechanical.PowerInputMaximum,Teljesítménybemenet / igény: {0} / {1} ({2}%),{0} stands for input amount {1} stands for maximum amount followed by PowerSymbol {2} stands for efficency ratio in percent
 Mechanical.PowerOutput,Teljesítménykimenet: {0},{0} stands for power amount
 Menu.Continue,Folytatás,A button in main menu which opens the previously played game. Please keep short
 Menu.Credits,Készítők,A button please keep short
@@ -1586,7 +1595,6 @@ NeedGroup.BasicNeeds.DisplayName,Alapvető szükségletek,"A group of needs whic
 NeedGroup.Boosts.DisplayName,Fokozza,Name of a group containing boosting effects for bots
 NeedGroup.Fun.DisplayName,Szórakozás,"Name of a need group where needs are satisfied by building attractions for the beavers, previously Need.Fun.DisplayName"
 NeedGroup.Happiness.DisplayName,Boldogság,General happiness of the populace
-NeedGroup.Knowledge.DisplayName,Tudás,"Name of a need group where needs are satisfied when beavers learn new stuff, previously Need.Knowledge.DisplayName"
 NeedGroup.Nutrition.DisplayName,Táplálkozás,Same as the need named Nutrition
 NeedGroup.SocialLife.DisplayName,Társas élet,"Name of a need group where needs are satisfied by letting beavers be social and chat with other beavers, previously Need.SocialLife.DisplayName"
 NeedGroup.Temporary.DisplayName,Átmeneti hatások,"Name of a need group containing temporary effects, both positive and negative."
@@ -1989,7 +1997,9 @@ Később vissza tudod kapcsolni a beállításokban.",
 Tutorial.Droughts,Aszály,"Tutorial title, Droughts refers to Weather.Drought"
 Tutorial.Droughts.Description,"Gratulálunk, a településed túlélte első aszályát! 
 
-Az aszályok az időjárásciklus részei. Az ismétlődő aszályok az idő elteltével súlyosbodnak (egy bizonyos határig).",Drought refers to Weather.Drought
+Az aszályok az időjárásciklus részei. Az ismétlődő aszályok az idő elteltével súlyosbodnak (egy bizonyos határig).
+
+Ha még nem tetted volna, itt az idő felkészülni a következőre egy gát építésével!",Drought refers to Weather.Drought
 Tutorial.Forestry,Erdészet,
 Tutorial.Forestry.Forester,"A hódoknak nyilván stabil faforrásra van szükségük.
 
@@ -2147,6 +2157,10 @@ Tutorial.WorkingHours.SetWorkingHours,"A munkaidő beállítása a település i
 A hosszabb munkanapok gyorsabb előrehaladást jelenthetnek, de a hódoknak szükségük van pihenésre is minden nap. Ne hajszold túl őket túl sokáig!
 
 Egyelőre állítsd kicsit hosszabbra a munkaidőt!","Working hours refers to Work.WorkingHoursTooltip, Starvation refers to Status.Need.Hunger, dehydration refers to Status.Need.Thirst"
+Unit.Compact.Kilo.NumberAndUnit,{0}e,"Number with symbol unit added to denote thousands, {0} is the number, 'k' should be consistent with Unit.Kilo.UnitOnly"
+Unit.Compact.Kilo.UnitOnly,e,"SI symbol for kilo, used in numbers to denote thousands and shorten their display, e.g. 1k = 1000, 2.5k = 2500, etc."
+Unit.Compact.Mega.NumberAndUnit,{0}M,"Number with symbol unit added to denote millions, {0} is the number, 'M' should be consistent with Unit.Mega.UnitOnly"
+Unit.Compact.Mega.UnitOnly,M,"SI symbol for mega, used in numbers to denote millions and shorten their display, e.g. 1M = 1,000,000, 2.5M = 2,500,000, etc."
 Unit.CubicMeterPerSecond.NumberAndUnit,{0} m³/s,Abbreviation for cubic meters per second with numeric value. {0} stands for the number. Should be consistent with Unit.CubicMeterPerSecond.UnitOnly. Please keep very short.
 Unit.CubicMeterPerSecond.UnitOnly,m³/s,Abbreviation for cubic meters per second - standard unit of flow rate/speed. Please keep very short.
 Unit.Day.NumberAndUnit,{0} nap,Abbreviation for day/days with numeric value. {0} stands for the number. Should be consistent with Unit.Day.UnitOnly. Please keep very short.
@@ -2163,8 +2177,12 @@ Unit.HorsePowerPerCubicMeterPerSecond.NumberAndUnit,{0} kW/m³/s,Abbreviation fo
 Unit.HorsePowerPerCubicMeterPerSecond.UnitOnly,kW/m³/s,Abbreviation for horse power per cubic meter per second. It should be consistent with Unit.HorsePower.UnitOnly and Unit.CubicMeterPerSecond.UnitOnly. Please keep very short.
 Unit.Hour.NumberAndUnit,{0} óra,Abbreviation for hour/hours with numeric value. {0} stands for the number. Should be consistent with Unit.Hour.UnitOnly. Please keep very short.
 Unit.Hour.UnitOnly,óra,Abbreviation for hour/hours - standard unit of time. Please keep very short.
+Unit.Kilogram.NumberAndUnit,{0} kg,"Abbreviation for kilogram, {0} is the number, kg is the unit symbol, which should be consistent with Unit.Kilogram.UnitOnly"
+Unit.Kilogram.UnitOnly,kg,Standard unit symbol for kilogram
 Unit.Meter.NumberAndUnit,{0} m,Abbreviation for meters with numeric value. {0} stands for the number. Should be consistent with Unit.Meter.UnitOnly. Please keep very short.
 Unit.Meter.UnitOnly,m,Abbreviation for meters - standard unit of length/distance/depth. Please keep very short.
+Unit.Percent.NumberAndUnit,{0}%,"Number with percent unit added, {0} is the number, % is the unit symbol, which should be consistent with Unit.Percent.UnitOnly"
+Unit.Percent.UnitOnly,%,Standard math unit symbol for percent
 Unit.Tick.NumberAndUnit,{0} órajel,"Short format for time in ticks with numeric value. It should probably be a short form of Building.Timer.IntervalType.Ticks. It should use different letter than the ones used in Unit.Hour.UnitOnly and Unit.Day.UnitOnly to avoid confusion. {0} stands for the number. Please keep very short."
 Unit.Tick.UnitOnly,órajel,"Short format for time in ticks. It should probably be a short form of Building.Timer.IntervalType.Ticks. It should use different letter than the ones used in Unit.Hour.UnitOnly and Unit.Day.UnitOnly to avoid confusion. Please keep very short."
 UnstableCore.ExplosionRadius,Robbanási sugár,Label of a field that allows to set explosion radius of an unstable core.
@@ -2219,8 +2237,9 @@ Work.Incapacitated,Munkaképtelen:,Label before a number of characters unfit for
 Work.MaxDepth,Maximum mélység: {0},"Explains how deep a building can reach, for example how deep it can pump water from. {0} stands for a number. Example usage: 'Depth: 5'"
 Work.MaximumWorkers,Maximum munkások: {0},{0} stands for max number of workers that can work in building.
 Work.PriorityTitle,Munkahely-prioritás,Setting a priority on workplace building
-Work.Productivity,Termelékenység:,How productive a workplace is. Followed by a percentage.
-Work.ProductivityTip,A termelési és az anyagok szállítási idejének aránya.,Tooltip of how productivity works
+Work.Productivity,Termelékenység: {0},"Label stating how productive a workplace is, should be consistent with Work.ProductivityHeader. {0} is the value of productivity,"
+Work.ProductivityHeader,Termelékenység,"Label in a tooltip header describing the productivity of a workplace."
+Work.ProductivityTip,A termeléssel töltött idő és az alapanyagok/temékek szállításával töltott idő aránya.,Tooltip of how productivity works
 Work.Vacant,Üresedés,Denotes an empty workplace slot without a worker.
 Work.VacantPlural,Üresedések,Label before number of vacant work slots
 Work.WorkRefusalWarning,Megtagadja a munkát,Please keep short. A warning inside a tooltip that a beaver or a bot won't work if certain circumstances occur (like beaver is sick or bot is out of power).
