@@ -1347,19 +1347,19 @@ Manufactory.Recipe.EfficientScrapMetal,Hulladékvas (Hatékony),A more efficient
 MapEditor.BlockObjectRandomizePlacement,Forgatás véletlenszerű és irányváltás,Button to randomize the rotation and flip direction of the object being placed in the map editor
 MapEditor.Brush.AbsoluteTerrainHeight,Abszolút terepszint,A tool that changes terrain height to an absolute value.
 MapEditor.Brush.Density,Sűrűség,Density of objects.
-MapEditor.Brush.Direction.Label,Ecset iránya:,
-MapEditor.Brush.Direction.Lower,Csökkent,
-MapEditor.Brush.Direction.Raise,Emel,
-MapEditor.Brush.Height.Label,Ecset magassága:,Either absolute or relative height at which brush will paint.
+MapEditor.Brush.Direction.Label,Irány:,
+MapEditor.Brush.Direction.Lower,Le,
+MapEditor.Brush.Direction.Raise,Fel,
+MapEditor.Brush.Height.Label,Magasság:,Either absolute or relative height at which brush will paint.
 MapEditor.Brush.NaturalResourceRemoval,Természetes erőforrások eltávolítása,Natural resources meaning trees and bushes
 MapEditor.Brush.NaturalResourceSpawning,Természetes erőforrások,Natural resources meaning trees and bushes
 MapEditor.Brush.RandomizeYieldGrowth,Véletlenszerű hozamnövekedés,"This text is next to a toggle that randomizes the percentage growth of fruit, chestnuts or other things that can be gathered and regrow"
 MapEditor.Brush.RelativeTerrainHeight,Relatív terepszint,A tool that changes terrain height by a value relative to the original height.
 MapEditor.Brush.SculptingTerrain,Terepformálás,Label of the brush that allows the player to sculpt the terrain (e.g. dig tunnels or create overhangs)
-MapEditor.Brush.Shape.Label,Ecset forma:,
+MapEditor.Brush.Shape.Label,Forma:,
 MapEditor.Brush.Shape.Round,Kerek,
 MapEditor.Brush.Shape.Square,Négyzetes,
-MapEditor.Brush.Size.Label,Ecset mérete:,
+MapEditor.Brush.Size.Label,Méret:,
 MapEditor.FlowPreview.StartTest,Folyásteszt indítása,Label of a button that starts water flow test in map editor.
 MapEditor.FlowPreview.StopTest,Folyásteszt leállítása,Label of a button that stops water flow test in map editor.
 MapEditor.Layers.NaturalResources,Természeti erőforrások,
