@@ -600,11 +600,11 @@ Building.Relay.Mode.Xor,Kizáró VAGY,A binary logic XOR operation. Only transla
 Building.Relay.Mode.Xor.Description,"<YellowHighlight>Igaz</YellowHighlight>, ha a bejövő jelek közül az egyik, és csak az egyik <YellowHighlight>igaz</YellowHighlight>.",A binary logic XOR operation.
 Building.Relic.Description,Ősi technológia. Elbontásával a hódok nagyot lépnek előre a tudományban.,
 Building.Relic.DisplayName,Ereklye,Remains of a human structure/device that can be demolished to obtain a certain amount of the Science resource
-Building.ReservePile.DisplayName,Tartalékhalom,
+Building.ReservePile.DisplayName,Régi halom,
 Building.ReservePile.FlavorDescription,„A régi rönkök a legjobbak! Abban az időben mág máshogy nevelték a fákat!” — Nóra nagyi,"Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
-Building.ReserveTank.DisplayName,Tartaléktartály,
+Building.ReserveTank.DisplayName,Régi tartály,
 Building.ReserveTank.FlavorDescription,"„Igen, le volt zárva. Igen, iható. Csak utánad!” — Zsömi","Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
-Building.ReserveWarehouse.DisplayName,Tartalékraktár,
+Building.ReserveWarehouse.DisplayName,Régi raktár,
 Building.ReserveWarehouse.FlavorDescription,Régmúlt generációk ajándéka.,
 Building.ResourceCounter.Description,A kijelölt áru aktuális mennyisége alapján küld jelet.,
 Building.ResourceCounter.DisplayName,Áruszámláló,
@@ -691,7 +691,7 @@ Building.SquareBanner.DisplayName,Négyzetes zászló,"Short, standing banner in
 Building.SquareBanner.FlavorDescription,Ne vessz el a részletekben!,
 Building.Stairs.DisplayName,Lépcső,
 Building.Stairs.FlavorDescription,A lépcső feltalálásával a hódok a következő szintre léptek.,
-Building.StartingLocation.DisplayName,Indulási helyszín,
+Building.StartingLocation.DisplayName,Kezdőhely,
 Building.SteamEngine.Description,"Fát éget és vizet forral, hogy kinetikus energiát állítson elő.",
 Building.SteamEngine.DisplayName,Gőzturbina,
 Building.SteamEngine.FlavorDescription,"Bármily kiváló találmány a gőzturbina, a Vasfogakon kívül minden hódfrakcióban ellenszenvet vált ki.","Iron Teeth is one of the playable factions, with the Engine being one of their unique buildings."
@@ -913,7 +913,7 @@ DeletionTool.Description.RecoveredGoodStack,Használd ezt az eszközt törmelék
 DeletionTool.Prompt.Buildings,"Biztos vagy benne, hogy bontani szeretnéd a kijelölt épületeket? Nem lehet visszavonni.",
 DeletionTool.Prompt.Objects,"Biztos vagy benne, hogy törölni szeretnéd a kijelölt objektumokat? Nem lehet visszavonni.",
 DeletionTool.Title.Buildings,Épületek bontása,
-DeletionTool.Title.Objects,Objektumok törlése,
+DeletionTool.Title.Objects,Törlés,
 DeletionTool.Title.RecoveredGoodStack,Törmelék törlése,Rubble should be the same as RecoveredGoodStack.DisplayName
 Demolish.Blocked,A rajta lévő objektumok miatt nem lehet elbontani.,Text of status message when trying to demolish an object (i.e. natural overhang) that has objects or buildings built on top of it preventing demolition.
 Demolish.Cancel,Bontás megszakítása,
@@ -1345,7 +1345,7 @@ Manufactory.Recipe.BiofuelPotato,Bioüzemanyag (Burgonya),Recipe for making Biof
 Manufactory.Recipe.BiofuelSpadderdock,Bioüzemanyag (Tavirózsa),Recipe for making Biofuel out of Spadderdock. Keep consistent with Good.Biofuel.DisplayName and Good.Spadderdock.PluralDisplayName.
 Manufactory.Recipe.EfficientScrapMetal,Hulladékvas (Hatékony),A more efficient way of getting scrap metal using explosives. The metal scrap itself is not more efficient. Scrap Metal is Good.ScrapMetal.PluralDisplayName
 MapEditor.BlockObjectRandomizePlacement,Forgatás véletlenszerű és irányváltás,Button to randomize the rotation and flip direction of the object being placed in the map editor
-MapEditor.Brush.AbsoluteTerrainHeight,Terepmagasság (abszolút),A tool that changes terrain height to an absolute value.
+MapEditor.Brush.AbsoluteTerrainHeight,Abszolút terepszint,A tool that changes terrain height to an absolute value.
 MapEditor.Brush.Density,Sűrűség,Density of objects.
 MapEditor.Brush.Direction.Label,Ecset iránya:,
 MapEditor.Brush.Direction.Lower,Csökkent,
@@ -1354,8 +1354,8 @@ MapEditor.Brush.Height.Label,Ecset magassága:,Either absolute or relative heigh
 MapEditor.Brush.NaturalResourceRemoval,Természetes erőforrások eltávolítása,Natural resources meaning trees and bushes
 MapEditor.Brush.NaturalResourceSpawning,Természetes erőforrások,Natural resources meaning trees and bushes
 MapEditor.Brush.RandomizeYieldGrowth,Véletlenszerű hozamnövekedés,"This text is next to a toggle that randomizes the percentage growth of fruit, chestnuts or other things that can be gathered and regrow"
-MapEditor.Brush.RelativeTerrainHeight,Terep magassága (relatív),A tool that changes terrain height by a value relative to the original height.
-MapEditor.Brush.SculptingTerrain,Terep (formálás),Label of the brush that allows the player to sculpt the terrain (e.g. dig tunnels or create overhangs)
+MapEditor.Brush.RelativeTerrainHeight,Relatív terepszint,A tool that changes terrain height by a value relative to the original height.
+MapEditor.Brush.SculptingTerrain,Terepformálás,Label of the brush that allows the player to sculpt the terrain (e.g. dig tunnels or create overhangs)
 MapEditor.Brush.Shape.Label,Ecset forma:,
 MapEditor.Brush.Shape.Round,Kerek,
 MapEditor.Brush.Shape.Square,Négyzetes,
@@ -1364,8 +1364,8 @@ MapEditor.FlowPreview.StartTest,Folyásteszt indítása,Label of a button that s
 MapEditor.FlowPreview.StopTest,Folyásteszt leállítása,Label of a button that stops water flow test in map editor.
 MapEditor.Layers.NaturalResources,Természeti erőforrások,
 MapEditor.LoadMap.Header,Térkép kiválasztása,
-MapEditor.MapMetadata.Description,Térkép leírása,Label of the map description
-MapEditor.MapMetadata.Title,Térkép adatok,Title of the map data panel in map editor. Currently it only contains the map description field to fill in.
+MapEditor.MapMetadata.Description,A térkép leírása,Label of the map description
+MapEditor.MapMetadata.Title,Leírás,Title of the map data panel in map editor. Currently it only contains the map description field to fill in.
 MapEditor.MapWillBeSaved,A térkép mentésre kerül.,Message that is shown when player clicks on the upload map button in map editor. With Ok/Cancel buttons.
 MapEditor.NewMap,Új térkép,A button please keep short
 MapEditor.NewMap.Create,Létrehozás,A button which confirms new map parameters and starts the map editor
@@ -1385,13 +1385,13 @@ MapEditor.SimulationControls.Tooltip,Vízszimuláció,Short header
 MapEditor.SizePrompt,Adj meg egy méretet {0}x{0} és {1}x{1} között!,{0} and {1} stands for a number
 MapEditor.TerrainIntegrity.Warning,Ez a kijelölten kívüli terepet is befolyásolja.,Warning shown when the player tries to edit terrain in a way that would affect terrain or objects outside the intended selection.
 MapEditor.ThumbnailCapturing.CameraPosition,Kamerahelyzet,Label for the controls in map editor that change the position of the thumbnail camera
-MapEditor.ThumbnailCapturing.ClearOverlay,Add meg a méretet {0}x{0} és {1}x{1} között.,Text on the button in map editor that clears the overlay of the thumbnail
+MapEditor.ThumbnailCapturing.ClearOverlay,Törlés,Text on the button in map editor that clears the overlay of the thumbnail
 MapEditor.ThumbnailCapturing.Description,Válaszd ki a térkép bélyegképének helyzetét. A térkép mentésekor képernyőkép készül.,Description of the map thumbnail panel in the map editor
 MapEditor.ThumbnailCapturing.Overlay,Átfedés:,Label of the controls in map editor that change the overlay of the thumbnail
 MapEditor.ThumbnailCapturing.OverlayTip,"Válassz egy 960x540 pixeles PNG, vagy JPG fájlt! Használd az alfa csatornát az eredeti képpel való átfedés megjelenítéséhez!",Text in the thumbnail overlay selection dialog
 MapEditor.ThumbnailCapturing.Reset,Visszaállítás,Text on the button in map editor that resets the position of thumbnail image of the map to the default
 MapEditor.ThumbnailCapturing.SelectOverlay,Kiválasztás,Text on the button in map editor that changes the overlay of the thumbnail
-MapEditor.ThumbnailCapturing.Title,Térkép bélyegkép,Title of the map thumbnail panel in map editor
+MapEditor.ThumbnailCapturing.Title,Bélyegkép,Title of the map thumbnail panel in map editor
 MapEditor.ThumbnailCapturing.UpdateThumbnail,Frissítés,Text on the button in map editor that changes the position of the thumbnail camera
 MapEditor.Undo,Visszavonás,Label of a button that undoes changes in Map editor.
 MapEditor.UploadMap,Térkép feltöltése,Label of the button that uploads the map to some kind of online service

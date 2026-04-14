@@ -1,1 +1,4 @@
 - nyelvi javítások
+- javítások a térképszerkesztőben
+
+megj.: végre eljutottam a térképszerkesztő átnézéséig, és kijavítottam pár ordas hibát. upsz :D
