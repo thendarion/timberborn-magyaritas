@@ -1,2 +1,1 @@
-- verziószámjavítás
-- a mod.io feltötlés javítása
+- nyelvi javítások

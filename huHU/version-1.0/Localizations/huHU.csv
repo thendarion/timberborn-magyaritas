@@ -141,7 +141,7 @@ Building.Bakery.DisplayName,Pékség,Building that bakes bread
 Building.Bakery.FlavorDescription,"„Nincs is jobb, mint egy forró, faforgáccsal szórt zsemle!” — Nóra nagyi","Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 Building.Barrack.Description,"Praktikus, közös szállás.",
 Building.Barrack.DisplayName,Laktanya,Barracks are cramped homes for beavers. Not related to soldiers.
-Building.Barrack.FlavorDescription,„Két Virágvölgyi belép egy laktanyába.” — Vasfogak vicc,"Reference to 'walk into a bar' jokes; only Iron Teeth use Barracks, as Folktails prefer different lodges and are less work-focused than Iron Teeth"
+Building.Barrack.FlavorDescription,„Két Virágvölgyi belép egy laktanyába.” — Vasfog vicc,"Reference to 'walk into a bar' jokes; only Iron Teeth use Barracks, as Folktails prefer different lodges and are less work-focused than Iron Teeth"
 Building.BeaverBust.Description,Egy fontosnak látszó hód mellszobra.,
 Building.BeaverBust.DisplayName,Hód mellszobor,
 Building.BeaverBust.FlavorDescription,A csínytevő hódkölykök előszeretettel „díszítik” Kazkó bá szobrát.,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization. Kits are young beavers."
@@ -990,7 +990,7 @@ Mottójuk: <i>Dolgozz keményen, dolgozz keményen!</i>",Description of a beaver
 Faction.IronTeeth.DisplayName,Vasfogak,Name of a faction
 Faction.IronTeeth.GameOver.Flavor,"„Néha elég egyetlen apró hibás alkatrész, hogy az egész gép tönkremenjen.”",Flavor text of the game over panel
 Faction.IronTeeth.GameOver.Message,"Vasfogaid települése elbukott, nincs esély a helyreállításra. Ez a vég.",Text of the game over panel
-Faction.IronTeeth.WonderCompletionFlavor,"Úttörőid a pusztaságon át szárnyaltak, hátrahagyva a virágzó Vasfogak-telepet. A Föld újjászületéséhez a hódok frissen szerzett jólétét meg kellett osztani.",Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
+Faction.IronTeeth.WonderCompletionFlavor,"Úttörőid a pusztaságon át szárnyaltak, hátrahagyva a virágzó Vasfog-telepet. A Föld újjászületéséhez a hódok frissen szerzett jólétét meg kellett osztani.",Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
 Faction.IronTeeth.WonderCompletionMessage,"Szép munka! Technológiai tudásoddal kihasználtad a Vasfogak ipari erejét, meghódítottad a térképet, és felépítetted a frakció csodáját.",A message that is shown when the player has mastered a map with the Iron Teeth faction. Mastery means building and activating a Wonder.
 FactionSelection.Header,Frakció kiválasztása,
 FactionSelection.NewFactionUnlocked,Új frakció feloldva:,Followed by the name of a faction in new line
@@ -1403,7 +1403,7 @@ MapMetadata.Cliffside.Description,"Ebben az eldugott völgyben ősi emberi épí
 MapMetadata.Cliffside.Name,Hegyoldal,
 MapMetadata.Craters.Description,"Senki sem tudja, hogyan keletkeztek ezek a kráterek. Az előzetes ásatások azt sugallják, hogy az embörök erőszakos beavatkozása játszhat közre..",
 MapMetadata.Craters.Name,Kráterek,
-MapMetadata.Diorama.Description,"Mielőtt engedélyt kapnának nagy települések felügyeletére, a leendő építészeket kisebb léptékű projektek vezetésével bízzák meg, mint ez.",
+MapMetadata.Diorama.Description,"Mielőtt engedélyt kapnának nagy települések felügyeletére, a leendő építészeket ehhez hasonló, kisebb léptékű projektek vezetésével bízzák meg.",
 MapMetadata.Diorama.Name,Dioráma,
 MapMetadata.HelixMountain.Description,"Bár a hódok szerint ez a folyómeder forma gyakorlatilag használhatatlan, elismerik az emberiség korlátozott víztechnikai képességeit.",
 MapMetadata.HelixMountain.Name,Hélix-hegy,The name of this map refers to the spiral shape of its central mountain.
@@ -1412,7 +1412,7 @@ MapMetadata.Hollows.Name,Üregek,
 MapMetadata.Lakes.Description,"A tavakban és folyókban gazdag vidékek mára ritkaságnak számítanak, de ami még megmaradt, azt bizonyítja, hogy van még remény a Föld számára.",
 MapMetadata.Lakes.Name,Tavak,
 MapMetadata.Meander.Description,"A hódok leleményessége nem ismer határokat, ha a folyó kanyarulatairól van szó – de a kevés hely sok fejtörést okoz nekik.",
-MapMetadata.Meander.Name,Kanyar,
+MapMetadata.Meander.Name,Folyókanyar,
 MapMetadata.MountainRange.Description,A friss víz reményében a hódok még a legmagasabb hegyeket is megmásszák.,
 MapMetadata.MountainRange.Name,Hegylánc,
 MapMetadata.NotUpdatedDescription,<RedHighlight>Ez a térkép még nem kompatibilis az kísérleti ággal!</RedHighlight>,
@@ -1535,7 +1535,7 @@ NaturalResource.Cattail.FlavorDescription,Gyékény: a vízpartok stilizált bor
 NaturalResource.ChestnutTree.DisplayName,Gesztenye,A Aesculus hippocastanum tree
 NaturalResource.ChestnutTree.FlavorDescription,„Lépj gesztenyére!” — A hódok legdurvább sértése,"Reference to a ""Step on a lego"" meme, chestnuts have prickly, spiky husks"
 NaturalResource.Coffee.DisplayName,Kávébokor,Plant that produces coffee beans.
-NaturalResource.Coffee.FlavorDescription,"Az ősi hódok a babokat rágcsálták az energialökésért, az Vasfogak viszont kifőztek egy jobb tervet.","According to a legend, coffee was discovered thanks to goats eating beans and becoming energectic. Also, ""distilling"" refers to the fact it's a liquid."
+NaturalResource.Coffee.FlavorDescription,"Az ősi hódok rágcsálták a babokat az energialökésért, az Vasfogak viszont kifőztek egy jobb tervet.","According to a legend, coffee was discovered thanks to goats eating beans and becoming energectic. Also, ""distilling"" refers to the fact it's a liquid."
 NaturalResource.Corn.DisplayName,Kukorica,Should be consistent with Good.Corn.DisplayName
 NaturalResource.Corn.FlavorDescription,"„Semmi jó nem származik abból, ha a kölykök kukoricásban játszanak!” — Nóra nagyi","""Children of the corn"" reference. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 NaturalResource.Dandelion.DisplayName,Pitypang,A flower used as an antidote ingredient. It looks like a yellow flower dandelion. Must be the same as Good.Dandelion.DisplayName
@@ -1546,7 +1546,7 @@ NaturalResource.Kohlrabi.DisplayName,Karalábé,Should be consistent with Good.K
 NaturalResource.Kohlrabi.FlavorDescription,Papírízű.,"Not a very tasty food, yet consumed raw in large quantities."
 NaturalResources.Leftover,(maradék),This is shown under NaturalResource.DisplayName. Leftover meaning plant that was cut but not yet collected.
 NaturalResource.Mangrove.DisplayName,Mangrove,"A tree that grows in shallow water. This particular name doesn't refer to a specific type, it uses a general name for this group of trees. Produces fruits that can be harvested."
-NaturalResource.Mangrove.FlavorDescription,"Messzi földről érkezett utazók hozták a magokat — olyan vidékekről, ahol sosem szárad ki a folyó.",
+NaturalResource.Mangrove.FlavorDescription,"Messzi földről érkezett utazók hozták a magokat — olyan vidékről, ahol sosem szárad ki a folyó.",
 NaturalResource.Maple.DisplayName,Juhar,Tree of the genus Sapindaceae
 NaturalResource.Maple.FlavorDescription,"A megcsapolható juharfák szirupot termelnek, de a magas minőségű faanyag még édesebb jutalom.",
 NaturalResources.Mature,(kifejlett),This is shown under NaturalResource.DisplayName. Fully grown plant.
@@ -1555,7 +1555,7 @@ NaturalResource.Oak.FlavorDescription,A legfejlettebb hód építményekben töl
 NaturalResource.Pine.DisplayName,Fenyő,Tree of the genus Pinus
 NaturalResource.Pine.FlavorDescription,"„Nézd, mily csodás a fenyő! Minden egyes tűlevele egy kis 'fenyőcske', mely télen is zöld marad!” — Ismeretlen hód költő","""Pine"" pun, feel free to adapt."
 NaturalResource.Potato.DisplayName,Burgonya,Plant Solanum tuberosum
-NaturalResource.Potato.FlavorDescription,„A krumplit bárhogy elkészítheted!” — Hód közmondás,
+NaturalResource.Potato.FlavorDescription,„A krumplit bárhogy elkészítheted!” — Hód közmondás,
 NaturalResources.Seedling,(palánta),This is shown under NaturalResource.DisplayName. Not fully grown plant.
 NaturalResource.Soybean.DisplayName,Szójabab,Should be consistent with Good.Soybean.DisplayName
 NaturalResource.Soybean.FlavorDescription,"Kemény és vízálló, a magjai tökéletes játékok a kölyköknek.",
