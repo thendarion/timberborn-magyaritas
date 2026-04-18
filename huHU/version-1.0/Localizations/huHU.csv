@@ -1961,7 +1961,7 @@ TreeCuttingUnselectionTool.Title,Fakivágási kijelölés visszavonása,
 Tutorial.Badtides,Rosszvízár,"Tutorial title, Badtides refers to Weather.Badtide"
 Tutorial.Badtides.Description,"Gratulálunk, a településed túlélte első rosszvízárját!
 
-Az időjárásciklusokban mindig jön egy aszáj vagy egy rosszvízár.
+Az időjárásciklusokban a mérsékelt időjárást mindig aszály vagy rosszvízár követi.
 
 Vigyázz, a következő rosszvízár súlyosabb lesz!",Badtide refers to Weather.Badtide
 Tutorial.Basics,Alapok,Header of the tutorial section that covers the basic concepts
@@ -1990,7 +1990,7 @@ Tutorial.Dams,Gátak,"Tutorial title, Dams refers to Building.Dam.DisplayName"
 Tutorial.Dams.BuildDam,"A tartályokban tárolt víz megmenti a hódokat a kiszáradástól, de hosszú távon a vízfolyás megzabolázása a túlélés záloga.
 
 Építs gátakat a legközelebbi folyóba, parttól partig, és figyeld, mi történik!",Dam refers to Building.Dam.DisplayName
-Tutorial.DecreaseWorkplacePriority,Csökkentsd a prioritást a(z) {0}-ban/ben!,{0} stands for building name
+Tutorial.DecreaseWorkplacePriority,Csökkentsd a prioritást a {0}ban!,{0} stands for building name
 Tutorial.Disable,Útmutató kikapcsolása,
 Tutorial.DisablePrompt,"Biztosan ki akarod kapcsolni az útmutatót?
 Később vissza tudod kapcsolni a beállításokban.",
@@ -2017,19 +2017,19 @@ Ezt a problémát a szállítók oldhatják meg, akik a körzetük teljes terül
 Próbáld ki!",Hauling Post refers to Building.HaulingPost.DisplayName
 Tutorial.HaulersAndWorkforce.ChangeWorkforce,"Néhány munkahely, mint például a szállító állomás, nem indulnak teljes kapacitáson. Beállíthatod a munkások számát igényeid szerint az épület ablakában.
 
-A munkások eloosztásának további finomhangolására ad lehetőséget a munkahelyi prioritások beállítása. A szállító állomás példának okáért általában alacsonyabb prioritásra állítható.
+A munkások eloosztásának további finomhangolására ad lehetőséget a munkahelyi prioritások beállítása. A szállító állomás például általában alacsonyabb prioritásra állítható.
 
 Próbáld ki!",
 Tutorial.HaulersAndWorkforce.PauseHaulingPost,"Szüneteltetheted az építkezést, vagy az épületek működését, irányítva a hódok tevékenységét.
 
-Példának okáért, a leállított munkahelyek automatikusan kiürülnek, és a felszabadult munkások más elérhető munkahely után néznek.
+A leállított munkahelyek automatikusan kiürülnek, és a felszabadult munkások más elérhető munkahely után néznek.
 
-Jelöld ki a szállító állomást, és klikkelj a Szünet gombra az ablakában, hogy leállítsd!",Hauling Post refers to Building.HaulingPost.DisplayName
+Jelöld ki a szállító állomást, és az ablakában a Szünet gombbra kattintva állítsd le!",Hauling Post refers to Building.HaulingPost.DisplayName
 Tutorial.Housing,Lakhatás,"Tutorial title, housing should be the same as ToolGroups.Housing"
 Tutorial.Housing.Lodges,"Két hód jobb, mint egy hód! A házak növelik a hódok jóllétét, és utat nyitnak a virágvölgyiek szaporodásának.
 
 A hódok automatikusan elfoglalják az üres ágyakat.",Folktails is the same as faction as Faction.Folktails.DisplayName
-Tutorial.IncreaseDesiredWorkers,Növeld a kívánt munkások számát! {0},{0} stands for building name
+Tutorial.IncreaseDesiredWorkers,Növeld a kívánt munkások számát a {0}ban! ,{0} stands for building name
 Tutorial.Introduction.Description,"Üdv a Timberborn világában!
 Ez az útmutató segít, hogy betedd tappancsod a pusztaságba, és túléld az első napokat. 
 
@@ -2053,7 +2053,7 @@ Tutorial.MarkTrees,Jelöld ki a fákat vágásra.,
 Tutorial.MoreBeavers,Hódszaporítás,Tutorial title
 Tutorial.MoreBeavers.BeaverBirth,Legyen egy új kölyköd!,If there's no special name for beaver children in your language use 'have a child'.
 Tutorial.MoreBeavers.GrowPopulation,"A hódok nem szaporodnak, hacsak nincs a házakban elérhető üres ágy. A virágvölgyieknek két felnőttre és egy szabad helyre van szükségük, hogy megtörténjék a varázs.","The Tip is optional if there's no special name for beaver children in your language. If that's the case, remove this part."
-Tutorial.PauseBuilding,Állítsd le a(z) {0}-t!,{0} stands for building name
+Tutorial.PauseBuilding,Állítsd le a {0}t!,{0} stands for building name
 Tutorial.PlaceBuilding,Helyezd el: {0} ({1}/{2}),"{0} stands for building name {1} stands for number of built buildings {2} stands for number of buildings to build. This is used in a goal description with the verb in active voice, for example 'Place: Warehouse (0/5)'."
 Tutorial.PowerAndPlanks,Meghajtás és deszkák,
 Tutorial.PowerAndPlanks.LumberMill,"Itt az idő deszkákat gyártani!
@@ -2088,7 +2088,7 @@ Tutorial.Storage.Warehouses,"Végül készítsünk tárolóhelyet az áfonyabogy
 
 A hódok az élelmet a többi dobozolt áruhoz hasonlóan raktárakban tárolják.","Berries is the same as Good.Berries.PluralDisplayName, Carrot is the same as in Good.Carrot.DisplayName"
 Tutorial.Tutorial,Bevezető,
-Tutorial.UnpauseBuilding,Indítsd el a(z) {0}-t!,{0} stands for building name
+Tutorial.UnpauseBuilding,Indítsd el a {0}t!,{0} stands for building name
 Tutorial.VerticalArchitecture,Függőleges építkezés,Tutorial title
 Tutorial.VerticalArchitecture.BuildRooftopTerrace,"A pusztaságban fontos a helykihasználás. A hódok ezt úgy érik el, hogy városaikat felfelé építik.
 
@@ -2117,25 +2117,27 @@ Tutorial.WaterAndFood.WaterPump,"A hódoknak vízre van szükségük a túlélé
 Tutorial.Wellbeing,Jóllét,
 Tutorial.Wellbeing.Beaver,"Tetteid befolyásolják hódjaid életét.
 
-Kattints egy hódra és jelöld ki! A felugró ablakban láthatod a hód aktuális jólléti értékeit, tulajdonságait, és szükségleteit.
+Kattints egy hódra, hogy kijelöld! A felugró ablakban láthatod a hód aktuális jólléti értékeit, tulajdonságait, és szükségleteit.
 
-Néhány szükséglet negatív értékeket is felvehet, ami negatívan befolyásolja a hód tulajdonságait, és extrém esetben a hód halálát is okozhatja.",Well-being is the same as Wellbeing.DisplayName
+Néhány szükséglet negatív értéket is felvehet, ami lerontja a hód tulajdonságait, rossz esetben pedig a hód halálát is okozhatja (pl. éhség).",Well-being is the same as Wellbeing.DisplayName
 Tutorial.Wellbeing.Campfire,"A jóllét egy mérőszám, ami azt mutatja meg, mennyire boldog az adott hód. Három tulajdonságra van kihatással: a munkavégzési sebességre, a mozgási sebességre, és a várható élettartamra.
 
 A hódok jólléte biztosításának egyik fő módja a szórakoztatás. A szórakozóhelyek olyan épületek, amiket a hódok munkaidőn kívül látogatnak.","Well-being is the same as Wellbeing.DisplayName, working speed is the same Bonus.WorkingSpeed, movement speed is the same as Bonus.MovementSpeed, lifespan refers to Bonus.LifeExpectancy"
 Tutorial.Wellbeing.OpenWellbeingPanel,Nyisd meg a jóllét ablakot!,Keep similar to KeyBinding.OpenWellbeingPanel
-Tutorial.Wellbeing.SelectBeaver,Jelölj ki egy hódot és nézd meg a szükségleteit!,
+Tutorial.Wellbeing.SelectBeaver,"Jelölj ki egy hódot, és nézd meg a szükségleteit!",
 Tutorial.Wellbeing.SetWorkingHours,"Ne feledd, hogy a hódoknak szükségük van időre, hogy egyenek, igyanak, aludjanak, és éljenek a szórakozási lehetőségekkel a településeden.
 
 A termelés optimalizálásához egyensúlyt kell találnod a hódok jólléte és munkával töltött ideje közt.
 
 Egyelőre állítsd vissza a kezdeti munkaidőt!",Working hours refers to Work.WorkingHoursTooltip
-Tutorial.Wellbeing.Shrub,"A jóllét szintén növekszik dekorációk szomszédságában. A hódok nem látogatják őket szándékosan, ezért olyan helyek mellé építsd őket, amiket a telepesek sokszor látogatnak!
+Tutorial.Wellbeing.Shrub,"A jóllét szintén növekszik dekorációk szomszédságában. A hódok nem keresik fel őket szándékosan, ezért olyan helyek mellé építsd őket, amiket a telepesek sokszor látogatnak!
 
 A legegyszerűbb dekoráció a cserje. A hódok minden zöldséget értékelnek!","Well-being is the same as Wellbeing.DisplayName, Shrub is the same as Building.Shrub.DisplayName"
 Tutorial.Wellbeing.WellbeingPanel,"A hódok számára a közösség az első. A település átlagos jóllétét a képernyő bal felső sarkában láthatod.
 
-Kattints rá, hogy lásd az összes szükséglet aktuális állapotát! Sokféleképpen teheted elviselhetőbbé hódjaid életét a pusztaságban.",Well-being is the same as Wellbeing.DisplayName
+Kattints rá, hogy lásd az összes szükséglet aktuális állapotát!
+
+Sokféleképpen teheted elviselhetőbbé hódjaid életét a pusztaságban.",Well-being is the same as Wellbeing.DisplayName
 Tutorial.Wood,Fa,
 Tutorial.Wood.ConnectLumberjacks,"Minden épületnek, aminek bejárata van, csatlakoznia kell úttal egy kerületközponthoz. Mikor kijelölsz egy épületet, a bejáratot nyíl jelöli.
 
