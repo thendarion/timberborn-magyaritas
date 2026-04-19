@@ -963,7 +963,7 @@ Enterable.DistanceToDistrict,Távolság a Kerületközpontjától: {0},{0} stand
 Enterable.DistanceToDistrictLarge,"Fontold meg az ösvények optimalizálását, vagy a kerület kisebb részekre bontását!",
 EntityPanel.ChangeName,Új név:,Shown when renaming a beaver or a district
 EntityPanel.Close,Bezárás,Tooltip for close button on entity panel
-EntityPanel.Customize,Egyéni,Tooltip over a button in entity panel which opens color customization
+EntityPanel.Customize,Egyéni szín,Tooltip over a button in entity panel which opens color customization
 EntityPanel.Focus,Fókuszálás,Tooltip over follow/focus button on entity panel
 EntityPanel.Hide,Leírás elrejtése,Tooltip for a button which hides description
 EntityPanel.Rename,Átnevezés,Common tooltip text for rename beaver / rename district

@@ -1,1 +1,2 @@
 - nyelvi javítások a bevezető útmutatóban
+- világosabb egyéni szín gomb név
