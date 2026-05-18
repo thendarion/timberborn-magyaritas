@@ -2255,9 +2255,9 @@ Work.WorkplaceUnlock.Tooltip,Oldd fel ezt a munkahelyet robotok számára.,Shown
 Zipline.AddConnection,Csatlakoztatás,Tooltip text for button with plus icon adding a connection between two zipline towers or stations.
 Zipline.BlockedWarning,Blokkolt pálya!,Error message when zipline path is obstructed
 Zipline.Connections,Csatlakozások:,A header above icon representation of connections between zipline towers or stations.
-Zipline.Distance,{0}m / {1}m,"The distance between the start and end of a zipline cable. {0} is the current distance, {1} is the maximum allowed distance. 'm' stands for meters"
+Zipline.Distance,{0} / {1},"The distance between the start and end of a zipline cable. {0} is the current distance, {1} is the maximum allowed distance. 'm' stands for meters"
 Zipline.DistanceWarning,Túl messze van!,Error message when the distance is too far
-Zipline.Inclination,{0}° / {1}°,"The inclination of the zipline cable. {0} is the current inclination, {1} is the maximum allowed inclination"
+Zipline.Inclination,{0} / {1},"The inclination of the zipline cable. {0} is the current inclination, {1} is the maximum allowed inclination"
 Zipline.InclinationWarning,Túl meredek!,Error message when the inclination is too steep
 Zipline.PickDestination,Jelöld ki a célt a csatlakoztatáshoz!,"Information provided when creating a connection between two zipline towers or stations, when user needs to click a second one to create the connection."
 Zipline.RemoveConnection,Lecsatlakoztatás,Tooltip text for button with x icon removing a connection between two zipline towers or stations.

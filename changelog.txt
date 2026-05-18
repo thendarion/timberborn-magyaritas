@@ -1,2 +1,1 @@
-- nyelvi javítások a bevezető útmutatóban
-- világosabb egyéni szín gomb név
+- javítás: a kötélpálya távolságok és szintkülönbségek mértékegységei már nem duplán jelennek meg
