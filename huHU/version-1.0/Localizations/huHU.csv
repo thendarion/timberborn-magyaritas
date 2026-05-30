@@ -696,7 +696,7 @@ Building.SteamEngine.Description,"Fát éget és vizet forral, hogy kinetikus en
 Building.SteamEngine.DisplayName,Gőzturbina,
 Building.SteamEngine.FlavorDescription,"Bármily kiváló találmány a gőzturbina, a Vasfogakon kívül minden hódfrakcióban ellenszenvet vált ki.","Iron Teeth is one of the playable factions, with the Engine being one of their unique buildings."
 Building.StreamGauge.Contamination,Szennyeződés: {0},"Level of the water contamination, {0} stands for contamination level in percent. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project."
-Building.StreamGauge.Current,Vízhozam: {0} m³/s,"Intensity of the water current, {0} stands for current speed in cubic metre per second"
+Building.StreamGauge.Current,Vízhozam: {0},"Intensity of the water current, {0} stands for current speed in cubic metre per second"
 Building.StreamGauge.Depth,Mélység: {0},"Level of the water depth, {0} stands for this value in meters"
 Building.StreamGauge.Description,"Méri a vízmélységet, az áramlási sebességet, és a rosszvízszennyezést.",Badwater should be the same as Good.Badwater.DisplayName.
 Building.StreamGauge.DisplayName,Folyami mérce,

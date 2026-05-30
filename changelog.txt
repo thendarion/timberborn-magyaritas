@@ -1,1 +1,1 @@
-- javítás: a kötélpálya távolságok és szintkülönbségek mértékegységei már nem duplán jelennek meg
+- javítás: a folyami mérce vízhozammérő mértékegysége már nem duplán jelenik meg
