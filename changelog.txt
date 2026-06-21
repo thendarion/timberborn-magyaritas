@@ -1,1 +1,3 @@
-- javítás: a folyami mérce vízhozammérő mértékegysége már nem duplán jelenik meg
+- 1.1 támogatás
+- nyelvi javítások
+- hiányzó szövegek javítása

@@ -1,0 +1,16 @@
+ID,Text,Comment
+ToolGroups.Tunneling,Alagutak,Buildings that allow to dig through terrain
+Building.VerticalTubewayTunnel.Description,"Alagutat ás a földbe, kicserélve azt egy stabil surranócsőre.",
+Building.VerticalTubewayTunnel.DisplayName,Stabil surranócsöves alagút,
+Building.VerticalPowerShaftTunnel.Description,"Alagutat ás a földbe, kicserélve azt egy stabil hajtótengelyre.",
+Building.VerticalPowerShaftTunnel.DisplayName,Stabil hajtótengelyes alagút,
+Building.PathTunnel.Description,"Alagutat ás a földbe, kicserélve azt egy ösvényre.",
+Building.PathTunnel.DisplayName,Ösvényes alagút,
+Building.PathPlatformTunnel.Description,"Alagutat ás a földbe, kicserélve azt egy ösvényre és egy állványra.",
+Building.PathPlatformTunnel.DisplayName,"Ösvényes, állványos alagút",
+Building.TubewayPlatformTunnel.Description,"Alagutat ás a földbe, kicserélve azt egy surranócsőre és egy állványra.",
+Building.TubewayPlatformTunnel.DisplayName,"Surranócsöves, állványos alagút",
+Building.PowerShaftPlatformTunnel.Description,"Alagutat ás a földbe, kicserélve azt egy hajtótengelyre és egy állványra.",
+Building.PowerShaftPlatformTunnel.DisplayName,"Hajtótengelyes, állványos alagút",
+Building.LadderformTunnel.Description,"Alagutat ás a földbe, kicserélve azt egy létrára.",
+Building.LadderformTunnel.DisplayName,Létrás alagút,

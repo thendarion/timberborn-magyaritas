@@ -1,0 +1,6 @@
+ID,Text,Comment
+ModSettingsBox.GameNotChangeable,Nem lehet játék közben változtatni.,Shown as a tooltip over the mod settings that can't be changed during the game
+ModSettingsBox.MainMenuNotChangeable,Nem lehet a főmenüben változtatni.,"Same as above, but for the main menu"
+ModSettingsBox.MapEditorNotChangeable,Nem lehet a térképszerkesztőben változtatni.,"Same as above, but for the map editor"
+ModSettingsBox.ResetMessage,Visszaállítod az alapértelmezett beállításokat?,
+ModSettingsBox.ResetToDefault,Visszaállítás,

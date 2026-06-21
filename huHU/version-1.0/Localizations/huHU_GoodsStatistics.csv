@@ -1,5 +1,5 @@
 ID,Text,Comment
-eMka.GoodStatistics.BatchControlKeyBinding,A készletstatisztika fül megnyitása,KeyBinding label
+eMka.GoodStatistics.BatchControlKeyBinding,Készletstatisztika ablak,KeyBinding label
 eMka.GoodStatistics.BatchControlTabName,Készletstatisztika,Name of the tab in settlement panel
 eMka.GoodStatistics.DepletionDaysLeft,{0}ig tart még ki a készlet (becslés),"{0} stands for formatted Time.DaysShort, e.g. ""1d"" for 1 day"
 eMka.GoodStatistics.GoodSampleTime,Mintavétel {0}val ezelőtt,"{0} stands for formatted Time.HoursShort, e.g. ""1h"" for 1 hour"

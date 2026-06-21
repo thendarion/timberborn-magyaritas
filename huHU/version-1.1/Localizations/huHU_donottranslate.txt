@@ -1,0 +1,2 @@
+ID,Text,Comment
+Settings.Language.Name,magyar (Hungarian),"Translated language name with additional language name in english in brackets, ie. polski (Polish) or français (French)"
