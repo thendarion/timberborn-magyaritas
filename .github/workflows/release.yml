@@ -81,7 +81,7 @@ jobs:
       run: |
         {
           echo 'CHANGELOG<<__EOF__'
-          cat changelog.txt
+          sed -e '$a\' -- changelog.txt
           echo '__EOF__'
         } >> "$GITHUB_ENV"
     - uses: m00nl1ght-dev/steam-workshop-deploy@v4
