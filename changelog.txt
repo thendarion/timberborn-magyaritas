@@ -1,3 +1,1 @@
-- 1.1 támogatás
-- nyelvi javítások
-- hiányzó szövegek javítása
+- hiányzó 1.1 szövegek pótlása

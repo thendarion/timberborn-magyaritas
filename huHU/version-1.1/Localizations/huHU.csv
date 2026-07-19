@@ -131,6 +131,7 @@ Building.Agora.DisplayName,Agóra,
 Building.Agora.FlavorDescription,„A hódoknak joguk van a szabad véleménynyilvánításhoz!” — Kazkó bá,Folktails must be same as faction as Faction.Folktails.DisplayName.
 Building.Airlock.Description,"Nem vízáteresztő, ellenben hódáteresztő.",
 Building.Airlock.DisplayName,Légzsilip,
+Building.Airlock.FlavorDescription,"A szomszéd rét néha zöldebb.","A wordplay on 'The grass is greener on the other side.'"
 Building.AncientAquiferDrill.DisplayName,Ősi víztartó réteg fúró,
 Building.AncientAquiferDrill.FlavorDescription,Az emböröknek az elveszett világ megmentésére tett utolsó erőfeszítése.,
 Building.AquaticFarmhouse.Description,<YellowHighlight>Vízi</YellowHighlight> növények termesztésére szakosodott gazdákat alkalmaz.,"Aquatic is a keyword, must be the same as in NaturalResources.Aquatic."
@@ -143,6 +144,7 @@ Building.AquiferDrill.Description,Vizet nyer ki a víztartó rétegből. Víztar
 Building.AquiferDrill.DisplayName,Víztartó réteg fúró,
 Building.AquiferDrill.FlavorDescription,A legtöbb hód épület a vizet visszatartani hivatott. Ez nem.,
 Building.ArchOfProgress.DisplayName,A Haladás Diadalíve,"A big arch, similar to classic victory arches, decorated with Iron Teeth workers that serves as a symbol of their drive to progress beaver society."
+Building.ArchOfProgress.FlavorDescription,"Egy mondatot kapartak az oldalába: „Jöttem , láttam, építettem!”","Alternative take on the famous ""I came, I saw, I conquered"" quote"
 Building.BadtideDrain.Description,Rosszvízár alatt rosszvíz folyik belőle,
 Building.BadtideDrain.DisplayName,Rosszvízcsatorna,
 Building.BadtideDrain.FlavorDescription,„Erre használták az embörök a csöveket? Fúj!” — Zsömi,"Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
@@ -184,7 +186,7 @@ Building.Bell.Description,Hangjával jelzi a munkanap kezdetét és végét.,Thi
 Building.Bell.DisplayName,Harang,A large metal bell
 Building.Bell.FlavorDescription,„A nap legjobb része a reggeli harangszó!” — Kazkó bá,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.Bench.DisplayName,Pad,
-Building.Bench.FlavorDescription,"Néha akad egy-egy rongáló, aki megeszi a közvagyont.",
+Building.Bench.FlavorDescription,"Néha akad egy-egy vandál, aki megeszi a közvagyont.",
 Building.Blockage.Description,"Természetes akadály, mely elállja a víz útját. Elbontható.",Demolished meaning removed by a worker.
 Building.Blockage.DisplayName,Hordalékkupac,"Not a dam since that's another building in game but if not possible it could be called a Natural Dam. Visually, it's a block made out of twigs and loose stones."
 Building.Blockage.FlavorDescription,"Nehéz elhinni, hogy volt idő, mikor a gát csak sárból meg gallyakból állt.",
@@ -236,6 +238,7 @@ Building.CoffeeBrewery.DisplayName,Kávéfőző,A building that brews coffee.
 Building.CoffeeBrewery.FlavorDescription,"Ha nem lennének fogyasztási korlátozások, a Vasfogak egyáltalán nem aludnának.",
 Building.CompactMechanicalPump.Description,"Az egyik oldalon beszívja, a másik oldalon kiereszti a vizet/rosszvizet.",
 Building.CompactMechanicalPump.DisplayName,Kompakt mechanikus szivattyú,
+Building.CompactMechanicalPump.FlavorDescription,"Ez szívás!","Play on words - the pump sucks water"
 Building.CompactWaterWheel.Description,"Kompakt generátor, amely a víz áramlását energiává alakítja.",
 Building.CompactWaterWheel.DisplayName,Kompakt vízkerék,A water wheel that's smaller than other versions.
 Building.CompactWaterWheel.FlavorDescription,Miért ne találnánk fel újra a vízkereket?,A play on 'can't reinvent the wheel'
@@ -258,6 +261,7 @@ Building.DanceHall.DisplayName,Táncterem,
 Building.DanceHall.FlavorDescription,"„Ne állj ott, mint egy Vasfog a szabadnapján – gyere táncolni!” — Zsömi",Iron Teeth must be the same as Faction.IronTeeth.DisplayName. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible.
 Building.DancePit.Description,"Iszapgödör, ahol a hódok levezethetik a feszültséget.",
 Building.DancePit.DisplayName,Táncgödör,
+Building.DancePit.FlavorDescription,"Ide jönnek a hódok, ha teljesítették a kvótát. Meg ha nem, akkor is. ",
 Building.DecontaminationPod.Description,"Gépesített fürdő, amely kivonat használatával megtisztítja a szennyezett hódokat.",Badwater should be the same as Good.Badwater.DisplayName.
 Building.DecontaminationPod.DisplayName,Tisztítófürdő,Ideally the name of the building should refer to the contamination effect on the beaver (Need.BadwaterContamination).
 Building.DecontaminationPod.FlavorDescription,"„Nem, Zsömi, nem ihatsz kivonatot. Beleestél a tartályba még kölyökkorodban!” — Nóra nagyi","Reference to Obelix from Asterix and Obelix falling into a cauldron. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
@@ -298,6 +302,7 @@ Building.DistrictCrossing.DisplayName,Kerülethatár,District should be the same
 Building.DistrictCrossing.FlavorDescription,Miért ment át a hód a kerülethatár másik oldalára?,"Referencing ""Why did a chicken cross a road"" jokes"
 Building.DomedGarden.Description,"Békés, természetközeli hely, ahol a hódok nyugalomra lelhetnek.",
 Building.DomedGarden.DisplayName,Kupolás kert,
+Building.DomedGarden.FlavorDescription,"A hódok itt a természetet csodálhatják... vagy a szomszédos gát látképét.",
 Building.DoubleDynamite.DisplayName,Dupla dinamit,Dynamite that makes 2 blocks deep hole
 Building.DoubleDynamite.FlavorDescription,"Arra az esetre, ha a radikálisnál radikálisabb megoldásra lenne szükség.","References extreme measures mentioned in Building.Dynamite.FlavorDescription. It's part of a set."
 Building.DoubleFloodgate.DisplayName,Dupla zsilip,
@@ -398,6 +403,7 @@ Building.Gristmill.Description,Növényeket őröl lisztté.,"Plant matter meani
 Building.Gristmill.DisplayName,Őrlőmalom,
 Building.Gristmill.FlavorDescription,A bonyolultabb étrenddel jött a többlépcsős feldolgozás igénye is.,
 Building.HallOfAbundance.DisplayName,A Bőség Nagyterme,"A big, covered intersection resembling a hall, decorated with plants to match Folktails identity of wishing for abundance of nature"
+Building.HallOfAbundance.FlavorDescription,"„Nem azért épült, hogy bőségért könyörögjünk, azért épült, mert már megvan.” — Tobzi","Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible."
 Building.Hammock.Description,Hintázó pihentőhely.,
 Building.Hammock.DisplayName,Függőágy,A free-standing hammock that beavers can rest in.
 Building.Hammock.FlavorDescription,"Régen fákhoz kötötték, mígnem néhány túlbuzgó fakivágás balesetet okozott.",
@@ -431,6 +437,10 @@ Building.ImpermeableFloor.DisplayName,Vízálló padló,"It's a metal floor tile
 Building.ImpermeableFloor.FlavorDescription,"Az egész akkor kezdődött, amikor egy hódnak elege lett a csöpögő tető hangjából.",
 Building.ImpermeablePowerShaft.Description,"A hajtást továbbítja, a vizet visszatartja.",
 Building.ImpermeablePowerShaft.DisplayName,Vízálló hajtótengely,Must be consistent with Building.PowerShaft.DisplayName. An axle which transfers power embedded in a block of wood which keeps it watertight.
+Building.ImpermeablePowerShaft.FlavorDescription,"„Ha nem látod a fogaskereket, akkor forog, vagy nem forog? Vagy mindkettő?” — Zsömi","Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
+Building.ImpermeableTubeway.Description,"Gyors, habár szűkös módja a közlekedésnek. Visszatartja a vizet.",The first sentence must be the same as Building.Tubeway.Description
+Building.ImpermeableTubeway.DisplayName,Vízálló surranócső,"A watertight version of the Building.Tubeway.DisplayName that doesn't allow liquids to go through it. Tubes are used as a network of large pipes for faster transportation around the map. Departure and arrival happens in Building.TubewayStation.DisplayName, so they should be named similarly."
+Building.ImpermeableTubeway.FlavorDescription,"A hódok bent is tudnak csövezni!","A play on the ""pipe dream"" expression referencing an actual pipe in this case"
 Building.Indicator.Description,"Visszajelző lámpa riasztási képességekkel.",An API URL which switches on this object.
 Building.Indicator.DisplayName,Visszajelző,"An building which is an indicator light - when it receives a signal it lights up and optionally raises an alarm. Alternative names: Alarm, Annunciator, Signal, Beacon."
 Building.Indicator.JournalEntryWhenSwitchedOn,Bekapcsoláskor adjon hozzá naplóbejegyzést,"A label for a toggle which makes this indicator add a journal entry when its input signal is switched on."
@@ -458,7 +468,7 @@ Building.LargePile.FlavorDescription,"A rönk bemegy, a rönk kijön. A rönk be
 Building.LargePowerWheel.Description,"Több munkást foglalkoztató, fejlett erőkerék.",
 Building.LargePowerWheel.DisplayName,Nagy erőkerék,
 Building.LargePowerWheel.FlavorDescription,A Vasfogak szerint ez is körhinta… csak kicsit hatékonyabb.,Iron Teeth must be the same as Faction.IronTeeth.DisplayName.
-Building.LargeRelic.FlavorDescription," „Néhány embör akkora volt, hogy ebből ettek.” — Tobzi","Large relic is a ruined radar dish, looks like a bowl. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible."
+Building.LargeRelic.FlavorDescription," „Néhány embör akkora volt, hogy ebből ettek.” — Tobzi","Large relic is a ruined radar dish, looks like a bowl. Suli is a younger beaver that likes to play tricks on their fellow beavers and isn't related to any faction in particular. Translated name shouldn't suggest a gender if possible."
 Building.LargeRowhouse.DisplayName,Nagy sorház,"A rowhouse is a narrow and tall house that is connected to other homes on both sides, often built in a row. Building.Rowhouse"
 Building.LargeRowhouse.FlavorDescription,Még több hód négyzetméterenként. Ez a haladás.,Referencing 'complex' meaning a group of buildings as well as a psychological behaviour.
 Building.LargeTank.DisplayName,Nagy tartály,
@@ -496,6 +506,7 @@ Building.LumberjackFlag.DisplayName,Favágó zászló,Flag' could also be a Post
 Building.LumberjackFlag.FlavorDescription,"„Rágjuk a fát jó érzékkel, de csak nappal, soha nem éjjel.” — népszerű hód nóta","Adapted from Monthy Python's ""Lumberjack Song"""
 Building.Massager.Description,"Nem gyengéd, de frissítő.",
 Building.Massager.DisplayName,Masszázságy,A mechanical massaging device.
+Building.Massager.FlavorDescription,"Ma egy kis fájdalom, holnap már termelékenység!",
 Building.MechanicalPump.Description,"Az egyik oldalon felszívja, a másik oldalon kiereszti a vizet/rosszvizet. Hatékonyabb, mint a kézi pumpa.",Badwater should be the same as Good.Badwater.DisplayName.
 Building.MechanicalPump.DisplayName,Mechanikus szivattyú,A mechanically powered water pump.
 Building.MechanicalPump.FlavorDescription,"Inkább a gép emelje át, mint a hód!",Running water meaning water that is moving.
@@ -549,7 +560,7 @@ Building.NaturalDam.Description,"Természetes képződmény, amely visszatartja 
 Building.NaturalDam.DisplayName,Természetes gát,
 Building.NaturalDam.FlavorDescription,"Hihetetlen, hogy voltak idők, mikor egy kupac sár és ág már gátnak számított!",
 Building.NaturalOverhang.Description,"Kinyúló szikla, amely szolgálhat hídként, vagy alapként más formációk és épületek számára. Visszatartja a vizet",
-Building.NaturalOverhang.FlavorDescription,"„Nézd meg, van-e lent víz, mielőtt ugrasz!” — Zsömi",
+Building.NaturalOverhang.FlavorDescription,"„Nézd meg, van-e lent víz, mielőtt ugrasz!” — Zsömi",
 Building.NaturalOverhang2x1.DisplayName,Természetes kinyúlás 2x1,This structure is a solid rock overhang. Numbers at the end denote size X by Y.
 Building.NaturalOverhang3x1.DisplayName,Természetes kinyúlás 3x1,This structure is a solid rock overhang. Numbers at the end denote size X by Y.
 Building.NaturalOverhang4x1.DisplayName,Természetes kinyúlás 4x1,This structure is a solid rock overhang. Numbers at the end denote size X by Y.
@@ -627,7 +638,7 @@ Building.Refinery.FlavorDescription,"A maradék csak akkor hulladék, ha nem tud
 Building.Relay.Description,"Egyszerű logikai műveleteket végez a bejövő jelen, vagy jeleken.",
 Building.Relay.DisplayName,Logikai jelfogó,The name of a building which can retransmit a signal or process it using boolean logic.
 Building.Relay.Mode.And,ÉS,A binaray logic AND operation. Only translate if you really have to but most languages should be better off OK with the English naming because it's a conventional name in electronics.
-Building.Relay.Mode.And.Description,"<YellowHighlight>Igaz</YellowHighlight>, ha mindkét bejövő jel  <YellowHighlight>igaz</YellowHighlight>.",A binary logic AND operation.
+Building.Relay.Mode.And.Description,"<YellowHighlight>Igaz</YellowHighlight>, ha minden bejövő jel  <YellowHighlight>igaz</YellowHighlight>.",A binary logic AND operation.
 Building.Relay.Mode.Not,NEM,A binary logic NOT operation. Only translate if you really have to but most languages should be better off OK with the English naming because it's a conventional name in electronics.
 Building.Relay.Mode.Not.Description,"<YellowHighlight>Igaz</YellowHighlight>, ha a bejövő jel  <YellowHighlight>hamis</YellowHighlight>.",A binary logic NOT operation.
 Building.Relay.Mode.Or,VAGY,A binary logic OR operation. Only translate if you really have to but most languages should be better off OK with the English naming because it's a conventional name in electronics.
@@ -635,7 +646,7 @@ Building.Relay.Mode.Or.Description,"<YellowHighlight>Igaz</YellowHighlight>, ha 
 Building.Relay.Mode.Passthrough,Továbbítás,An operation which forwards its input unchanged to its output.
 Building.Relay.Mode.Passthrough.Description,"<YellowHighlight>Igaz</YellowHighlight>, ha a bejövő jel <YellowHighlight>igaz</YellowHighlight>.",An operation which forwards its input unchanged to its output.
 Building.Relay.Mode.Xor,Kizáró VAGY,A binary logic XOR operation. Only translate if you really have to but most languages should be better off OK with the English naming because it's a conventional name in electronics.
-Building.Relay.Mode.Xor.Description,"<YellowHighlight>Igaz</YellowHighlight>, ha a bejövő jelek közül az egyik, és csak az egyik <YellowHighlight>igaz</YellowHighlight>.",A binary logic XOR operation.
+Building.Relay.Mode.Xor.Description,"<YellowHighlight>Igaz</YellowHighlight>, ha a bejövő jelek közül páratlan számú <YellowHighlight>igaz</YellowHighlight>.",A binary logic XOR operation.
 Building.Relic.Description,Ősi technológia. Elbontásával a hódok nagyot lépnek előre a tudományban.,
 Building.Relic.DisplayName,Ereklye,Remains of a human structure/device that can be demolished to obtain a certain amount of the Science resource
 Building.ReservePile.DisplayName,Régi halom,
@@ -667,6 +678,7 @@ Building.Ruins.DisplayName,Romok,
 Building.Ruins.FlavorDescription,"Az emberi világ romjai között a hódok olyan kincset találtak, ami még a fánál is többet ért.",
 Building.Sauna.Description,"Nyitott tetős szauna, ahol a hódok minden gondjuk elfeledhetik.",
 Building.Sauna.DisplayName,Szauna,
+Building.Sauna.FlavorDescription,"„Kruplifőzésre is jó-e vajon?” — Nóra nagyi",""References steaming potatoes""
 Building.Scarecrow.Description,"Jól néz ki, és elvileg elriasztja a madarakat.",
 Building.Scarecrow.DisplayName,Madárijesztő,
 Building.Scarecrow.FlavorDescription,A jó madárijesztő csendben dolgozik.,
@@ -1446,8 +1458,12 @@ MapMetadata.Meander.Name,Folyókanyar,
 MapMetadata.MountainRange.Description,A friss víz reményében a hódok még a legmagasabb hegyeket is megmásszák.,
 MapMetadata.MountainRange.Name,Hegylánc,
 MapMetadata.NotUpdatedDescription,<RedHighlight>Ez a térkép még nem kompatibilis az kísérleti ággal!</RedHighlight>,
+MapMetadata.Nomads.Description,"A legtapasztaltabb hódoknak is kihívás a terep, ahol minden ciklus új mederbe tereli a folyót, és a helyben maradás egyenlő a halállal.",
+MapMetadata.Nomads.Name,Nomádok,"The map involves a lot of travelling around - the player needs to constantly move their settlement from place to place"
 MapMetadata.Oasis.Description,"Eldugott zöld menedék a sivatagban, vízzáró réteg forrásokkal kürölvéve, melyeket a leleményes hódmérnökök kihasználhatnak.",Aquifer refers to Building.Aquifer.DisplayName
 MapMetadata.Oasis.Name,Oázis,
+MapMetadata.Pillars.Description,"Habár a magas fennsíkok mededéket nyújtanak az alant folyó rosszvíz elől, a településed túlélése csakis a leleményességeden és kitartásodon múlik!",
+MapMetadata.Pillars.Name,Oszlopok,"The map is filled with tall rock pillars / plateaus"
 MapMetadata.Plains.Description,"Olyan lapos, mint a hód farka. Ideális hely kezdő mérnökök számára.",
 MapMetadata.Plains.Name,Alföld,
 MapMetadata.Pressure.Description,"A kreatív vízelvezetés az első készség, amelyet a sivatagi hódmérnöknek el kell sajátítania.",
@@ -1592,6 +1608,8 @@ NaturalResource.Soybean.FlavorDescription,"Kemény és vízálló, a magjai tök
 NaturalResource.Spadderdock.DisplayName,Tavirózsa,Plant Nuphar Lutea
 NaturalResource.Spadderdock.FlavorDescription,A természet a levelek formáján keresztül üzen.,"Spadderdock has heart-shaped leaves, and it can be seen in the game."
 NaturalResource.Succulent.DisplayName,Pozsgás növény,"A kind of plant that can be found in the desert, it is usually green and spiky."
+NaturalResource.Succulent.FlavorDescription,"„Enni, vagy nem enni? Ez itt a kérdés.”
+— Egy szomjas hód","Alternative take on the Hamlet's ""To be or not to be"" quote"
 NaturalResource.Sunflower.DisplayName,Napraforgó,
 NaturalResource.Sunflower.FlavorDescription,"Hódok ezeket termesztik, hogy megmutassák, nem félnek a tűző naptól.",It's a reference to drought being the main threat in the game.
 NaturalResource.Wheat.DisplayName,Búza,Plant Triticum aestivum
